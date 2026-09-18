@@ -55,16 +55,6 @@ Create a folder `data` in your computer, where you collect the texts to work wit
 
 
 
-## Requirements and tools
-
-- Markdown
-- XML
-
-- Text and code editor (VS-Codium or other)
-- Up-to-date browser (Firefox or Chrome/Chromium)
-- Jupyter Notebooks
-
-
 ## Assignment
 
 For the assignment, you create your own analysis of one or more texts.
@@ -88,3 +78,25 @@ Corpus: one or more texts of your choice or ask for it.
 You may use LLMs and AI assistants for this course and for the assignment under two conditions:
 - Document it. State which tools you used and for which steps.
 - Check it. You are responsible for every claim and every reference.
+
+
+
+## Tools and more
+
+**Markdown**
+- If you have never encountered Markdown before, please follow the tutorial at https://www.markdowntutorial.com/ (use the English version only).
+
+**XML**
+
+**Text and code editor**
+- Recommended: [VSCodium](https://vscodium.com).
+
+**Up-to-date browser**
+- Recommended: Firefox or Chrome/Chromium.
+
+**Jupyter Notebooks**
+- Read the page and then [install](https://jupyter.org/install).
+
+**Regular expressions**
+- Tutorials online, for example https://www.regexone.com/ and https://regexlearn.com/. 
+- A regex **cheat sheet** is available at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet.

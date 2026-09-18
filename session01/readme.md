@@ -6,7 +6,7 @@ If you are not familiar with regular expressions (regex), follow an online **tut
 
 A regex **cheat sheet** is available at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet. 
 
-Once you understand the basics of regex, find patterns in the first chapter of TGG. You can use https://regex101.com/ for running the regular expressions.
+Once you understand the basics of regex, find patterns in the **first chapter of TGG**. You can use https://regex101.com/ or a text editor for running the regular expressions.
 
 
 
@@ -24,7 +24,8 @@ Solution
 ```
 
 Limitations?
-<!-- Quando due dialoghi sulla stessa linea, inframmezzati da parole, niente -->
+<!-- Quando due dialoghi sulla stessa linea, inframmezzati da parole, niente
+cose tra double quotes che non sono dialoghi -->
 
 ## Find every two-word proper noun
 
@@ -71,7 +72,7 @@ Limitations?
 # Homework
 
 **Reading**
-Read: Geoffrey Rockwell and Stéfan Sinclair, "The Measured Words: How Computers Analyze Text", in *Hermeneutica: Computer-Assisted Interpretation in the Humanities*, MIT Press, 2016 [available in ILIAS].
+- Geoffrey Rockwell and Stéfan Sinclair, "The Measured Words: How Computers Analyze Text", in *Hermeneutica: Computer-Assisted Interpretation in the Humanities*, MIT Press, 2016 [available in ILIAS].
 
 **Organise the corpus**
 - Download `FITZ-TGG-25`, `CATH-ALL-23`, and `HEMI-TSAR-26` in Plain Text from Project Gutenberg (you don't remember what these codes stand for? See [Corpus](../README.md))
@@ -83,3 +84,6 @@ Read: Geoffrey Rockwell and Stéfan Sinclair, "The Measured Words: How Computers
 
 **Markdown**
 - If you have never encountered Markdown before, please follow the tutorial at https://www.markdowntutorial.com/ (use the English version only).
+
+**VSCodium**
+- Install [VSCodium](https://vscodium.com).
