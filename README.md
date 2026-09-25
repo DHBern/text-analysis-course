@@ -10,7 +10,7 @@ Instructor: Elena Spadini.
 | Date  | Topic                                           | Notes                         | Corpus |
 | ----- | ----------------------------------------------- | ----------------------------- | --- |
 | 18.09 | Intro and [regex](session01/readme.md)                                 |                               | TGG |
-| 25.09 | Voyant Tools                                    | With Ursula Loosli (Unibe)           | TGG+ |
+| 25.09 | [Voyant Tools](session02/readme.md)                                    | With Ursula Loosli (Unibe)           | TGG+ |
 | 2.10  | Lexical diversity                               |                               | TGG+ |
 | 9.10  | Word embeddings                       |                               | TGG+ |
 | 16.10 | Tokenization, lemmatization, and POS tagging    |                               | TGG |
