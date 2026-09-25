@@ -1,5 +1,4 @@
-
-- Geoffrey Rockwell and Stéfan Sinclair, "The Measured Words: How Computers Analyze Text", in *Hermeneutica: Computer-Assisted Interpretation in the Humanities*, MIT Press, 2016 [available in ILIAS].
+Geoffrey Rockwell and Stéfan Sinclair, "The Measured Words: How Computers Analyze Text", in *Hermeneutica: Computer-Assisted Interpretation in the Humanities*, MIT Press, 2016 [available in ILIAS].
 
 - How computers handle text files
 - **Character-encoding**, you can try with extensions in the browser or in a text editor
