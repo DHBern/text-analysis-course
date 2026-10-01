@@ -23,8 +23,6 @@ Lexical items (basic unit for calculating lexical richness) can be words, lemmas
 <table>
 	<tr>
 		<td><img src="type-lemma_Kyle2019.png" alt="Type-lemma relationship"></td>
-	</tr>
-    <tr>
 		<td><img src="type-token_Kyle2019.png" alt="Type-token relationship"></td>
 	</tr>
 </table>
@@ -55,10 +53,4 @@ McCarthy and Jarvis (2010) analyzed a large corpus of written narrative and expo
 
 > **frequency** is measured by comparing the lexical items in a written or spoken text with their frequency in a reference corpus. [... Example of reference corpora:] British National Corpus (BNC Consortium, 2007) and the Corpus of Contemporary American English (COCA; Davies, 2010).
 
-
-## Examples
-
-Lexical diversity in practice.
-
-- Spadini, E. (2024). Standardised Type Token Ratio in Shakespeare's monologues [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10655793
 
