@@ -62,5 +62,8 @@ Go to [this notebook](LexicalDiversity.ipynb) to try it out.
 # Homeworks
 
 - Calculate TTR and MATTR for the three works in our corpus
+
 - Calculate TTR and MATTR for three texts you know well (can be your own texts)
+	- If you are on mybinder, choose the Upload button
+	 
 - Read: Underwood, Ted. “Algorithmic Modeling: Or, Modeling Data We Do Not yet Understand.” In *The Shape of Data in Digital Humanities*. Routledge, 2018. [in ILIAS. Find two links with previous readings]
