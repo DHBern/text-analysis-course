@@ -54,3 +54,9 @@ McCarthy and Jarvis (2010) analyzed a large corpus of written narrative and expo
 > **frequency** is measured by comparing the lexical items in a written or spoken text with their frequency in a reference corpus. [... Example of reference corpora:] British National Corpus (BNC Consortium, 2007) and the Corpus of Contemporary American English (COCA; Davies, 2010).
 
 
+
+# Homeworks
+
+- Calculate TTR and MATTR for the three works in our corpus
+- Calculate TTR and MATTR for three texts you know well (can be your own texts)
+- Read: Underwood, Ted. “Algorithmic Modeling: Or, Modeling Data We Do Not yet Understand.” In *The Shape of Data in Digital Humanities*. Routledge, 2018. [in ILIAS. Find two links with previous readings]
