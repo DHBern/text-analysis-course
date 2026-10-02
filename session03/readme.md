@@ -47,6 +47,10 @@ McCarthy and Jarvis (2010) analyzed a large corpus of written narrative and expo
 - Average TTR value for all overlapping segments of the text of a specified length (e.g., 50 words).
 
 
+**Practice**
+Go to [this notebook](LexicalDiversity.ipynb) to try it out.
+
+
 ### Lexical sophistication
 
 > the “number of low frequency words that are appropriate to the topic and style of writing” (Read, 2000, p. 200). This definition highlights the importance that reference-corpus frequency has played in defining the construct.
