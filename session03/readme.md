@@ -61,9 +61,14 @@ Go to [this notebook](LexicalDiversity.ipynb) to try it out.
 
 # Homeworks
 
-- Calculate TTR and MATTR for the three works in our corpus
+### 1
+Attention: If you don't know what a relative or absolute path is, you can find various online resources that explain it (e.g. https://phoenixnap.com/kb/absolute-path-vs-relative-path, https://www.geeksforgeeks.org/operating-systems/path-name-in-file-directory/). If you still have doubts, please let me know and we can look into it in class.
 
-- Calculate TTR and MATTR for three texts you know well (can be your own texts)
-	- If you are on mybinder, choose the Upload button
-	 
-- Read: Underwood, Ted. “Algorithmic Modeling: Or, Modeling Data We Do Not yet Understand.” In *The Shape of Data in Digital Humanities*. Routledge, 2018. [in ILIAS. Find two links with previous readings]
+Open the notebook file 'LexicalDiversity.ipynb'. Add new cells to calculate TTR and MATTR for the three works in our corpus and for the three texts you know well. Save it as 'YourSurname_LexicalDiversity.ipynb'.Upload this notebook file to ILIAS.
+
+Attention:
+- There is a comment in the code indicating where you have to change the PATH to point to the txt files of the three novels; this is the only change needed in the code.
+- If you want to upload your files to mybinder, use the Upload button (top left). You don't need to upload the additional txt files to ILIAS.
+
+### 2	 
+Read: Underwood, Ted. “Algorithmic Modeling: Or, Modeling Data We Do Not yet Understand.” In *The Shape of Data in Digital Humanities*. Routledge, 2018. [in ILIAS. Find two links with previous readings]

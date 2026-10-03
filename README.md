@@ -19,8 +19,7 @@ Instructor: Elena Spadini.
 | 6.11  | Network analysis                                |                               | TGG |
 | 13.11 | Network analysis                                | With José Luis Losada Palenzuela (Unibas) | TGG+ |                             |
 | 20.11 | Infoclio Conference (see below)                 |                               |
-| 27.11 | Data visualisations                             | To be rescheduled (see below) |
-| 4.12  | Case study 2: the workflow                      |                               | TGG |
+| 4.12  | Data visualisations + Case study 2: the workflow                      |                               | TGG |
 | 11.12 | Case study 2: gender agency in dialogues                                 |                               | TGG
 | 18.12 | Presentations                                   |                               | |
 
@@ -28,13 +27,10 @@ Instructor: Elena Spadini.
 ## Calendar
 
 **Infoclio Conference 2026**
-On the 20th of November, we go to the https://www.infoclio.ch/en/programm-tagung2026.
-Please confirm to me you will be able to attend 10:00-12:00.
-If you want to stay for the whole day, you will have to pay the registration fee of 15 CHF. This is not mandatory.
+On the 20th of November, we go to the https://www.infoclio.ch/en/programm-tagung2026 from 10:00 to 12:00. If you want to stay for the whole day, you will have to pay the registration fee of 15 CHF.
 
 **Reschedule**
-On the 27th of November, our lesson is cancelled.
-This lesson is rescheduled to … 23rd or 30th of November ?
+On the 27th of November, our lesson is cancelled. This class is rescheduled to the 4th of December, when our course will be longer: from 9:15 to 12:45.
 
 
 ## Corpus
