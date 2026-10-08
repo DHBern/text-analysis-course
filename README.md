@@ -10,17 +10,17 @@ Instructor: Elena Spadini.
 | Date  | Topic                                           | Notes                         | Corpus |
 | ----- | ----------------------------------------------- | ----------------------------- | --- |
 | 18.09 | Intro and [regex](session01/readme.md)                                 |                               | TGG |
-| 25.09 | [Voyant Tools](session02/readme.md)                                    | With Ursula Loosli (Unibe)           | TGG+ |
+| 25.09 | [Voyant Tools](session02/readme.md)                                    | With Ursula Loosli (UniBE)           | TGG+ |
 | 2.10  | [Lexical diversity](session03)                               |                               | TGG+ |
-| 9.10  | Word embeddings                       |                               | TGG+ |
-| 16.10 | Tokenization, lemmatization, and POS tagging    |                               | TGG |
-| 23.10 | Case study 1: the workflow                      |                               | Frankestein |
-| 30.10 | Case study 1: categorising variants |                               | Frankestein |
-| 6.11  | Network analysis                                |                               | TGG |
-| 13.11 | Network analysis                                | With José Luis Losada Palenzuela (Unibas) | TGG+ |                             |
+| 9.10  | [Tokenization, lemmatization, and POS tagging](session04)                       |                               | TGG |
+| 16.10 |  TF/IDF (distinctiveness) and BERTtopic   |                               | TGG+ |
+| 23.10 | Embeddings and similarity                      |                               | TGG+ |
+| 30.10 | Case study 1. Zero-shot classification |                               | Frankestein |
+| 6.11  | Case study 1. Unsupervised clustering                                |                               | Frankestein |
+| 13.11 | Case study 2. Agency and gender                                |  | TGG+ |                             |
 | 20.11 | Infoclio Conference (see below)                 |                               |
-| 4.12  | Data visualisations + Case study 2: the workflow                      |                               | TGG |
-| 11.12 | Case study 2: gender agency in dialogues                                 |                               | TGG
+| 4.12  | Data visualisations + Case study 2                      |  With Tommaso Elli (UniBE)                             | TGG+ |
+| 11.12 | Case study 2                                 |                               | TGG+
 | 18.12 | Presentations                                   |                               | |
 
 
@@ -59,10 +59,7 @@ Two deliverables:
 - An oral presentation, during the last session
 - A Jupyter Notebook
 
-Methods: you can choose between
-- word embeddings
-- network analysis
-- a mixed workflow including LLMs and traditional NLP approaches (lexical diversity, lemmatisation, POS tagging).
+Methods: you can combine at least two of the methods used during the course; one of them should come from lessons 5-8.
 
 Corpus: one or more texts of your choice or ask for it.
 
