@@ -1,3 +1,6 @@
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DHBern/text-analysis-course/HEAD)
+
 # Text Analysis Course
 
 Digital Humanities Master. University of Bern.
