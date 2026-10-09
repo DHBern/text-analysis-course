@@ -4,6 +4,8 @@ A Jupyter Notebook is first of all a file, like a normal file on your computer, 
 
 A Jupyter Notebook is a special sort of file, because it can contain text (to be read) and code (to be run, or executed): the text is written in the Markdown markup language and the code in the Python programming language.
 
+In the Run and Kernel drop-down menus in the Jupyter toolbar, you find options to run all the cells or to clear all the outputs of the executable cells.
+
 To open a Jupyter Notebook you will need the right environment, just as to open a .docx file you need Microsoft Word or another program capable of doing it. There are several options listed here below.
 
 ## Platforms to run notebooks (no local installation required)
@@ -21,9 +23,12 @@ To open a Jupyter Notebook you will need the right environment, just as to open 
 4. Move inside the cloned repo: `cd text-analysis-course/`
 5. Create a virtual environment: `python3 -m venv .venv`
 6. Activate the virtual environment: `source .venv/bin/activate`
-7. Install Dependencies: `pip install -r requirements.txt`
+7. Install dependencies: `pip install -r requirements.txt`
 8. Register Jupyter kernel, in order for JupyterLab to recognize the environment: `pip install ipykernel`  and `python -m ipykernel install --user --name=.venv --display-name="Python (Repo Env)"`
 9. Apply the kernel to your notebook: open your `.ipynb` file, click the kernel name in the top-right corner, and select 'Python (Repo Env)'.
+
+### Download
+**When you are working in mybinder or Noto, nothing is saved to your computer. Remember to download the notebook and other files, if you want to save them!**
 
 
 ## Local installation
