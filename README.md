@@ -16,7 +16,7 @@ Instructor: Elena Spadini.
 | 25.09 | [Voyant Tools](session02/readme.md)                                    | With Ursula Loosli (UniBE)           | TGG+ |
 | 2.10  | [Lexical diversity](session03)                               |                               | TGG+ |
 | 9.10  | [Tokenization, lemmatization, and POS tagging](session04)                       |                               | TGG |
-| 16.10 |  TF/IDF (distinctiveness) and BERTtopic   |                               | TGG+ |
+| 16.10 |  [BoW and TF/IDF (distinctiveness)](session05)  |                               | TGG+ |
 | 23.10 | Embeddings and similarity                      |                               | TGG+ |
 | 30.10 | Case study 1. Zero-shot classification |                               | Frankestein |
 | 6.11  | Case study 1. Unsupervised clustering                                |                               | Frankestein |
