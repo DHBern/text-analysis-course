@@ -91,7 +91,7 @@ You may use LLMs and AI assistants for this course and for the assignment under 
 - Recommended: Firefox or Chrome/Chromium.
 
 **Jupyter Notebooks**
-- Read the page and then [install](https://jupyter.org/install).
+- We run notebooks in [myBinder](notebooks.md).
 
 **Regular expressions**
 - Tutorials online, for example https://www.regexone.com/ and https://regexlearn.com/. 
