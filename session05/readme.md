@@ -60,47 +60,6 @@ Read:
 
 
 
-<!--
-# From counting words to meaning
-
-Look for hidden semantic structure.
-
-Latent Semantic Analysis (LSA). Words are not independent, if they happen together they must be related in meaning: distributional hypothesis. Singular Value Decomposition (SVD). Huge sparse document matrix and factorise it, break it down. Find main axes of variation in your data: doc-topics, stregnths of topics, terms-topics. Matrix with 100'000 dimensions, but then you only keep the top dimensions that represents the strongest signal --> force the model to generalise.
-
-Solve synonymes problem
-
-Applications: search, document clustering, cross language information retrieval.
-
-CONS:
-- Computational cost, especially in the 90's
-- Theoretical problem: assume data follows Gaussian or normal distribution. But word counts are discrete, do not work like data.
-
-**Latent Dietricht Allocation (LDA)**
-
-Every document is a random mix of hidden topics and each topic is a distribution over words. LDA looks at the document and try to infer the topics backwords. No need for label data, analyse how words co-occur. If some words occur often together, they should belong to the same topic.
-
-Conceptual clustering.
-
-Applications: research, historical patterns, event detection.
-
-Dynamic Topic Model (DTM).
-
-Syntax + Semantic = POS LDA, understand elements of grammar, filter out noise.
-
-
-**Neural networks**
-From high dimensional sparse vectors to low dimensional dense ones --> embeddings.
-
-Model how words relate to their immediate neighbours. --> understand sequence in context.
-
--->
-
-  
-
-
-
-
-
 
 
 
