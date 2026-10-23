@@ -2,7 +2,7 @@
 - Results of MATTR on additional corpus --> data/additional/Cather-Fitzgerald-Hemingway.pdf
 - Does it make sense to lemmatise before doing TF-IDF? 
 
-## Manual classification
+## Frankestein
 
 See https://shelleygodwinarchive.org/
 - *Frankestein*: https://shelleygodwinarchive.org/contents/frankenstein/
@@ -13,12 +13,36 @@ Variants extracted (XML > CSV).
 
 <img src="exampleVariantsCategories.png">
 
-## Formal similarity
+
+## Manual and computational analysis
 See [notebook](Variants-clustering.ipynb).
 
+Categories discussed in the classroom:
+
+- **error**
+  - typos
+  - grammatical problems
+
+- **substantive** variation, meaning change
+
+- language improved, better word choice, **vocabulary** (water vs lake)
+  - precision
+  - style, sophistication
+  - more effective, punchiness
+  - intensity
+  - synonyms
+
+
+
 ## Homeworks
-- Find information about the writing of *Frankestein* and about the collaboration between Mary and Percy Shelley.
-- Annotate 30 variants with the categories decided together and upload them to ILIAS (exercise: Create ground truth).
+
+- Analyse `variants_features.csv`
+  - Edit distance between A and B. A very small distance suggests a spelling correction (“unatainable” → “unattainable”). A large one suggests a real rewording. **Letter similarity** --> Kerrie
+  - Length change in words. **Number of words added/removed** --> Carmiella
+  - Change of **case** only --> Mateenuddin (who does these changes)
+  - Same **lemma**? --> Noah
+
+- Manually annotate 30 variants with the categories decided together (error, substantive, vocabulary) and upload them to ILIAS (exercise: Create ground truth).
+
 - Read:
   - Suddaby, Lee, and Gordon J. Ross. “Did Mary Shelley Write Frankenstein? A Stylometric Analysis.” *Digital Scholarship in the Humanities* 38, no. 2 (2023): 750–65. https://doi.org/10.1093/llc/fqac061. \[until section 3.1, then 8 and Appendix B\]
-
