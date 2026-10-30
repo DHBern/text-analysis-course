@@ -23,22 +23,22 @@ Can a computer sort the Frankenstein variants into our categories (**error**, **
 ### See notebooks
 1. Zero Shot Classification
    - [only zero-shot](zero_shot_variants_all.ipynb)
-     - 39% accuracy on gt
+     - 39% accuracy on gt_manual
      - 42% accuracy on gt_fake
    - [first identify errors](zero_shot_variants_except-errors-similarity.ipynb) **TODO CORRECT**
-     - 65% accuracy on gt
+     - 65% accuracy on gt_manual
      - 72% accuracy on gt_fake
 1. [Few-shot prompting with LLM](LLM-classification.ipynb) **TODO CORRECT**
-   - 70% accuracy on gt using qwen3.8-27b
-   - 48% accuracy on gt using gpt-oss-120b
-   - 87% accuracy on gt_fake using qwen3.8-27b
+   - 59% accuracy on gt_manual using qwen3.8-27b
+   - 48% accuracy on gt_manual using gpt-oss-120b
+   - 91% accuracy on gt_fake using qwen3.8-27b
    - 91% accuracy on gt_fake using gpt-oss-120b
 
 
 ## Ground truth
 
-- `gt.csv` = manually annotated by you
-- `gt_fake.csv` = produced by LLM for testing purpose
+- `gt_manual.csv` = a random selection of 60 variants from the corpus, manually annotated by you
+- `gt_fake.csv` = a selection of 60 simple variants from the corpus, annotated by LLM
 
 
 ## Homework
