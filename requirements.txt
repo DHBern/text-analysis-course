@@ -5,3 +5,5 @@ scikit-learn
 pandas
 gensim
 matplotlib
+python-dotenv
+requests

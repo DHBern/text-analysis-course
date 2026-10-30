@@ -38,3 +38,7 @@ Requirement: Python
 Install: https://jupyter.org/install
 
 Follow steps 2 to 7 from the Noto instructions here above.
+
+Alternative quick and dirty: `pip install jupyterlab pandas requests` for running `session07/LLM-classification.ipynb`.
+
+A local installation is needed to talk to GPUStack, because GPUStack is only accessible within the university network (at Unibe or through VPN) and the virtual machines created by mybinder and other platforms are not in the university network.
