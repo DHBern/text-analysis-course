@@ -18,14 +18,12 @@ To open a Jupyter Notebook you will need the right environment, just as to open 
 
 ### Noto
 1. Go to https://noto.epfl.ch and login with Switch.
-2. From the launcher, open the Terminal.
-3. Clone the repository by typing the the following command: `git clone https://github.com/DHBern/text-analysis-course.git`
-4. Move inside the cloned repo: `cd text-analysis-course/`
-5. Create a virtual environment: `python3 -m venv .venv`
-6. Activate the virtual environment: `source .venv/bin/activate`
-7. Install dependencies: `pip install -r requirements.txt`
-8. Register Jupyter kernel, in order for JupyterLab to recognize the environment: `pip install ipykernel`  and `python -m ipykernel install --user --name=.venv --display-name="Python (Repo Env)"`
-9. Apply the kernel to your notebook: open your `.ipynb` file, click the kernel name in the top-right corner, and select 'Python (Repo Env)'.
+2. Choose the Git icon on the left (forth from top left).
+3. Click on the button 'Clone a Repository'.
+4. Enter the URI of the remote Git repository: https://github.com/DHBern/text-analysis-course
+5. Check 'Include submodules' and 'Download the repository'.
+The repository will load. If you have any problem, contact Elena.
+
 
 ### Download
 **When you are working in mybinder or Noto, nothing is saved to your computer. Remember to download the notebook and other files, if you want to save them!**
@@ -35,12 +33,18 @@ To open a Jupyter Notebook you will need the right environment, just as to open 
 
 Requirement: Python
 
-Install: https://jupyter.org/install
-
-Follow steps 2 to 7 from the Noto instructions here above.
+1. Install: https://jupyter.org/install
+2. Open the Terminal.
+3. Clone the repository by typing the the following command: `git clone https://github.com/DHBern/text-analysis-course.git`
+4. Move inside the cloned repo: `cd text-analysis-course/`
+5. Create a virtual environment: `python3 -m venv .venv`
+6. Activate the virtual environment: `source .venv/bin/activate`
+7. Install dependencies: `pip install -r requirements.txt`
+8. Register Jupyter kernel, in order for JupyterLab to recognize the environment: `pip install ipykernel`  and `python -m ipykernel install --user --name=.venv --display-name="Python (Repo Env)"`
+9. Apply the kernel to your notebook: open your `.ipynb` file, click the kernel name in the top-right corner, and select 'Python (Repo Env)'.
 
 -----------
 
-Alternative quick and dirty, for running `session07/LLM-classification.ipynb`: in the terminal, run `pip install jupyterlab pandas requests`. This should install everything you need to run that script.
+Alternative quick and dirty if you already have Python, for running `session07/LLM-classification.ipynb`: in the terminal, run `pip install jupyterlab pandas requests`. This should install everything you need to run that script.
 
 A local installation is needed to talk to GPUStack, because GPUStack is only accessible within the university network (at Unibe or through VPN) and the virtual machines created by mybinder and other platforms are not in the university network.

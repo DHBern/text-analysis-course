@@ -43,10 +43,12 @@ Can a computer sort the Frankenstein variants into our categories (**error**, **
 
 ## Homework
 
-[Classifying paragraphs by theme](homework/homework.ipynb): the same two approaches (zero-shot classification and few-shot prompting with LLM), used on a different dataset (`data/ALL_paragraphs`, 150 paragraphs from our three) with new categories (**social class**, **nature**, **love**).
-
-- `homework/gt_empty.csv` = to be annotated by you (optional)
-- `homework/gt_fake.csv` = produced by LLM for testing purpose
+1. Read and run the two notebooks in this session. Mybinder does not work here, please use Noto (follow the instructions in [helpme](../helpme/notebooks.md)).
+2. optionally also `LLM-classification.ipynb` (need local installation, see [helpme](../helpme/notebooks.md) and/or contact Elena).
+3. Classifying paragraphs by theme: the same two approaches (zero-shot classification and few-shot prompting with LLM) on a different dataset (`data/ALL_paragraphs`, 150 paragraphs from our three novels) with new categories (**social class**, **nature**, **love**). See folder `session07/homework`:
+   1. `gt_empty.csv` = ground truth to be annotated by you (optional)
+   2. `gt_fake.csv` = ground truth annotated by LLM for testing purpose
+   3. `homework.ipynb` = notebook to read (until the end, there are exercises) and run. Mybinder does not work here, please use Noto (follow the instructions in [helpme](../helpme/notebooks.md)). 
 
 
 ## More about BART-MNLI
@@ -97,7 +99,5 @@ Example
 - Bag of words (session 5). Same word, same count: no difference.
 - Word embeddings. One vector per word: still no difference.
 - Transformer. A different vector in each sentence, depending on the context: **contextual embeddings**.
-
-Static embeddings give one vector per word **type**; contextual embeddings give one vector per **token**, depending on the sentence around it.
 
 BUT, in the transformer architecture, the unit isn’t always a whole word. Transformers cut rare words into pieces: “igmmatic” might become ig + mm + atic, and each piece gets its own vector. This is also why BART-MNLI is bad at spelling.
