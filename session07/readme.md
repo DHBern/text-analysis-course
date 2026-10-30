@@ -44,11 +44,13 @@ Can a computer sort the Frankenstein variants into our categories (**error**, **
 ## Homework
 
 1. Read and run the two notebooks in this session. Mybinder does not work here, please use Noto (follow the instructions in [helpme](../helpme/notebooks.md)).
-2. optionally also `LLM-classification.ipynb` (need local installation, see [helpme](../helpme/notebooks.md) and/or contact Elena).
-3. Classifying paragraphs by theme: the same two approaches (zero-shot classification and few-shot prompting with LLM) on a different dataset (`data/ALL_paragraphs`, 150 paragraphs from our three novels) with new categories (**social class**, **nature**, **love**). See folder `session07/homework`:
-   1. `gt_empty.csv` = ground truth to be annotated by you (optional)
-   2. `gt_fake.csv` = ground truth annotated by LLM for testing purpose
-   3. `homework.ipynb` = notebook to read (until the end, there are exercises) and run. Mybinder does not work here, please use Noto (follow the instructions in [helpme](../helpme/notebooks.md)). 
+
+2. (optional) Read and run `LLM-classification.ipynb` (need local installation, see [helpme](../helpme/notebooks.md) and/or contact Elena).
+
+3. Classifying paragraphs by theme: the same two approaches (zero-shot classification and few-shot prompting with LLM) on a different dataset (`data/ALL_paragraphs`, 150 paragraphs from our three novels) with new categories (**social class**, **nature**, **love**). What is in the `session07/homework` folder?
+   - `gt_empty.csv`, ground truth to be annotated by you (optional)
+   - `gt_fake.csv`, ground truth annotated by LLM for testing purpose
+   - `homework.ipynb`, notebook to read (until the end, there are exercises) and run. As above, Mybinder does not work here, please use Noto (follow the instructions in [helpme](../helpme/notebooks.md)). 
 
 
 ## More about BART-MNLI
