@@ -23,16 +23,16 @@ Can a computer sort the Frankenstein variants into our categories (**error**, **
 ### See notebooks
 1. Zero Shot Classification
    - [only zero-shot](zero_shot_variants_all.ipynb)
-     - 39% accuracy on gt_manual
+     - 48% accuracy on gt_manual
      - 42% accuracy on gt_fake
-   - [first identify errors](zero_shot_variants_except-errors-similarity.ipynb) **TODO CORRECT**
-     - 65% accuracy on gt_manual
-     - 72% accuracy on gt_fake
-1. [Few-shot prompting with LLM](LLM-classification.ipynb) **TODO CORRECT**
+   - [first identify errors](zero_shot_variants_except-errors-similarity.ipynb)
+     - 48% accuracy on gt_manual
+     - 37% accuracy on gt_fake
+2. [Few-shot prompting with LLM](LLM-classification.ipynb)
    - 59% accuracy on gt_manual using qwen3.8-27b
-   - 48% accuracy on gt_manual using gpt-oss-120b
+   - 67% accuracy on gt_manual using gpt-oss-120b
    - 91% accuracy on gt_fake using qwen3.8-27b
-   - 91% accuracy on gt_fake using gpt-oss-120b
+   - 87% accuracy on gt_fake using gpt-oss-120b
 
 
 ## Ground truth
