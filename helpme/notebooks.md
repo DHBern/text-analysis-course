@@ -45,6 +45,6 @@ Requirement: Python
 
 -----------
 
-Alternative quick and dirty if you already have Python, for running `session07/LLM-classification.ipynb`: in the terminal, run `pip install jupyterlab pandas requests`. This should install everything you need to run that script.
+Alternative quick and dirty if you already have Python, for running `session07/LLM-classification.ipynb`: in the terminal, run `pip install jupyterlab pandas requests python-dotenv`. This should install everything you need to run that script.
 
 A local installation is needed to talk to GPUStack, because GPUStack is only accessible within the university network (at Unibe or through VPN) and the virtual machines created by mybinder and other platforms are not in the university network.

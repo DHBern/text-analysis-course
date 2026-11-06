@@ -17,9 +17,9 @@ Instructor: Elena Spadini.
 | 2.10  | [Lexical diversity](session03)                               |                               | TGG+ |
 | 9.10  | [Tokenization, lemmatization, and POS tagging](session04)                       |                               | TGG |
 | 16.10 |  [BoW and TF/IDF (distinctiveness)](session05)  |                               | TGG+ |
-| 23.10 | Embeddings and similarity                      |                               | TGG+ |
-| 30.10 | Case study 1. Zero-shot classification |                               | Frankestein |
-| 6.11  | Case study 1. Unsupervised clustering                                |                               | Frankestein |
+| 23.10 | [Case study 1. Formal features of the variants](session06/readme.md)                      |                               | Frankestein |
+| 30.10 | [Case study 1. Zero-shot classification](session07/readme.md) |                               | Frankestein |
+| 6.11  | [Case study 1. LLM classification (few shot). BERTopic](session08/readme.md)                                |                               | Frankestein |
 | 13.11 | Case study 2. Agency and gender                                |  | TGG+ |                             |
 | 20.11 | Infoclio Conference (see below)                 |                               |
 | 4.12  | Data visualisations + Case study 2                      |  With Tommaso Elli (UniBE)                             | TGG+ |
@@ -56,18 +56,7 @@ Create a folder `data` in your computer, where you collect the texts to work wit
 
 ## Assignment
 
-For the assignment, you create your own analysis of one or more texts.
-
-Two deliverables:
-- An oral presentation, during the last session
-- A Jupyter Notebook
-
-Methods: you can combine at least two of the methods used during the course; one of them should come from lessons 5-8.
-
-Corpus: one or more texts of your choice or ask for it.
-
-**Let's discuss it before**. Write an email or ask for an appointment to briefly present your plan by November 20 at the latest. You should indicate the chosen corpus and method(s).
-
+See [assignment.md](assignment.md).
 
 ### Using LLMs and AI assistants
 
@@ -91,7 +80,7 @@ You may use LLMs and AI assistants for this course and for the assignment under 
 - Recommended: Firefox or Chrome/Chromium.
 
 **Jupyter Notebooks**
-- We run notebooks in [myBinder](notebooks.md).
+- See [helpme](helpme/notebooks.md)
 
 **Regular expressions**
 - Tutorials online, for example https://www.regexone.com/ and https://regexlearn.com/. 

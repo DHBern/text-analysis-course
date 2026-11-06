@@ -15,7 +15,7 @@ Variants extracted (XML > CSV).
 
 
 ## Manual and computational analysis
-See [notebook](Variants-clustering.ipynb).
+See [notebook](Variants-features.ipynb).
 
 Categories discussed in the classroom:
 
