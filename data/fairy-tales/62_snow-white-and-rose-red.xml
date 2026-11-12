@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Snow-White and Rose-Red</title>
+        <author>Jacob Grimm</author>
+        <author>Wilhelm Grimm</author>
+        <respStmt>
+          <resp>Translated by</resp>
+          <persName>Edgar Taylor</persName>
+          <persName>Marian Edwardes</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Extracted from the collection file GrimmFairyTales_EN_Gutenberg_female.xml for the Text Analysis Course (DH Bern). Not published separately.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Jacob Grimm</author> and <author>Wilhelm Grimm</author>, <title>Grimms’ Fairy Tales</title>, translated by <editor role="translator">Edgar Taylor</editor> and <editor role="translator">Marian Edwardes</editor>, <publisher>Project Gutenberg</publisher>, <idno type="Gutenberg">2591</idno>, <ref target="https://www.gutenberg.org/ebooks/2591">https://www.gutenberg.org/ebooks/2591</ref>. Tale n. 62: <title>SNOW-WHITE AND ROSE-RED</title>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="snowwhiterosered-snow-white" gender="female"><persName>Snow-white</persName></person>
+          <person xml:id="snowwhiterosered-rose-red" gender="female"><persName>Rose-red</persName></person>
+          <person xml:id="snowwhiterosered-mother" gender="female"><persName>mother</persName></person>
+          <person xml:id="snowwhiterosered-mr_bear" gender="male"><persName>Mr Bear</persName></person>
+          <person xml:id="snowwhiterosered-dwarf" gender="male"><persName>dwarf</persName></person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div type="tale" n="62">
+<head>SNOW-WHITE AND ROSE-RED</head>
+<p>There was once a poor widow who lived in a lonely cottage. In front of
+the cottage was a garden wherein stood two rose-trees, one of which bore
+white and the other red roses. She had two children who were like the
+two rose-trees, and one was called <persName ref="#snowwhiterosered-snow-white">Snow-white</persName>, and the other <persName ref="#snowwhiterosered-rose-red">Rose-red</persName>.
+They were as good and happy, as busy and cheerful as ever two children
+in the world were, only <persName ref="#snowwhiterosered-snow-white">Snow-white</persName> was more quiet and gentle than
+<persName ref="#snowwhiterosered-rose-red">Rose-red</persName>. <persName ref="#snowwhiterosered-rose-red">Rose-red</persName> liked better to run about in the meadows and fields
+seeking flowers and catching butterflies; but <persName ref="#snowwhiterosered-snow-white">Snow-white</persName> sat at home
+with her mother, and helped her with her housework, or read to her when
+there was nothing to do.</p>
+<p>The two children were so fond of one another that they always held each
+other by the hand when they went out together, and when <persName ref="#snowwhiterosered-snow-white">Snow-white</persName> said:
+<said who="#snowwhiterosered-snow-white">‘We will not leave each other,’</said> <persName ref="#snowwhiterosered-rose-red">Rose-red</persName> answered: <said who="#snowwhiterosered-rose-red">‘Never so long as we
+live,’</said> and their mother would add: <said who="#snowwhiterosered-mother">‘What one has she must share with the
+other.’</said></p>
+<p>They often ran about the forest alone and gathered red berries, and no
+beasts did them any harm, but came close to them trustfully. The little
+hare would eat a cabbage-leaf out of their hands, the roe grazed by
+their side, the stag leapt merrily by them, and the birds sat still upon
+the boughs, and sang whatever they knew.</p>
+<p>No mishap overtook them; if they had stayed too late in the forest, and
+night came on, they laid themselves down near one another upon the moss,
+and slept until morning came, and their mother knew this and did not
+worry on their account.</p>
+<p>Once when they had spent the night in the wood and the dawn had roused
+them, they saw a beautiful child in a shining white dress sitting near
+their bed. He got up and looked quite kindly at them, but said nothing
+and went into the forest. And when they looked round they found that
+they had been sleeping quite close to a precipice, and would certainly
+have fallen into it in the darkness if they had gone only a few paces
+further. And their mother told them that it must have been the angel who
+watches over good children.</p>
+<p><persName ref="#snowwhiterosered-snow-white">Snow-white</persName> and <persName ref="#snowwhiterosered-rose-red">Rose-red</persName> kept their mother’s little cottage so neat that
+it was a pleasure to look inside it. In the summer <persName ref="#snowwhiterosered-rose-red">Rose-red</persName> took care
+of the house, and every morning laid a wreath of flowers by her mother’s
+bed before she awoke, in which was a rose from each tree. In the winter
+<persName ref="#snowwhiterosered-snow-white">Snow-white</persName> lit the fire and hung the kettle on the hob. The kettle
+was of brass and shone like gold, so brightly was it polished. In the
+evening, when the snowflakes fell, the mother said: <said who="#snowwhiterosered-mother">‘Go, <persName ref="#snowwhiterosered-snow-white">Snow-white</persName>, and
+bolt the door,’</said> and then they sat round the hearth, and the mother took
+her spectacles and read aloud out of a large book, and the two girls
+listened as they sat and spun. And close by them lay a lamb upon the
+floor, and behind them upon a perch sat a white dove with its head
+hidden beneath its wings.</p>
+<p>One evening, as they were thus sitting comfortably together, someone
+knocked at the door as if he wished to be let in. The mother said:
+<said who="#snowwhiterosered-mother">‘Quick, <persName ref="#snowwhiterosered-rose-red">Rose-red</persName>, open the door, it must be a traveller who is seeking
+shelter.’</said> <persName ref="#snowwhiterosered-rose-red">Rose-red</persName> went and pushed back the bolt, thinking that it was a
+poor man, but it was not; it was a bear that stretched his broad, black
+head within the door.</p>
+<p><persName ref="#snowwhiterosered-rose-red">Rose-red</persName> screamed and sprang back, the lamb bleated, the dove fluttered,
+and <persName ref="#snowwhiterosered-snow-white">Snow-white</persName> hid herself behind her mother’s bed. But the bear began
+to speak and said: <said who="#snowwhiterosered-mr_bear">‘Do not be afraid, I will do you no harm! I am
+half-frozen, and only want to warm myself a little beside you.’</said></p>
+<p><said who="#snowwhiterosered-mother">‘Poor bear,’</said> said the mother, <said who="#snowwhiterosered-mother">‘lie down by the fire, only take care that
+you do not burn your coat.’</said> Then she cried: <said who="#snowwhiterosered-mother">‘<persName ref="#snowwhiterosered-snow-white">Snow-white</persName>, <persName ref="#snowwhiterosered-rose-red">Rose-red</persName>, come
+out, the bear will do you no harm, he means well.’</said> So they both came
+out, and by-and-by the lamb and dove came nearer, and were not afraid
+of him. The bear said: <said who="#snowwhiterosered-mr_bear">‘Here, children, knock the snow out of my coat a
+little’</said>; so they brought the broom and swept the bear’s hide clean;
+and he stretched himself by the fire and growled contentedly and
+comfortably. It was not long before they grew quite at home, and played
+tricks with their clumsy guest. They tugged his hair with their hands,
+put their feet upon his back and rolled him about, or they took a
+hazel-switch and beat him, and when he growled they laughed. But the
+bear took it all in good part, only when they were too rough he called
+out: <said who="#snowwhiterosered-mr_bear">‘Leave me alive, children,</said></p>
+<p><said who="#snowwhiterosered-mr_bear">  <persName ref="#snowwhiterosered-snow-white">Snow-white</persName>, <persName ref="#snowwhiterosered-rose-red">Rose-red</persName>,
+  Will you beat your wooer dead?’</said></p>
+<p>When it was bed-time, and the others went to bed, the mother said to the
+bear: <said who="#snowwhiterosered-mother">‘You can lie there by the hearth, and then you will be safe from
+the cold and the bad weather.’</said> As soon as day dawned the two children
+let him out, and he trotted across the snow into the forest.</p>
+<p>Henceforth the bear came every evening at the same time, laid himself
+down by the hearth, and let the children amuse themselves with him as
+much as they liked; and they got so used to him that the doors were
+never fastened until their black friend had arrived.</p>
+<p>When spring had come and all outside was green, the bear said one
+morning to <persName ref="#snowwhiterosered-snow-white">Snow-white</persName>: <said who="#snowwhiterosered-mr_bear">‘Now I must go away, and cannot come back for the
+whole summer.’</said> <said who="#snowwhiterosered-snow-white">‘Where are you going, then, dear bear?’</said> asked <persName ref="#snowwhiterosered-snow-white">Snow-white</persName>.
+<said who="#snowwhiterosered-mr_bear">‘I must go into the forest and guard my treasures from the wicked
+dwarfs. In the winter, when the earth is frozen hard, they are obliged
+to stay below and cannot work their way through; but now, when the sun
+has thawed and warmed the earth, they break through it, and come out to
+pry and steal; and what once gets into their hands, and in their caves,
+does not easily see daylight again.’</said></p>
+<p><persName ref="#snowwhiterosered-snow-white">Snow-white</persName> was quite sorry at his departure, and as she unbolted the
+door for him, and the bear was hurrying out, he caught against the bolt
+and a piece of his hairy coat was torn off, and it seemed to <persName ref="#snowwhiterosered-snow-white">Snow-white</persName>
+as if she had seen gold shining through it, but she was not sure about
+it. The bear ran away quickly, and was soon out of sight behind the
+trees.</p>
+<p>A short time afterwards the mother sent her children into the forest
+to get firewood. There they found a big tree which lay felled on the
+ground, and close by the trunk something was jumping backwards and
+forwards in the grass, but they could not make out what it was. When
+they came nearer they saw a dwarf with an old withered face and a
+snow-white beard a yard long. The end of the beard was caught in a
+crevice of the tree, and the little fellow was jumping about like a dog
+tied to a rope, and did not know what to do.</p>
+<p>He glared at the girls with his fiery red eyes and cried: <said who="#snowwhiterosered-dwarf">‘Why do you
+stand there? Can you not come here and help me?’</said> <said who="#snowwhiterosered-rose-red">‘What are you up to,
+little man?’</said> asked <persName ref="#snowwhiterosered-rose-red">Rose-red</persName>. <said who="#snowwhiterosered-dwarf">‘You stupid, prying goose!’</said> answered the
+dwarf: <said who="#snowwhiterosered-dwarf">‘I was going to split the tree to get a little wood for cooking.
+The little bit of food that we people get is immediately burnt up with
+heavy logs; we do not swallow so much as you coarse, greedy folk. I had
+just driven the wedge safely in, and everything was going as I wished;
+but the cursed wedge was too smooth and suddenly sprang out, and the
+tree closed so quickly that I could not pull out my beautiful white
+beard; so now it is tight and I cannot get away, and the silly, sleek,
+milk-faced things laugh! Ugh! how odious you are!’</said></p>
+<p>The children tried very hard, but they could not pull the beard out, it
+was caught too fast. <said who="#snowwhiterosered-rose-red">‘I will run and fetch someone,’</said> said <persName ref="#snowwhiterosered-rose-red">Rose-red</persName>. <said who="#snowwhiterosered-dwarf">‘You
+senseless goose!’</said> snarled the dwarf; <said who="#snowwhiterosered-dwarf">‘why should you fetch someone? You
+are already two too many for me; can you not think of something better?’</said>
+<said who="#snowwhiterosered-snow-white">‘Don’t be impatient,’</said> said <persName ref="#snowwhiterosered-snow-white">Snow-white</persName>, <said who="#snowwhiterosered-snow-white">‘I will help you,’</said> and she pulled
+her scissors out of her pocket, and cut off the end of the beard.</p>
+<p>As soon as the dwarf felt himself free he laid hold of a bag which lay
+amongst the roots of the tree, and which was full of gold, and lifted it
+up, grumbling to himself: <said who="#snowwhiterosered-dwarf">‘Uncouth people, to cut off a piece of my fine
+beard. Bad luck to you!’</said> and then he swung the bag upon his back, and
+went off without even once looking at the children.</p>
+<p>Some time afterwards <persName ref="#snowwhiterosered-snow-white">Snow-white</persName> and <persName ref="#snowwhiterosered-rose-red">Rose-red</persName> went to catch a dish
+of fish. As they came near the brook they saw something like a large
+grasshopper jumping towards the water, as if it were going to leap in.
+They ran to it and found it was the dwarf. <said who="#snowwhiterosered-rose-red">‘Where are you going?’</said> said
+<persName ref="#snowwhiterosered-rose-red">Rose-red</persName>; <said who="#snowwhiterosered-rose-red">‘you surely don’t want to go into the water?’</said> <said who="#snowwhiterosered-dwarf">‘I am not such
+a fool!’</said> cried the dwarf; <said who="#snowwhiterosered-dwarf">‘don’t you see that the accursed fish wants
+to pull me in?’</said> The little man had been sitting there fishing, and
+unluckily the wind had tangled up his beard with the fishing-line; a
+moment later a big fish made a bite and the feeble creature had not
+strength to pull it out; the fish kept the upper hand and pulled the
+dwarf towards him. He held on to all the reeds and rushes, but it was of
+little good, for he was forced to follow the movements of the fish, and
+was in urgent danger of being dragged into the water.</p>
+<p>The girls came just in time; they held him fast and tried to free his
+beard from the line, but all in vain, beard and line were entangled fast
+together. There was nothing to do but to bring out the scissors and cut
+the beard, whereby a small part of it was lost. When the dwarf saw that
+he screamed out: <said who="#snowwhiterosered-dwarf">‘Is that civil, you toadstool, to disfigure a man’s
+face? Was it not enough to clip off the end of my beard? Now you have
+cut off the best part of it. I cannot let myself be seen by my people.
+I wish you had been made to run the soles off your shoes!’</said> Then he took
+out a sack of pearls which lay in the rushes, and without another word
+he dragged it away and disappeared behind a stone.</p>
+<p>It happened that soon afterwards the mother sent the two children to the
+town to buy needles and thread, and laces and ribbons. The road led them
+across a heath upon which huge pieces of rock lay strewn about. There
+they noticed a large bird hovering in the air, flying slowly round and
+round above them; it sank lower and lower, and at last settled near a
+rock not far away. Immediately they heard a loud, piteous cry. They ran
+up and saw with horror that the eagle had seized their old acquaintance
+the dwarf, and was going to carry him off.</p>
+<p>The children, full of pity, at once took tight hold of the little man,
+and pulled against the eagle so long that at last he let his booty go.
+As soon as the dwarf had recovered from his first fright he cried
+with his shrill voice: <said who="#snowwhiterosered-dwarf">‘Could you not have done it more carefully! You
+dragged at my brown coat so that it is all torn and full of holes, you
+clumsy creatures!’</said> Then he took up a sack full of precious stones, and
+slipped away again under the rock into his hole. The girls, who by
+this time were used to his ingratitude, went on their way and did their
+business in town.</p>
+<p>As they crossed the heath again on their way home they surprised the
+dwarf, who had emptied out his bag of precious stones in a clean spot,
+and had not thought that anyone would come there so late. The evening
+sun shone upon the brilliant stones; they glittered and sparkled with
+all colours so beautifully that the children stood still and stared
+at them. <said who="#snowwhiterosered-dwarf">‘Why do you stand gaping there?’</said> cried the dwarf, and his
+ashen-grey face became copper-red with rage. He was still cursing when a
+loud growling was heard, and a black bear came trotting towards them out
+of the forest. The dwarf sprang up in a fright, but he could not reach
+his cave, for the bear was already close. Then in the dread of his heart
+he cried: <said who="#snowwhiterosered-dwarf">‘Dear <persName ref="#snowwhiterosered-mr_bear">Mr Bear</persName>, spare me, I will give you all my treasures;
+look, the beautiful jewels lying there! Grant me my life; what do you
+want with such a slender little fellow as I? you would not feel me
+between your teeth. Come, take these two wicked girls, they are tender
+morsels for you, fat as young quails; for mercy’s sake eat them!’</said> The
+bear took no heed of his words, but gave the wicked creature a single
+blow with his paw, and he did not move again.</p>
+<p>The girls had run away, but the bear called to them: <said who="#snowwhiterosered-mr_bear">‘<persName ref="#snowwhiterosered-snow-white">Snow-white</persName> and
+<persName ref="#snowwhiterosered-rose-red">Rose-red</persName>, do not be afraid; wait, I will come with you.’</said> Then they
+recognized his voice and waited, and when he came up to them suddenly
+his bearskin fell off, and he stood there a handsome man, clothed all in
+gold. <said who="#snowwhiterosered-mr_bear">‘I am a king’s son,’</said> he said, <said who="#snowwhiterosered-mr_bear">‘and I was bewitched by that wicked
+dwarf, who had stolen my treasures; I have had to run about the forest
+as a savage bear until I was freed by his death. Now he has got his
+well-deserved punishment.</said></p>
+<p><persName ref="#snowwhiterosered-snow-white">Snow-white</persName> was married to him, and <persName ref="#snowwhiterosered-rose-red">Rose-red</persName> to his brother, and they
+divided between them the great treasure which the dwarf had gathered
+together in his cave. The old mother lived peacefully and happily with
+her children for many years. She took the two rose-trees with her, and
+they stood before her window, and every year bore the most beautiful
+roses, white and red.</p>
+</div>
+    </body>
+  </text>
+</TEI>

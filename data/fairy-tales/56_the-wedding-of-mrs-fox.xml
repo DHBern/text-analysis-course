@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Wedding of Mrs Fox</title>
+        <author>Jacob Grimm</author>
+        <author>Wilhelm Grimm</author>
+        <respStmt>
+          <resp>Translated by</resp>
+          <persName>Edgar Taylor</persName>
+          <persName>Marian Edwardes</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Extracted from the collection file GrimmFairyTales_EN_Gutenberg_female.xml for the Text Analysis Course (DH Bern). Not published separately.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Jacob Grimm</author> and <author>Wilhelm Grimm</author>, <title>Grimms’ Fairy Tales</title>, translated by <editor role="translator">Edgar Taylor</editor> and <editor role="translator">Marian Edwardes</editor>, <publisher>Project Gutenberg</publisher>, <idno type="Gutenberg">2591</idno>, <ref target="https://www.gutenberg.org/ebooks/2591">https://www.gutenberg.org/ebooks/2591</ref>. Tale n. 56: <title>THE WEDDING OF MRS FOX</title>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="mrsfox-mrs_fox" gender="female"><persName>Mrs Fox</persName><persName>Mistress Fox</persName></person>
+          <person xml:id="mrsfox-miss_cat" gender="female"><persName>Miss Cat</persName><persName>Mrs Cat</persName></person>
+          <person xml:id="mrsfox-young_fox" gender="male"><persName>young fox</persName></person>
+          <person xml:id="mrsfox-mr_fox" gender="male"><persName>Mr Fox</persName></person>
+          <person xml:id="mrsfox-wolf" gender="male"><persName>wolf</persName></person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div type="tale" n="56">
+<head>THE WEDDING OF MRS FOX</head>
+<div type="story" n="1">
+<head>FIRST STORY</head>
+<p>There was once upon a time an old fox with nine tails, who believed that
+his wife was not faithful to him, and wished to put her to the test. He
+stretched himself out under the bench, did not move a limb, and behaved
+as if he were stone dead. <persName ref="#mrsfox-mrs_fox">Mrs Fox</persName> went up to her room, shut herself in,
+and her maid, <persName ref="#mrsfox-miss_cat">Miss Cat</persName>, sat by the fire, and did the cooking. When it
+became known that the old fox was dead, suitors presented themselves.
+The maid heard someone standing at the house-door, knocking. She went
+and opened it, and it was a young fox, who said:</p>
+<p> <said who="#mrsfox-young_fox">‘What may you be about, <persName ref="#mrsfox-miss_cat">Miss Cat</persName>?
+  Do you sleep or do you wake?’</said></p>
+<p>She answered:</p>
+<p> <said who="#mrsfox-miss_cat">‘I am not sleeping, I am waking,
+  Would you know what I am making?
+  I am boiling warm beer with butter,
+  Will you be my guest for supper?’</said></p>
+<p><said who="#mrsfox-young_fox">‘No, thank you, miss,’</said> said the fox, <said who="#mrsfox-young_fox">‘what is <persName ref="#mrsfox-mrs_fox">Mrs Fox</persName> doing?’</said> The maid
+replied:</p>
+<p> <said who="#mrsfox-miss_cat">‘She is sitting in her room,
+  Moaning in her gloom,
+  Weeping her little eyes quite red,
+  Because old <persName ref="#mrsfox-mr_fox">Mr Fox</persName> is dead.’</said></p>
+<p><said who="#mrsfox-young_fox">‘Do just tell her, miss, that a young fox is here, who would like to woo
+her.’</said> <said who="#mrsfox-miss_cat">‘Certainly, young sir.’</said></p>
+<p><q>  The cat goes up the stairs trip, trap,
+  The door she knocks at tap, tap, tap,
+ <said who="#mrsfox-miss_cat">‘<persName ref="#mrsfox-mrs_fox">Mistress Fox</persName>, are you inside?’</said>
+ <said who="#mrsfox-mrs_fox">‘Oh, yes, my little cat,’</said> she cried.
+ <said who="#mrsfox-miss_cat">‘A wooer he stands at the door out there.’</said>
+ <said who="#mrsfox-mrs_fox">‘What does he look like, my dear?’</said></q></p>
+<p><said who="#mrsfox-mrs_fox">‘Has he nine as beautiful tails as the late <persName ref="#mrsfox-mr_fox">Mr Fox</persName>?’</said> <said who="#mrsfox-miss_cat">‘Oh, no,’</said> answered
+the cat, <said who="#mrsfox-miss_cat">‘he has only one.’</said> <said who="#mrsfox-mrs_fox">‘Then I will not have him.’</said></p>
+<p><persName ref="#mrsfox-miss_cat">Miss Cat</persName> went downstairs and sent the wooer away. Soon afterwards there
+was another knock, and another fox was at the door who wished to woo <persName ref="#mrsfox-mrs_fox">Mrs
+Fox</persName>. He had two tails, but he did not fare better than the first. After
+this still more came, each with one tail more than the other, but they
+were all turned away, until at last one came who had nine tails, like
+old <persName ref="#mrsfox-mr_fox">Mr Fox</persName>. When the widow heard that, she said joyfully to the cat:</p>
+<p> <said who="#mrsfox-mrs_fox">‘Now open the gates and doors all wide,
+  And carry old <persName ref="#mrsfox-mr_fox">Mr Fox</persName> outside.’</said></p>
+<p>But just as the wedding was going to be solemnized, old <persName ref="#mrsfox-mr_fox">Mr Fox</persName> stirred
+under the bench, and cudgelled all the rabble, and drove them and <persName ref="#mrsfox-mrs_fox">Mrs
+Fox</persName> out of the house.</p>
+</div>
+<div type="story" n="2">
+<head>SECOND STORY</head>
+<p>When old <persName ref="#mrsfox-mr_fox">Mr Fox</persName> was dead, the wolf came as a suitor, and knocked at the
+door, and the cat who was servant to <persName ref="#mrsfox-mrs_fox">Mrs Fox</persName>, opened it for him. The
+wolf greeted her, and said:</p>
+<p> <said who="#mrsfox-wolf">‘Good day, <persName ref="#mrsfox-miss_cat">Mrs Cat</persName> of <placeName xml:id="mrsfox-kehrewit">Kehrewit</placeName>,
+  How comes it that alone you sit?
+  What are you making good?’</said></p>
+<p>The cat replied:</p>
+<p> <said who="#mrsfox-miss_cat">‘In milk I’m breaking bread so sweet,
+  Will you be my guest, and eat?’</said></p>
+<p><said who="#mrsfox-wolf">‘No, thank you, <persName ref="#mrsfox-miss_cat">Mrs Cat</persName>,’</said> answered the wolf. <said who="#mrsfox-wolf">‘Is <persName ref="#mrsfox-mrs_fox">Mrs Fox</persName> not at home?’</said></p>
+<p>The cat said:</p>
+<p> <said who="#mrsfox-miss_cat">‘She sits upstairs in her room,
+  Bewailing her sorrowful doom,
+  Bewailing her trouble so sore,
+  For old <persName ref="#mrsfox-mr_fox">Mr Fox</persName> is no more.’</said></p>
+<p>The wolf answered:</p>
+<p><q> <said who="#mrsfox-wolf">‘If she’s in want of a husband now,
+  Then will it please her to step below?’</said>
+  The cat runs quickly up the stair,
+  And lets her tail fly here and there,
+  Until she comes to the parlour door.
+  With her five gold rings at the door she knocks:
+ <said who="#mrsfox-miss_cat">‘Are you within, good <persName ref="#mrsfox-mrs_fox">Mistress Fox</persName>?
+  If you’re in want of a husband now,
+  Then will it please you to step below?</said></q></p>
+<p><persName ref="#mrsfox-mrs_fox">Mrs Fox</persName> asked: <said who="#mrsfox-mrs_fox">‘Has the gentleman red stockings on, and has he a pointed
+mouth?’</said> <said who="#mrsfox-miss_cat">‘No,’</said> answered the cat. <said who="#mrsfox-mrs_fox">‘Then he won’t do for me.’</said></p>
+<p>When the wolf was gone, came a dog, a stag, a hare, a bear, a lion, and
+all the beasts of the forest, one after the other. But one of the good
+qualities which old <persName ref="#mrsfox-mr_fox">Mr Fox</persName> had possessed, was always lacking, and the
+cat had continually to send the suitors away. At length came a young
+fox. Then <persName ref="#mrsfox-mrs_fox">Mrs Fox</persName> said: <said who="#mrsfox-mrs_fox">‘Has the gentleman red stockings on, and has a
+little pointed mouth?’</said> <said who="#mrsfox-miss_cat">‘Yes,’</said> said the cat, <said who="#mrsfox-miss_cat">‘he has.’</said> <said who="#mrsfox-mrs_fox">‘Then let him come
+upstairs,’</said> said <persName ref="#mrsfox-mrs_fox">Mrs Fox</persName>, and ordered the servant to prepare the wedding
+feast.</p>
+<p> <said who="#mrsfox-mrs_fox">‘Sweep me the room as clean as you can,
+  Up with the window, fling out my old man!
+  For many a fine fat mouse he brought,
+  Yet of his wife he never thought,
+  But ate up every one he caught.’</said></p>
+<p>Then the wedding was solemnized with young <persName>Mr Fox</persName>, and there was much
+rejoicing and dancing; and if they have not left off, they are dancing
+still.</p>
+</div>
+</div>
+    </body>
+  </text>
+</TEI>

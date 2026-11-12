@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rapunzel</title>
+        <author>Jacob Grimm</author>
+        <author>Wilhelm Grimm</author>
+        <respStmt>
+          <resp>Translated by</resp>
+          <persName>Edgar Taylor</persName>
+          <persName>Marian Edwardes</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Extracted from the collection file GrimmFairyTales_EN_Gutenberg_female.xml for the Text Analysis Course (DH Bern). Not published separately.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Jacob Grimm</author> and <author>Wilhelm Grimm</author>, <title>Grimms’ Fairy Tales</title>, translated by <editor role="translator">Edgar Taylor</editor> and <editor role="translator">Marian Edwardes</editor>, <publisher>Project Gutenberg</publisher>, <idno type="Gutenberg">2591</idno>, <ref target="https://www.gutenberg.org/ebooks/2591">https://www.gutenberg.org/ebooks/2591</ref>. Tale n. 16: <title>RAPUNZEL</title>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="rapunzel-husband" gender="male"><persName>husband</persName></person>
+          <person xml:id="rapunzel-wife" gender="female"><persName>wife</persName></person>
+          <person xml:id="rapunzel-dame_gothel" gender="female"><persName>Dame Gothel</persName></person>
+          <person xml:id="rapunzel-rapunzel" gender="female"><persName>Rapunzel</persName></person>
+          <person xml:id="rapunzel-kings_son" gender="male"><persName>kings son</persName></person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div type="tale" n="16">
+<head>RAPUNZEL</head>
+<p>There were once a man and a woman who had long in vain wished for a
+child. At length the woman hoped that God was about to grant her desire.
+These people had a little window at the back of their house from which
+a splendid garden could be seen, which was full of the most beautiful
+flowers and herbs. It was, however, surrounded by a high wall, and no
+one dared to go into it because it belonged to an enchantress, who had
+great power and was dreaded by all the world. One day the woman was
+standing by this window and looking down into the garden, when she saw a
+bed which was planted with the most beautiful rampion (rapunzel), and it
+looked so fresh and green that she longed for it, she quite pined away,
+and began to look pale and miserable. Then her husband was alarmed, and
+asked: <said who="#rapunzel-husband">‘What ails you, dear wife?’</said> <said who="#rapunzel-wife">‘Ah,’</said> she replied, <said who="#rapunzel-wife">‘if I can’t eat
+some of the rampion, which is in the garden behind our house, I shall
+die.’</said> The man, who loved her, thought: <said aloud="false" who="#rapunzel-husband">‘Sooner than let your wife die,
+bring her some of the rampion yourself, let it cost what it will.’</said>
+At twilight, he clambered down over the wall into the garden of the
+enchantress, hastily clutched a handful of rampion, and took it to his
+wife. She at once made herself a salad of it, and ate it greedily. It
+tasted so good to her--so very good, that the next day she longed for it
+three times as much as before. If he was to have any rest, her husband
+must once more descend into the garden. In the gloom of evening
+therefore, he let himself down again; but when he had clambered down the
+wall he was terribly afraid, for he saw the enchantress standing before
+him. <said who="#rapunzel-dame_gothel">‘How can you dare,’</said> said she with angry look, <said who="#rapunzel-dame_gothel">‘descend into my
+garden and steal my rampion like a thief? You shall suffer for it!’</said>
+<said who="#rapunzel-husband">‘Ah,’</said> answered he, <said who="#rapunzel-husband">‘let mercy take the place of justice, I only made
+up my mind to do it out of necessity. My wife saw your rampion from the
+window, and felt such a longing for it that she would have died if she
+had not got some to eat.’</said> Then the enchantress allowed her anger to be
+softened, and said to him: <said who="#rapunzel-dame_gothel">‘If the case be as you say, I will allow
+you to take away with you as much rampion as you will, only I make one
+condition, you must give me the child which your wife will bring into
+the world; it shall be well treated, and I will care for it like a
+mother.’</said> The man in his terror consented to everything, and when the
+woman was brought to bed, the enchantress appeared at once, gave the
+child the name of <persName ref="#rapunzel-rapunzel">Rapunzel</persName>, and took it away with her.</p>
+<p><persName ref="#rapunzel-rapunzel">Rapunzel</persName> grew into the most beautiful child under the sun. When she was
+twelve years old, the enchantress shut her into a tower, which lay in
+a forest, and had neither stairs nor door, but quite at the top was a
+little window. When the enchantress wanted to go in, she placed herself
+beneath it and cried:</p>
+<p> <said who="#rapunzel-dame_gothel">‘<persName ref="#rapunzel-rapunzel">Rapunzel</persName>, <persName ref="#rapunzel-rapunzel">Rapunzel</persName>,
+  Let down your hair to me.’</said></p>
+<p><persName ref="#rapunzel-rapunzel">Rapunzel</persName> had magnificent long hair, fine as spun gold, and when she
+heard the voice of the enchantress she unfastened her braided tresses,
+wound them round one of the hooks of the window above, and then the hair
+fell twenty ells down, and the enchantress climbed up by it.</p>
+<p>After a year or two, it came to pass that the king’s son rode through
+the forest and passed by the tower. Then he heard a song, which was so
+charming that he stood still and listened. This was <persName ref="#rapunzel-rapunzel">Rapunzel</persName>, who in her
+solitude passed her time in letting her sweet voice resound. The king’s
+son wanted to climb up to her, and looked for the door of the tower,
+but none was to be found. He rode home, but the singing had so deeply
+touched his heart, that every day he went out into the forest and
+listened to it. Once when he was thus standing behind a tree, he saw
+that an enchantress came there, and he heard how she cried:</p>
+<p> <said who="#rapunzel-dame_gothel">‘<persName ref="#rapunzel-rapunzel">Rapunzel</persName>, <persName ref="#rapunzel-rapunzel">Rapunzel</persName>,
+  Let down your hair to me.’</said></p>
+<p>Then <persName ref="#rapunzel-rapunzel">Rapunzel</persName> let down the braids of her hair, and the enchantress
+climbed up to her. <said who="#rapunzel-kings_son">‘If that is the ladder by which one mounts, I too
+will try my fortune,’</said> said he, and the next day when it began to grow
+dark, he went to the tower and cried:</p>
+<p> <said who="#rapunzel-kings_son">‘<persName ref="#rapunzel-rapunzel">Rapunzel</persName>, <persName ref="#rapunzel-rapunzel">Rapunzel</persName>,
+  Let down your hair to me.’</said></p>
+<p>Immediately the hair fell down and the king’s son climbed up.</p>
+<p>At first <persName ref="#rapunzel-rapunzel">Rapunzel</persName> was terribly frightened when a man, such as her eyes
+had never yet beheld, came to her; but the king’s son began to talk to
+her quite like a friend, and told her that his heart had been so stirred
+that it had let him have no rest, and he had been forced to see her.
+Then <persName ref="#rapunzel-rapunzel">Rapunzel</persName> lost her fear, and when he asked her if she would take
+him for her husband, and she saw that he was young and handsome, she
+thought: <said aloud="false" who="#rapunzel-rapunzel">‘He will love me more than old <persName ref="#rapunzel-dame_gothel">Dame Gothel</persName> does’</said>; and she said
+yes, and laid her hand in his. She said: <said who="#rapunzel-rapunzel">‘I will willingly go away with
+you, but I do not know how to get down. Bring with you a skein of silk
+every time that you come, and I will weave a ladder with it, and when
+that is ready I will descend, and you will take me on your horse.’</said> They
+agreed that until that time he should come to her every evening, for the
+old woman came by day. The enchantress remarked nothing of this, until
+once <persName ref="#rapunzel-rapunzel">Rapunzel</persName> said to her: <said who="#rapunzel-rapunzel">‘Tell me, <persName ref="#rapunzel-dame_gothel">Dame Gothel</persName>, how it happens that
+you are so much heavier for me to draw up than the young king’s son--he
+is with me in a moment.’</said> <said who="#rapunzel-dame_gothel">‘Ah! you wicked child,’</said> cried the enchantress.
+<said who="#rapunzel-dame_gothel">‘What do I hear you say! I thought I had separated you from all
+the world, and yet you have deceived me!’</said> In her anger she clutched
+<persName ref="#rapunzel-rapunzel">Rapunzel</persName>’s beautiful tresses, wrapped them twice round her left hand,
+seized a pair of scissors with the right, and snip, snap, they were cut
+off, and the lovely braids lay on the ground. And she was so pitiless
+that she took poor <persName ref="#rapunzel-rapunzel">Rapunzel</persName> into a desert where she had to live in great
+grief and misery.</p>
+<p>On the same day that she cast out <persName ref="#rapunzel-rapunzel">Rapunzel</persName>, however, the enchantress
+fastened the braids of hair, which she had cut off, to the hook of the
+window, and when the king’s son came and cried:</p>
+<p> <said who="#rapunzel-kings_son">‘<persName ref="#rapunzel-rapunzel">Rapunzel</persName>, <persName ref="#rapunzel-rapunzel">Rapunzel</persName>,
+  Let down your hair to me.’</said></p>
+<p>she let the hair down. The king’s son ascended, but instead of finding
+his dearest <persName ref="#rapunzel-rapunzel">Rapunzel</persName>, he found the enchantress, who gazed at him with
+wicked and venomous looks. <said who="#rapunzel-dame_gothel">‘Aha!’</said> she cried mockingly, <said who="#rapunzel-dame_gothel">‘you would fetch
+your dearest, but the beautiful bird sits no longer singing in the nest;
+the cat has got it, and will scratch out your eyes as well. <persName ref="#rapunzel-rapunzel">Rapunzel</persName> is
+lost to you; you will never see her again.’</said> The king’s son was beside
+himself with pain, and in his despair he leapt down from the tower. He
+escaped with his life, but the thorns into which he fell pierced his
+eyes. Then he wandered quite blind about the forest, ate nothing but
+roots and berries, and did naught but lament and weep over the loss of
+his dearest wife. Thus he roamed about in misery for some years, and at
+length came to the desert where <persName ref="#rapunzel-rapunzel">Rapunzel</persName>, with the twins to which she
+had given birth, a boy and a girl, lived in wretchedness. He heard a
+voice, and it seemed so familiar to him that he went towards it, and
+when he approached, <persName ref="#rapunzel-rapunzel">Rapunzel</persName> knew him and fell on his neck and wept. Two
+of her tears wetted his eyes and they grew clear again, and he could
+see with them as before. He led her to his kingdom where he was
+joyfully received, and they lived for a long time afterwards, happy and
+contented.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Clever Gretel</title>
+        <author>Jacob Grimm</author>
+        <author>Wilhelm Grimm</author>
+        <respStmt>
+          <resp>Translated by</resp>
+          <persName>Edgar Taylor</persName>
+          <persName>Marian Edwardes</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Extracted from the collection file GrimmFairyTales_EN_Gutenberg_female.xml for the Text Analysis Course (DH Bern). Not published separately.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Jacob Grimm</author> and <author>Wilhelm Grimm</author>, <title>Grimms’ Fairy Tales</title>, translated by <editor role="translator">Edgar Taylor</editor> and <editor role="translator">Marian Edwardes</editor>, <publisher>Project Gutenberg</publisher>, <idno type="Gutenberg">2591</idno>, <ref target="https://www.gutenberg.org/ebooks/2591">https://www.gutenberg.org/ebooks/2591</ref>. Tale n. 26: <title>CLEVER GRETEL</title>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="clevergretel-gretel" gender="female"><persName>Gretel</persName></person>
+          <person xml:id="clevergretel-master" gender="male"><persName>master</persName></person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div type="tale" n="26">
+<head>CLEVER GRETEL</head>
+<p>There was once a cook named <persName ref="#clevergretel-gretel">Gretel</persName>, who wore shoes with red heels, and
+when she walked out with them on, she turned herself this way and that,
+was quite happy and thought: <said aloud="false" who="#clevergretel-gretel">‘You certainly are a pretty girl!’</said> And when
+she came home she drank, in her gladness of heart, a draught of wine,
+and as wine excites a desire to eat, she tasted the best of whatever she
+was cooking until she was satisfied, and said: <said who="#clevergretel-gretel">‘The cook must know what
+the food is like.’</said></p>
+<p>It came to pass that the master one day said to her: <said who="#clevergretel-master">‘<persName ref="#clevergretel-gretel">Gretel</persName>, there is a
+guest coming this evening; prepare me two fowls very daintily.’</said> <said who="#clevergretel-gretel">‘I will
+see to it, master,’</said> answered <persName ref="#clevergretel-gretel">Gretel</persName>. She killed two fowls, scalded them,
+plucked them, put them on the spit, and towards evening set them before
+the fire, that they might roast. The fowls began to turn brown, and were
+nearly ready, but the guest had not yet arrived. Then <persName ref="#clevergretel-gretel">Gretel</persName> called out
+to her master: <said who="#clevergretel-gretel">‘If the guest does not come, I must take the fowls away
+from the fire, but it will be a sin and a shame if they are not eaten
+the moment they are at their juiciest.’</said> The master said: <said who="#clevergretel-master">‘I will run
+myself, and fetch the guest.’</said> When the master had turned his back,
+<persName ref="#clevergretel-gretel">Gretel</persName> laid the spit with the fowls on one side, and thought: <said aloud="false" who="#clevergretel-gretel">‘Standing
+so long by the fire there, makes one sweat and thirsty; who knows
+when they will come? Meanwhile, I will run into the cellar, and take a
+drink.’</said> She ran down, set a jug, said: <said who="#clevergretel-gretel">‘God bless it for you, <persName ref="#clevergretel-gretel">Gretel</persName>,’</said>
+and took a good drink, and thought that wine should flow on, and should
+not be interrupted, and took yet another hearty draught.</p>
+<p>Then she went and put the fowls down again to the fire, basted them,
+and drove the spit merrily round. But as the roast meat smelt so good,
+<persName ref="#clevergretel-gretel">Gretel</persName> thought: <said aloud="false" who="#clevergretel-gretel">‘Something might be wrong, it ought to be tasted!’</said>
+She touched it with her finger, and said: <said who="#clevergretel-gretel">‘Ah! how good fowls are! It
+certainly is a sin and a shame that they are not eaten at the right
+time!’</said> She ran to the window, to see if the master was not coming with
+his guest, but she saw no one, and went back to the fowls and thought:
+<said aloud="false" who="#clevergretel-gretel">‘One of the wings is burning! I had better take it off and eat it.’</said>
+So she cut it off, ate it, and enjoyed it, and when she had done, she
+thought: <said aloud="false" who="#clevergretel-gretel">‘The other must go down too, or else master will observe that
+something is missing.’</said> When the two wings were eaten, she went and
+looked for her master, and did not see him. It suddenly occurred to
+her: <said aloud="false" who="#clevergretel-gretel">‘Who knows? They are perhaps not coming at all, and have turned in
+somewhere.’</said> Then she said: <said who="#clevergretel-gretel">‘Well, <persName ref="#clevergretel-gretel">Gretel</persName>, enjoy yourself, one fowl has
+been cut into, take another drink, and eat it up entirely; when it is
+eaten you will have some peace, why should God’s good gifts be spoilt?’</said>
+So she ran into the cellar again, took an enormous drink and ate up the
+one chicken in great glee. When one of the chickens was swallowed down,
+and still her master did not come, <persName ref="#clevergretel-gretel">Gretel</persName> looked at the other and said:
+<said who="#clevergretel-gretel">‘What one is, the other should be likewise, the two go together; what’s
+right for the one is right for the other; I think if I were to take
+another draught it would do me no harm.’</said> So she took another hearty
+drink, and let the second chicken follow the first.</p>
+<p>While she was making the most of it, her master came and cried: <said who="#clevergretel-master">‘Hurry
+up, <persName ref="#clevergretel-gretel">Gretel</persName>, the guest is coming directly after me!’</said> <said who="#clevergretel-gretel">‘Yes, sir, I will
+soon serve up,’</said> answered <persName ref="#clevergretel-gretel">Gretel</persName>. Meantime the master looked to see that
+the table was properly laid, and took the great knife, wherewith he was
+going to carve the chickens, and sharpened it on the steps. Presently
+the guest came, and knocked politely and courteously at the house-door.
+<persName ref="#clevergretel-gretel">Gretel</persName> ran, and looked to see who was there, and when she saw the guest,
+she put her finger to her lips and said: <said who="#clevergretel-gretel">‘Hush! hush! go away as quickly
+as you can, if my master catches you it will be the worse for you; he
+certainly did ask you to supper, but his intention is to cut off your
+two ears. Just listen how he is sharpening the knife for it!’</said> The guest
+heard the sharpening, and hurried down the steps again as fast as he
+could. <persName ref="#clevergretel-gretel">Gretel</persName> was not idle; she ran screaming to her master, and cried:
+<said who="#clevergretel-gretel">‘You have invited a fine guest!’</said> <said who="#clevergretel-master">‘Why, <persName ref="#clevergretel-gretel">Gretel</persName>? What do you mean by
+that?’</said> <said who="#clevergretel-gretel">‘Yes,’</said> said she, <said who="#clevergretel-gretel">‘he has taken the chickens which I was just
+going to serve up, off the dish, and has run away with them!’</said> <said who="#clevergretel-master">‘That’s a
+nice trick!’</said> said her master, and lamented the fine chickens. <said who="#clevergretel-master">‘If he had
+but left me one, so that something remained for me to eat.’</said> He called to
+him to stop, but the guest pretended not to hear. Then he ran after him
+with the knife still in his hand, crying: <said who="#clevergretel-master">‘Just one, just one,’</said> meaning
+that the guest should leave him just one chicken, and not take both. The
+guest, however, thought no otherwise than that he was to give up one of
+his ears, and ran as if fire were burning under him, in order to take
+them both with him.</p>
+</div>
+    </body>
+  </text>
+</TEI>

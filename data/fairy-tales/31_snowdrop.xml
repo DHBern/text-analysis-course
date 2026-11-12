@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Snowdrop</title>
+        <author>Jacob Grimm</author>
+        <author>Wilhelm Grimm</author>
+        <respStmt>
+          <resp>Translated by</resp>
+          <persName>Edgar Taylor</persName>
+          <persName>Marian Edwardes</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Extracted from the collection file GrimmFairyTales_EN_Gutenberg_female.xml for the Text Analysis Course (DH Bern). Not published separately.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Jacob Grimm</author> and <author>Wilhelm Grimm</author>, <title>Grimms’ Fairy Tales</title>, translated by <editor role="translator">Edgar Taylor</editor> and <editor role="translator">Marian Edwardes</editor>, <publisher>Project Gutenberg</publisher>, <idno type="Gutenberg">2591</idno>, <ref target="https://www.gutenberg.org/ebooks/2591">https://www.gutenberg.org/ebooks/2591</ref>. Tale n. 31: <title>SNOWDROP</title>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="snowdrop-queen" gender="female"><persName>queen</persName></person>
+          <person xml:id="snowdrop-snowdrop" gender="female"><persName>Snowdrop</persName></person>
+          <person xml:id="snowdrop-stepmother_queen" gender="female"><persName>stepmother queen</persName></person>
+          <person xml:id="snowdrop-looking-glass" gender="unspecified"><persName>looking-glass</persName></person>
+          <person xml:id="snowdrop-servant" gender="male"><persName>servant</persName></person>
+          <person xml:id="snowdrop-first_dwarf" gender="male"><persName>first dwarf</persName></person>
+          <person xml:id="snowdrop-second_dwarf" gender="male"><persName>second dwarf</persName></person>
+          <person xml:id="snowdrop-third_dwarf" gender="male"><persName>third dwarf</persName></person>
+          <person xml:id="snowdrop-fourth_dwarf" gender="male"><persName>fourth dwarf</persName></person>
+          <person xml:id="snowdrop-fifth_dwarf" gender="male"><persName>fifth dwarf</persName></person>
+          <person xml:id="snowdrop-sixth_dwarf" gender="male"><persName>sixth dwarf</persName></person>
+          <person xml:id="snowdrop-seventh_dwarf" gender="male"><persName>seventh dwarf</persName></person>
+          <personGrp xml:id="snowdrop-dwarfs" gender="male"><persName>dwarfs</persName></personGrp>
+          <person xml:id="snowdrop-prince" gender="male"><persName>prince</persName></person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div type="tale" n="31">
+<head>SNOWDROP</head>
+<p>It was the middle of winter, when the broad flakes of snow were falling
+around, that the queen of a country many thousand miles off sat working
+at her window. The frame of the window was made of fine black ebony, and
+as she sat looking out upon the snow, she pricked her finger, and three
+drops of blood fell upon it. Then she gazed thoughtfully upon the red
+drops that sprinkled the white snow, and said, <said who="#snowdrop-queen">‘Would that my little
+daughter may be as white as that snow, as red as that blood, and as
+black as this ebony windowframe!’</said> And so the little girl really did grow
+up; her skin was as white as snow, her cheeks as rosy as the blood, and
+her hair as black as ebony; and she was called <persName ref="#snowdrop-snowdrop">Snowdrop</persName>.</p>
+<p>But this queen died; and the king soon married another wife, who became
+queen, and was very beautiful, but so vain that she could not bear
+to think that anyone could be handsomer than she was. She had a fairy
+looking-glass, to which she used to go, and then she would gaze upon
+herself in it, and say:</p>
+<p> <said who="#snowdrop-stepmother_queen">‘Tell me, glass, tell me true!
+  Of all the ladies in the land,
+  Who is fairest, tell me, who?’</said></p>
+<p>And the glass had always answered:</p>
+<p> <said who="#snowdrop-looking-glass">‘Thou, queen, art the fairest in all the land.’</said></p>
+<p>But <persName ref="#snowdrop-snowdrop">Snowdrop</persName> grew more and more beautiful; and when she was seven years
+old she was as bright as the day, and fairer than the queen herself.
+Then the glass one day answered the queen, when she went to look in it
+as usual:</p>
+<p> <said who="#snowdrop-looking-glass">‘Thou, queen, art fair, and beauteous to see,
+  But <persName ref="#snowdrop-snowdrop">Snowdrop</persName> is lovelier far than thee!’</said></p>
+<p>When she heard this she turned pale with rage and envy, and called to
+one of her servants, and said, <said who="#snowdrop-stepmother_queen">‘Take <persName ref="#snowdrop-snowdrop">Snowdrop</persName> away into the wide wood,
+that I may never see her any more.’</said> Then the servant led her away; but
+his heart melted when <persName ref="#snowdrop-snowdrop">Snowdrop</persName> begged him to spare her life, and he
+said, <said who="#snowdrop-servant">‘I will not hurt you, thou pretty child.’</said> So he left her by
+herself; and though he thought it most likely that the wild beasts would
+tear her in pieces, he felt as if a great weight were taken off his
+heart when he had made up his mind not to kill her but to leave her to
+her fate, with the chance of someone finding and saving her.</p>
+<p>Then poor <persName ref="#snowdrop-snowdrop">Snowdrop</persName> wandered along through the wood in great fear; and
+the wild beasts roared about her, but none did her any harm. In the
+evening she came to a cottage among the hills, and went in to rest, for
+her little feet would carry her no further. Everything was spruce and
+neat in the cottage: on the table was spread a white cloth, and there
+were seven little plates, seven little loaves, and seven little glasses
+with wine in them; and seven knives and forks laid in order; and by
+the wall stood seven little beds. As she was very hungry, she picked
+a little piece of each loaf and drank a very little wine out of each
+glass; and after that she thought she would lie down and rest. So she
+tried all the little beds; but one was too long, and another was too
+short, till at last the seventh suited her: and there she laid herself
+down and went to sleep.</p>
+<p>By and by in came the masters of the cottage. Now they were seven little
+dwarfs, that lived among the mountains, and dug and searched for gold.
+They lighted up their seven lamps, and saw at once that all was not
+right. The first said, <said who="#snowdrop-first_dwarf">‘Who has been sitting on my stool?’</said> The second,
+<said who="#snowdrop-second_dwarf">‘Who has been eating off my plate?’</said> The third, <said who="#snowdrop-third_dwarf">‘Who has been picking my
+bread?’</said> The fourth, <said who="#snowdrop-fourth_dwarf">‘Who has been meddling with my spoon?’</said> The fifth,
+<said who="#snowdrop-fifth_dwarf">‘Who has been handling my fork?’</said> The sixth, <said who="#snowdrop-sixth_dwarf">‘Who has been cutting with
+my knife?’</said> The seventh, <said who="#snowdrop-seventh_dwarf">‘Who has been drinking my wine?’</said> Then the first
+looked round and said, <said who="#snowdrop-first_dwarf">‘Who has been lying on my bed?’</said> And the rest came
+running to him, and everyone cried out that somebody had been upon his
+bed. But the seventh saw <persName ref="#snowdrop-snowdrop">Snowdrop</persName>, and called all his brethren to come
+and see her; and they cried out with wonder and astonishment and brought
+their lamps to look at her, and said, <said who="#snowdrop-dwarfs">‘Good heavens! what a lovely child
+she is!’</said> And they were very glad to see her, and took care not to wake
+her; and the seventh dwarf slept an hour with each of the other dwarfs
+in turn, till the night was gone.</p>
+<p>In the morning <persName ref="#snowdrop-snowdrop">Snowdrop</persName> told them all her story; and they pitied her,
+and said if she would keep all things in order, and cook and wash and
+knit and spin for them, she might stay where she was, and they would
+take good care of her. Then they went out all day long to their work,
+seeking for gold and silver in the mountains: but <persName ref="#snowdrop-snowdrop">Snowdrop</persName> was left at
+home; and they warned her, and said, <said who="#snowdrop-dwarfs">‘The queen will soon find out where
+you are, so take care and let no one in.’</said></p>
+<p>But the queen, now that she thought <persName ref="#snowdrop-snowdrop">Snowdrop</persName> was dead, believed that she
+must be the handsomest lady in the land; and she went to her glass and
+said:</p>
+<p> <said who="#snowdrop-stepmother_queen">‘Tell me, glass, tell me true!
+  Of all the ladies in the land,
+  Who is fairest, tell me, who?’</said></p>
+<p>And the glass answered:</p>
+<p> <said who="#snowdrop-looking-glass">‘Thou, queen, art the fairest in all this land:
+  But over the hills, in the greenwood shade,
+  Where the seven dwarfs their dwelling have made,
+  There <persName ref="#snowdrop-snowdrop">Snowdrop</persName> is hiding her head; and she
+  Is lovelier far, O queen! than thee.’</said></p>
+<p>Then the queen was very much frightened; for she knew that the glass
+always spoke the truth, and was sure that the servant had betrayed her.
+And she could not bear to think that anyone lived who was more beautiful
+than she was; so she dressed herself up as an old pedlar, and went
+her way over the hills, to the place where the dwarfs dwelt. Then she
+knocked at the door, and cried, <said who="#snowdrop-stepmother_queen">‘Fine wares to sell!’</said> <persName ref="#snowdrop-snowdrop">Snowdrop</persName> looked
+out at the window, and said, <said who="#snowdrop-snowdrop">‘Good day, good woman! what have you to
+sell?’</said> <said who="#snowdrop-stepmother_queen">‘Good wares, fine wares,’</said> said she; <said who="#snowdrop-stepmother_queen">‘laces and bobbins of all
+colours.’</said> <said aloud="false" who="#snowdrop-snowdrop">‘I will let the old lady in; she seems to be a very good
+sort of body,’</said> thought <persName ref="#snowdrop-snowdrop">Snowdrop</persName>, as she ran down and unbolted the door.
+<said who="#snowdrop-stepmother_queen">‘Bless me!’</said> said the old woman, <said who="#snowdrop-stepmother_queen">‘how badly your stays are laced! Let me
+lace them up with one of my nice new laces.’</said> <persName ref="#snowdrop-snowdrop">Snowdrop</persName> did not dream of
+any mischief; so she stood before the old woman; but she set to work
+so nimbly, and pulled the lace so tight, that <persName ref="#snowdrop-snowdrop">Snowdrop</persName>’s breath was
+stopped, and she fell down as if she were dead. <said who="#snowdrop-stepmother_queen">‘There’s an end to all
+thy beauty,’</said> said the spiteful queen, and went away home.</p>
+<p>In the evening the seven dwarfs came home; and I need not say how
+grieved they were to see their faithful <persName ref="#snowdrop-snowdrop">Snowdrop</persName> stretched out upon the
+ground, as if she was quite dead. However, they lifted her up, and when
+they found what ailed her, they cut the lace; and in a little time she
+began to breathe, and very soon came to life again. Then they said, <said who="#snowdrop-dwarfs">‘The
+old woman was the queen herself; take care another time, and let no one
+in when we are away.’</said></p>
+<p>When the queen got home, she went straight to her glass, and spoke to it
+as before; but to her great grief it still said:</p>
+<p> <said who="#snowdrop-looking-glass">‘Thou, queen, art the fairest in all this land:
+  But over the hills, in the greenwood shade,
+  Where the seven dwarfs their dwelling have made,
+  There <persName ref="#snowdrop-snowdrop">Snowdrop</persName> is hiding her head; and she
+  Is lovelier far, O queen! than thee.’</said></p>
+<p>Then the blood ran cold in her heart with spite and malice, to see that
+<persName ref="#snowdrop-snowdrop">Snowdrop</persName> still lived; and she dressed herself up again, but in quite
+another dress from the one she wore before, and took with her a poisoned
+comb. When she reached the dwarfs’ cottage, she knocked at the door, and
+cried, <said who="#snowdrop-stepmother_queen">‘Fine wares to sell!’</said> But <persName ref="#snowdrop-snowdrop">Snowdrop</persName> said, <said who="#snowdrop-snowdrop">‘I dare not let anyone
+in.’</said> Then the queen said, <said who="#snowdrop-stepmother_queen">‘Only look at my beautiful combs!’</said> and gave
+her the poisoned one. And it looked so pretty, that she took it up and
+put it into her hair to try it; but the moment it touched her head,
+the poison was so powerful that she fell down senseless. <said who="#snowdrop-stepmother_queen">‘There you may
+lie,’</said> said the queen, and went her way. But by good luck the dwarfs
+came in very early that evening; and when they saw <persName ref="#snowdrop-snowdrop">Snowdrop</persName> lying on
+the ground, they thought what had happened, and soon found the poisoned
+comb. And when they took it away she got well, and told them all that
+had passed; and they warned her once more not to open the door to
+anyone.</p>
+<p>Meantime the queen went home to her glass, and shook with rage when she
+read the very same answer as before; and she said, <said who="#snowdrop-stepmother_queen">‘<persName ref="#snowdrop-snowdrop">Snowdrop</persName> shall die,
+if it cost me my life.’</said> So she went by herself into her chamber, and got
+ready a poisoned apple: the outside looked very rosy and tempting, but
+whoever tasted it was sure to die. Then she dressed herself up as a
+peasant’s wife, and travelled over the hills to the dwarfs’ cottage,
+and knocked at the door; but <persName ref="#snowdrop-snowdrop">Snowdrop</persName> put her head out of the window and
+said, <said who="#snowdrop-snowdrop">‘I dare not let anyone in, for the dwarfs have told me not.’</said> <said who="#snowdrop-stepmother_queen">‘Do
+as you please,’</said> said the old woman, <said who="#snowdrop-stepmother_queen">‘but at any rate take this pretty
+apple; I will give it you.’</said> <said who="#snowdrop-snowdrop">‘No,’</said> said <persName ref="#snowdrop-snowdrop">Snowdrop</persName>, <said who="#snowdrop-snowdrop">‘I dare not take it.’</said>
+<said who="#snowdrop-stepmother_queen">‘You silly girl!’</said> answered the other, <said who="#snowdrop-stepmother_queen">‘what are you afraid of? Do you
+think it is poisoned? Come! do you eat one part, and I will eat the
+other.’</said> Now the apple was so made up that one side was good, though the
+other side was poisoned. Then <persName ref="#snowdrop-snowdrop">Snowdrop</persName> was much tempted to taste, for
+the apple looked so very nice; and when she saw the old woman eat, she
+could wait no longer. But she had scarcely put the piece into her mouth,
+when she fell down dead upon the ground. <said who="#snowdrop-stepmother_queen">‘This time nothing will save
+thee,’</said> said the queen; and she went home to her glass, and at last it
+said:</p>
+<p> <said who="#snowdrop-looking-glass">‘Thou, queen, art the fairest of all the fair.’</said></p>
+<p>And then her wicked heart was glad, and as happy as such a heart could
+be.</p>
+<p>When evening came, and the dwarfs had gone home, they found <persName ref="#snowdrop-snowdrop">Snowdrop</persName>
+lying on the ground: no breath came from her lips, and they were afraid
+that she was quite dead. They lifted her up, and combed her hair, and
+washed her face with wine and water; but all was in vain, for the little
+girl seemed quite dead. So they laid her down upon a bier, and all seven
+watched and bewailed her three whole days; and then they thought they
+would bury her: but her cheeks were still rosy; and her face looked just
+as it did while she was alive; so they said, <said who="#snowdrop-dwarfs">‘We will never bury her in
+the cold ground.’</said> And they made a coffin of glass, so that they might
+still look at her, and wrote upon it in golden letters what her name
+was, and that she was a king’s daughter. And the coffin was set among
+the hills, and one of the dwarfs always sat by it and watched. And the
+birds of the air came too, and bemoaned <persName ref="#snowdrop-snowdrop">Snowdrop</persName>; and first of all came
+an owl, and then a raven, and at last a dove, and sat by her side.</p>
+<p>And thus <persName ref="#snowdrop-snowdrop">Snowdrop</persName> lay for a long, long time, and still only looked as
+though she was asleep; for she was even now as white as snow, and as red
+as blood, and as black as ebony. At last a prince came and called at the
+dwarfs’ house; and he saw <persName ref="#snowdrop-snowdrop">Snowdrop</persName>, and read what was written in golden
+letters. Then he offered the dwarfs money, and prayed and besought them
+to let him take her away; but they said, <said who="#snowdrop-dwarfs">‘We will not part with her for
+all the gold in the world.’</said> At last, however, they had pity on him, and
+gave him the coffin; but the moment he lifted it up to carry it home
+with him, the piece of apple fell from between her lips, and <persName ref="#snowdrop-snowdrop">Snowdrop</persName>
+awoke, and said, <said who="#snowdrop-snowdrop">‘Where am I?’</said> And the prince said, <said who="#snowdrop-prince">‘Thou art quite safe
+with me.’</said></p>
+<p>Then he told her all that had happened, and said, <said who="#snowdrop-prince">‘I love you far better
+than all the world; so come with me to my father’s palace, and you shall
+be my wife.’</said> And <persName ref="#snowdrop-snowdrop">Snowdrop</persName> consented, and went home with the prince;
+and everything was got ready with great pomp and splendour for their
+wedding.</p>
+<p>To the feast was asked, among the rest, <persName ref="#snowdrop-snowdrop">Snowdrop</persName>’s old enemy the queen;
+and as she was dressing herself in fine rich clothes, she looked in the
+glass and said:</p>
+<p> <said who="#snowdrop-stepmother_queen">‘Tell me, glass, tell me true!
+  Of all the ladies in the land,
+  Who is fairest, tell me, who?’</said></p>
+<p>And the glass answered:</p>
+<p> <said who="#snowdrop-looking-glass">‘Thou, lady, art loveliest here, I ween;
+  But lovelier far is the new-made queen.’</said></p>
+<p>When she heard this she started with rage; but her envy and curiosity
+were so great, that she could not help setting out to see the bride. And
+when she got there, and saw that it was no other than <persName ref="#snowdrop-snowdrop">Snowdrop</persName>, who, as
+she thought, had been dead a long while, she choked with rage, and fell
+down and died: but <persName ref="#snowdrop-snowdrop">Snowdrop</persName> and the prince lived and reigned happily
+over that land many, many years; and sometimes they went up into the
+mountains, and paid a visit to the little dwarfs, who had been so kind
+to <persName ref="#snowdrop-snowdrop">Snowdrop</persName> in her time of need.</p>
+</div>
+    </body>
+  </text>
+</TEI>

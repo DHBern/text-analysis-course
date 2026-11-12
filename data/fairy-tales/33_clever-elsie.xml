@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Clever Elsie</title>
+        <author>Jacob Grimm</author>
+        <author>Wilhelm Grimm</author>
+        <respStmt>
+          <resp>Translated by</resp>
+          <persName>Edgar Taylor</persName>
+          <persName>Marian Edwardes</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Extracted from the collection file GrimmFairyTales_EN_Gutenberg_female.xml for the Text Analysis Course (DH Bern). Not published separately.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Jacob Grimm</author> and <author>Wilhelm Grimm</author>, <title>Grimms’ Fairy Tales</title>, translated by <editor role="translator">Edgar Taylor</editor> and <editor role="translator">Marian Edwardes</editor>, <publisher>Project Gutenberg</publisher>, <idno type="Gutenberg">2591</idno>, <ref target="https://www.gutenberg.org/ebooks/2591">https://www.gutenberg.org/ebooks/2591</ref>. Tale n. 33: <title>CLEVER ELSIE</title>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="cleverelsie-clever_elsie" gender="female"><persName>Clever Elsie</persName><persName>Elsie</persName></person>
+          <person xml:id="cleverelsie-father" gender="male"><persName>father</persName></person>
+          <person xml:id="cleverelsie-mother" gender="female"><persName>mother</persName></person>
+          <person xml:id="cleverelsie-hans" gender="male"><persName>Hans</persName></person>
+          <person xml:id="cleverelsie-maid" gender="female"><persName>maid</persName></person>
+          <person xml:id="cleverelsie-boy" gender="male"><persName>boy</persName></person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div type="tale" n="33">
+<head>CLEVER ELSIE</head>
+<p>There was once a man who had a daughter who was called <persName ref="#cleverelsie-clever_elsie">Clever Elsie</persName>. And
+when she had grown up her father said: <said who="#cleverelsie-father">‘We will get her married.’</said> <said who="#cleverelsie-mother">‘Yes,’</said>
+said the mother, <said who="#cleverelsie-mother">‘if only someone would come who would have her.’</said> At
+length a man came from a distance and wooed her, who was called <persName ref="#cleverelsie-hans">Hans</persName>;
+but he stipulated that <persName ref="#cleverelsie-clever_elsie">Clever Elsie</persName> should be really smart. <said who="#cleverelsie-father">‘Oh,’</said> said
+the father, <said who="#cleverelsie-father">‘she has plenty of good sense’</said>; and the mother said: <said who="#cleverelsie-mother">‘Oh,
+she can see the wind coming up the street, and hear the flies coughing.’</said>
+<said who="#cleverelsie-hans">‘Well,’</said> said <persName ref="#cleverelsie-hans">Hans</persName>, <said who="#cleverelsie-hans">‘if she is not really smart, I won’t have her.’</said> When
+they were sitting at dinner and had eaten, the mother said: <said who="#cleverelsie-mother">‘<persName ref="#cleverelsie-clever_elsie">Elsie</persName>, go
+into the cellar and fetch some beer.’</said> Then <persName ref="#cleverelsie-clever_elsie">Clever Elsie</persName> took the pitcher
+from the wall, went into the cellar, and tapped the lid briskly as she
+went, so that the time might not appear long. When she was below she
+fetched herself a chair, and set it before the barrel so that she had
+no need to stoop, and did not hurt her back or do herself any unexpected
+injury. Then she placed the can before her, and turned the tap, and
+while the beer was running she would not let her eyes be idle, but
+looked up at the wall, and after much peering here and there, saw a
+pick-axe exactly above her, which the masons had accidentally left
+there.</p>
+<p>Then <persName ref="#cleverelsie-clever_elsie">Clever Elsie</persName> began to weep and said: <said who="#cleverelsie-clever_elsie">‘If I get <persName ref="#cleverelsie-hans">Hans</persName>, and we have
+a child, and he grows big, and we send him into the cellar here to draw
+beer, then the pick-axe will fall on his head and kill him.’</said> Then she
+sat and wept and screamed with all the strength of her body, over the
+misfortune which lay before her. Those upstairs waited for the drink,
+but <persName ref="#cleverelsie-clever_elsie">Clever Elsie</persName> still did not come. Then the woman said to the servant:
+<said who="#cleverelsie-mother">‘Just go down into the cellar and see where <persName ref="#cleverelsie-clever_elsie">Elsie</persName> is.’</said> The maid went and
+found her sitting in front of the barrel, screaming loudly. <said who="#cleverelsie-maid">‘<persName ref="#cleverelsie-clever_elsie">Elsie</persName> why
+do you weep?’</said> asked the maid. <said who="#cleverelsie-clever_elsie">‘Ah,’</said> she answered, <said who="#cleverelsie-clever_elsie">‘have I not reason to
+weep? If I get <persName ref="#cleverelsie-hans">Hans</persName>, and we have a child, and he grows big, and has to
+draw beer here, the pick-axe will perhaps fall on his head, and kill
+him.’</said> Then said the maid: <said who="#cleverelsie-maid">‘What a clever <persName ref="#cleverelsie-clever_elsie">Elsie</persName> we have!’</said> and sat down
+beside her and began loudly to weep over the misfortune. After a while,
+as the maid did not come back, and those upstairs were thirsty for the
+beer, the man said to the boy: <said who="#cleverelsie-father">‘Just go down into the cellar and see
+where <persName ref="#cleverelsie-clever_elsie">Elsie</persName> and the girl are.’</said> The boy went down, and there sat <persName ref="#cleverelsie-clever_elsie">Clever
+Elsie</persName> and the girl both weeping together. Then he asked: <said who="#cleverelsie-boy">‘Why are you
+weeping?’</said> <said who="#cleverelsie-clever_elsie">‘Ah,’</said> said <persName ref="#cleverelsie-clever_elsie">Elsie</persName>, <said who="#cleverelsie-clever_elsie">‘have I not reason to weep? If I get <persName ref="#cleverelsie-hans">Hans</persName>,
+and we have a child, and he grows big, and has to draw beer here, the
+pick-axe will fall on his head and kill him.’</said> Then said the boy: <said who="#cleverelsie-boy">‘What
+a clever <persName ref="#cleverelsie-clever_elsie">Elsie</persName> we have!’</said> and sat down by her, and likewise began to
+howl loudly. Upstairs they waited for the boy, but as he still did not
+return, the man said to the woman: <said who="#cleverelsie-father">‘Just go down into the cellar and see
+where <persName ref="#cleverelsie-clever_elsie">Elsie</persName> is!’</said> The woman went down, and found all three in the midst
+of their lamentations, and inquired what was the cause; then <persName ref="#cleverelsie-clever_elsie">Elsie</persName> told
+her also that her future child was to be killed by the pick-axe, when it
+grew big and had to draw beer, and the pick-axe fell down. Then said the
+mother likewise: <said who="#cleverelsie-mother">‘What a clever <persName ref="#cleverelsie-clever_elsie">Elsie</persName> we have!’</said> and sat down and wept
+with them. The man upstairs waited a short time, but as his wife did not
+come back and his thirst grew ever greater, he said: <said who="#cleverelsie-father">‘I must go into the
+cellar myself and see where <persName ref="#cleverelsie-clever_elsie">Elsie</persName> is.’</said> But when he got into the cellar,
+and they were all sitting together crying, and he heard the reason, and
+that <persName ref="#cleverelsie-clever_elsie">Elsie</persName>’s child was the cause, and the <persName ref="#cleverelsie-clever_elsie">Elsie</persName> might perhaps bring one
+into the world some day, and that he might be killed by the pick-axe, if
+he should happen to be sitting beneath it, drawing beer just at the very
+time when it fell down, he cried: <said who="#cleverelsie-father">‘Oh, what a clever <persName ref="#cleverelsie-clever_elsie">Elsie</persName>!’</said> and sat
+down, and likewise wept with them. The bridegroom stayed upstairs alone
+for a long time; then as no one would come back he thought: <said aloud="false" who="#cleverelsie-hans">‘They must be
+waiting for me below: I too must go there and see what they are about.’</said>
+When he got down, the five of them were sitting screaming and lamenting
+quite piteously, each out-doing the other. <said who="#cleverelsie-hans">‘What misfortune has happened
+then?’</said> asked he. <said who="#cleverelsie-clever_elsie">‘Ah, dear <persName ref="#cleverelsie-hans">Hans</persName>,’</said> said <persName ref="#cleverelsie-clever_elsie">Elsie</persName>, <said who="#cleverelsie-clever_elsie">‘if we marry each other
+and have a child, and he is big, and we perhaps send him here to draw
+something to drink, then the pick-axe which has been left up there might
+dash his brains out if it were to fall down, so have we not reason to
+weep?’</said> <said who="#cleverelsie-hans">‘Come,’</said> said <persName ref="#cleverelsie-hans">Hans</persName>, <said who="#cleverelsie-hans">‘more understanding than that is not needed
+for my household, as you are such a clever <persName ref="#cleverelsie-clever_elsie">Elsie</persName>, I will have you,’</said> and
+seized her hand, took her upstairs with him, and married her.</p>
+<p>After <persName ref="#cleverelsie-hans">Hans</persName> had had her some time, he said: <said who="#cleverelsie-hans">‘Wife, I am going out to work
+and earn some money for us; go into the field and cut the corn that we
+may have some bread.’</said> <said who="#cleverelsie-clever_elsie">‘Yes, dear <persName ref="#cleverelsie-hans">Hans</persName>, I will do that.’</said> After <persName ref="#cleverelsie-hans">Hans</persName> had
+gone away, she cooked herself some good broth and took it into the field
+with her. When she came to the field she said to herself: <said who="#cleverelsie-clever_elsie">‘What shall I
+do; shall I cut first, or shall I eat first? Oh, I will eat first.’</said> Then
+she drank her cup of broth and when she was fully satisfied, she once
+more said: <said who="#cleverelsie-clever_elsie">‘What shall I do? Shall I cut first, or shall I sleep first?
+I will sleep first.’</said> Then she lay down among the corn and fell asleep.
+<persName ref="#cleverelsie-hans">Hans</persName> had been at home for a long time, but <persName ref="#cleverelsie-clever_elsie">Elsie</persName> did not come; then said
+he: <said who="#cleverelsie-hans">‘What a clever <persName ref="#cleverelsie-clever_elsie">Elsie</persName> I have; she is so industrious that she does not
+even come home to eat.’</said> But when evening came and she still stayed away,
+<persName ref="#cleverelsie-hans">Hans</persName> went out to see what she had cut, but nothing was cut, and she
+was lying among the corn asleep. Then <persName ref="#cleverelsie-hans">Hans</persName> hastened home and brought
+a fowler’s net with little bells and hung it round about her, and she
+still went on sleeping. Then he ran home, shut the house-door, and sat
+down in his chair and worked. At length, when it was quite dark, <persName ref="#cleverelsie-clever_elsie">Clever
+Elsie</persName> awoke and when she got up there was a jingling all round about
+her, and the bells rang at each step which she took. Then she was
+alarmed, and became uncertain whether she really was <persName ref="#cleverelsie-clever_elsie">Clever Elsie</persName> or
+not, and said: <said who="#cleverelsie-clever_elsie">‘Is it I, or is it not I?’</said> But she knew not what answer
+to make to this, and stood for a time in doubt; at length she thought:
+<said aloud="false" who="#cleverelsie-clever_elsie">‘I will go home and ask if it be I, or if it be not I, they will be sure
+to know.’</said> She ran to the door of her own house, but it was shut; then
+she knocked at the window and cried: <said who="#cleverelsie-clever_elsie">‘<persName ref="#cleverelsie-hans">Hans</persName>, is <persName ref="#cleverelsie-clever_elsie">Elsie</persName> within?’</said> <said who="#cleverelsie-hans">‘Yes,’</said>
+answered <persName ref="#cleverelsie-hans">Hans</persName>, <said who="#cleverelsie-hans">‘she is within.’</said> Hereupon she was terrified, and said:
+<said who="#cleverelsie-clever_elsie">‘Ah, heavens! Then it is not I,’</said> and went to another door; but when the
+people heard the jingling of the bells they would not open it, and she
+could get in nowhere. Then she ran out of the village, and no one has
+seen her since.</p>
+</div>
+    </body>
+  </text>
+</TEI>
