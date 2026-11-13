@@ -1,0 +1,562 @@
+speech_id,tale,who,speech,predicted,confidence,score_order,score_request,score_question,score_statement,score_promise/threat,score_exclamation
+0,07_briar-rose,#briarrose-fish,"I know what your wish is, and it shall be fulfilled, in return for your kindness to me--you will soon have a daughter.",statement,0.316,0.243,0.142,0.008,0.316,0.231,0.059
+1,07_briar-rose,#briarrose-queen,"I will have the fairies also, that they might be kind and good to our little daughter.",promise/threat,0.272,0.127,0.169,0.067,0.241,0.272,0.124
+2,07_briar-rose,#briarrose-thirteenth_fairy,"The king’s daughter shall, in her fifteenth year, be wounded by a spindle, and fall down dead.",promise/threat,0.375,0.283,0.035,0.038,0.206,0.375,0.063
+3,07_briar-rose,#briarrose-briar_rose,"Why, how now, good mother, what are you doing there?",question,0.432,0.002,0.035,0.432,0.199,0.015,0.317
+4,07_briar-rose,#briarrose-old_lady,"Spinning,",exclamation,0.459,0.126,0.071,0.09,0.148,0.107,0.459
+5,07_briar-rose,#briarrose-briar_rose,How prettily that little thing turns round!,exclamation,0.686,0.024,0.036,0.055,0.167,0.032,0.686
+6,07_briar-rose,#briarrose-prince,All this shall not frighten me; I will go and see this Briar Rose.,statement,0.413,0.048,0.029,0.063,0.413,0.316,0.131
+7,12_the-frog-prince,#frogprince-princess,"Alas! if I could only get my ball again, I would give all my fine clothes and jewels, and everything that I have in the world.",exclamation,0.294,0.012,0.119,0.128,0.279,0.169,0.294
+8,12_the-frog-prince,#frogprince-frog,"Princess, why do you weep so bitterly?",question,0.616,0.004,0.092,0.616,0.149,0.005,0.133
+9,12_the-frog-prince,#frogprince-princess,"Alas! what can you do for me, you nasty frog? My golden ball has fallen into the spring.",exclamation,0.35,0.002,0.119,0.323,0.189,0.016,0.35
+10,12_the-frog-prince,#frogprince-frog,"I want not your pearls, and jewels, and fine clothes; but if you will love me, and let me live with you and eat from off your golden plate, and sleep upon your bed, I will bring you your ball again.",statement,0.235,0.067,0.223,0.18,0.235,0.225,0.07
+11,12_the-frog-prince,#frogprince-princess,"What nonsense, this silly frog is talking! He can never even get out of the spring to visit me, though he may be able to get my ball for me, and therefore I will tell him he shall have what he asks.",exclamation,0.296,0.044,0.237,0.16,0.179,0.085,0.296
+12,12_the-frog-prince,#frogprince-princess,"Well, if you will bring me my ball, I will do all you ask.",request,0.321,0.08,0.321,0.154,0.199,0.143,0.104
+13,12_the-frog-prince,#frogprince-frog,"Stay, princess, and take me with you as you said,",statement,0.407,0.123,0.12,0.079,0.407,0.127,0.144
+14,12_the-frog-prince,#frogprince-frog,"Open the door, my princess dear, Open the door to thy true love here! And mind the words that thou and I said By the fountain cool, in the greenwood shade.",request,0.291,0.192,0.291,0.127,0.133,0.061,0.196
+15,12_the-frog-prince,#frogprince-princess,"There is a nasty frog, at the door, that lifted my ball for me out of the spring this morning: I told him that he should live with me here, thinking that he could never get out of the spring; but there he is at the door, and he wants to come in.",statement,0.277,0.082,0.185,0.148,0.277,0.121,0.188
+16,12_the-frog-prince,#frogprince-frog,"Open the door, my princess dear, Open the door to thy true love here! And mind the words that thou and I said By the fountain cool, in the greenwood shade.",request,0.291,0.192,0.291,0.127,0.133,0.061,0.196
+17,12_the-frog-prince,#frogprince-king,As you have given your word you must keep it; so go and let him in.,statement,0.428,0.319,0.026,0.015,0.428,0.191,0.022
+18,12_the-frog-prince,#frogprince-frog,"Pray lift me upon chair, and let me sit next to you.",request,0.446,0.127,0.446,0.094,0.145,0.07,0.117
+19,12_the-frog-prince,#frogprince-frog,"Put your plate nearer to me, that I may eat out of it.",order,0.296,0.296,0.177,0.13,0.168,0.15,0.079
+20,12_the-frog-prince,#frogprince-frog,"Now I am tired; carry me upstairs, and put me into your bed.",order,0.251,0.251,0.239,0.077,0.157,0.198,0.078
+21,12_the-frog-prince,#frogprince-princess,"Now, then, at last he is gone, and I shall be troubled with him no more.",statement,0.47,0.117,0.028,0.055,0.47,0.099,0.232
+22,12_the-frog-prince,#frogprince-frog,"Open the door, my princess dear, Open the door to thy true love here! And mind the words that thou and I said By the fountain cool, in the greenwood shade.",request,0.291,0.192,0.291,0.127,0.133,0.061,0.196
+23,12_the-frog-prince,#frogprince-frog,"You, have broken his cruel charm, and now I have nothing to wish for but that you should go with me into my father’s kingdom, where I will marry you, and love you as long as you live.",request,0.29,0.141,0.29,0.053,0.253,0.172,0.092
+24,12_the-frog-prince,#frogprince-princess,Yes,statement,0.543,0.048,0.053,0.051,0.543,0.075,0.229
+25,14_the-goose-girl,#goosegirl-fairy,"Take care of it, dear child; for it is a charm that may be of use to you on the road.",statement,0.252,0.216,0.204,0.092,0.252,0.141,0.095
+26,14_the-goose-girl,#goosegirl-princess,"Pray get down, and fetch me some water in my golden cup out of yonder brook, for I want to drink.",request,0.364,0.19,0.364,0.114,0.183,0.055,0.094
+27,14_the-goose-girl,#goosegirl-waiting-maid,"Nay, if you are thirsty, get off yourself, and stoop down by the water and drink; I shall not be your waiting-maid any longer.",statement,0.245,0.16,0.145,0.148,0.245,0.23,0.072
+28,14_the-goose-girl,#goosegirl-princess,Alas! what will become of me?,question,0.351,0.001,0.004,0.351,0.2,0.123,0.321
+29,14_the-goose-girl,#goosegirl-lock_of_hair,"Alas! alas! if thy mother knew it, Sadly, sadly, would she rue it.",exclamation,0.418,0.014,0.013,0.049,0.322,0.184,0.418
+30,14_the-goose-girl,#goosegirl-princess,"Pray get down, and fetch me some water to drink in my golden cup.",request,0.326,0.283,0.326,0.077,0.169,0.054,0.091
+31,14_the-goose-girl,#goosegirl-waiting-maid,"Drink if you will, but I shall not be your waiting-maid.",statement,0.32,0.055,0.084,0.156,0.32,0.272,0.114
+32,14_the-goose-girl,#goosegirl-princess,What will become of me?,question,0.519,0.001,0.025,0.519,0.203,0.159,0.094
+33,14_the-goose-girl,#goosegirl-lock_of_hair,"Alas! alas! if thy mother knew it, Sadly, sadly, would she rue it.",exclamation,0.418,0.014,0.013,0.049,0.322,0.184,0.418
+34,14_the-goose-girl,#goosegirl-waiting-maid,"I shall ride upon Falada, and you may have my horse instead",statement,0.304,0.038,0.063,0.158,0.304,0.255,0.182
+35,14_the-goose-girl,#goosegirl-waiting-maid,"I brought her with me for the sake of her company on the road, pray give the girl some work to do, that she may not be idle.",request,0.513,0.033,0.513,0.092,0.202,0.049,0.111
+36,14_the-goose-girl,#goosegirl-old_king,I have a lad who takes care of my geese; she may go and help him.,statement,0.278,0.041,0.103,0.235,0.278,0.195,0.149
+37,14_the-goose-girl,#goosegirl-waiting-maid,"Dear husband, pray do me one piece of kindness.",request,0.464,0.05,0.464,0.147,0.152,0.043,0.143
+38,14_the-goose-girl,#goosegirl-prince,"That I will,",statement,0.431,0.091,0.018,0.022,0.431,0.207,0.232
+39,14_the-goose-girl,#goosegirl-waiting-maid,"Then tell one of your slaughterers to cut off the head of the horse I rode upon, for it was very unruly, and plagued me sadly on the road",order,0.272,0.272,0.162,0.089,0.175,0.239,0.062
+40,14_the-goose-girl,#goosegirl-princess,"Falada, Falada, there thou hangest!",exclamation,0.337,0.254,0.021,0.01,0.241,0.137,0.337
+41,14_the-goose-girl,#goosegirl-falada,"Bride, bride, there thou gangest! Alas! alas! if thy mother knew it, Sadly, sadly, would she rue it.",exclamation,0.403,0.023,0.021,0.052,0.271,0.23,0.403
+42,14_the-goose-girl,#goosegirl-princess,"Blow, breezes, blow! Let Curdken’s hat go! Blow, breezes, blow! Let him after it go! O’er hills, dales, and rocks, Away be it whirl’d Till the silvery locks Are all comb’d and curl’d!",exclamation,0.317,0.135,0.22,0.066,0.165,0.098,0.317
+43,14_the-goose-girl,#goosegirl-princess,"Falada, Falada, there thou hangest!",exclamation,0.337,0.254,0.021,0.01,0.241,0.137,0.337
+44,14_the-goose-girl,#goosegirl-falada,"Bride, bride, there thou gangest! Alas! alas! if thy mother knew it, Sadly, sadly, would she rue it.",exclamation,0.403,0.023,0.021,0.052,0.271,0.23,0.403
+45,14_the-goose-girl,#goosegirl-princess,"Blow, breezes, blow! Let Curdken’s hat go! Blow, breezes, blow! Let him after it go! O’er hills, dales, and rocks, Away be it whirl’d Till the silvery locks Are all comb’d and curl’d!",exclamation,0.317,0.135,0.22,0.066,0.165,0.098,0.317
+46,14_the-goose-girl,#goosegirl-curdken,I cannot have that strange girl to help me to keep the geese any longer.,statement,0.396,0.26,0.048,0.127,0.396,0.088,0.081
+47,14_the-goose-girl,#goosegirl-old_king,Why?,question,0.829,0.001,0.059,0.829,0.058,0.011,0.041
+48,14_the-goose-girl,#goosegirl-curdken,"Because, instead of doing any good, she does nothing but tease me all day long.",statement,0.395,0.019,0.062,0.169,0.395,0.174,0.181
+49,14_the-goose-girl,#goosegirl-curdken,"When we go in the morning through the dark gate with our flock of geese, she cries and talks with the head of a horse that hangs upon the wall, and says: Falada, Falada, there thou hangest! Bride, bride, there thou gangest! Alas! alas! if thy mother knew it, Sadly, sadly, would she rue it.",exclamation,0.351,0.059,0.027,0.052,0.277,0.233,0.351
+50,14_the-goose-girl,#goosegirl-princess,"Blow, breezes, blow! Let Curdken’s hat go! Blow, breezes, blow! Let him after it go! O’er hills, dales, and rocks, Away be it whirl’d Till the silvery locks Are all comb’d and curl’d!",exclamation,0.317,0.135,0.22,0.066,0.165,0.098,0.317
+51,14_the-goose-girl,#goosegirl-princess,"That I must not tell you or any man, or I shall lose my life.",order,0.339,0.339,0.085,0.072,0.196,0.259,0.049
+52,14_the-goose-girl,#goosegirl-waiting-maid,"Nothing better, than that she should be thrown into a cask stuck round with sharp nails, and that two white horses should be put to it, and should drag it from street to street till she was dead.",promise/threat,0.258,0.211,0.163,0.054,0.187,0.258,0.127
+53,14_the-goose-girl,#goosegirl-old_king,"Thou art she! and as thou has judged thyself, so shall it be done to thee.",exclamation,0.293,0.179,0.009,0.01,0.277,0.233,0.293
+54,16_rapunzel,#rapunzel-husband,"What ails you, dear wife?",question,0.649,0.002,0.078,0.649,0.143,0.013,0.117
+55,16_rapunzel,#rapunzel-wife,"Ah, if I can’t eat some of the rampion, which is in the garden behind our house, I shall die.",promise/threat,0.375,0.086,0.054,0.132,0.217,0.375,0.136
+56,16_rapunzel,#rapunzel-husband,"Sooner than let your wife die, bring her some of the rampion yourself, let it cost what it will.",promise/threat,0.232,0.168,0.149,0.134,0.19,0.232,0.127
+57,16_rapunzel,#rapunzel-dame_gothel,"How can you dare, descend into my garden and steal my rampion like a thief? You shall suffer for it!",promise/threat,0.246,0.135,0.012,0.237,0.167,0.246,0.203
+58,16_rapunzel,#rapunzel-husband,"Ah, let mercy take the place of justice, I only made up my mind to do it out of necessity. My wife saw your rampion from the window, and felt such a longing for it that she would have died if she had not got some to eat.",statement,0.466,0.036,0.123,0.218,0.466,0.062,0.096
+59,16_rapunzel,#rapunzel-dame_gothel,"If the case be as you say, I will allow you to take away with you as much rampion as you will, only I make one condition, you must give me the child which your wife will bring into the world; it shall be well treated, and I will care for it like a mother.",question,0.256,0.144,0.188,0.256,0.239,0.115,0.058
+60,16_rapunzel,#rapunzel-dame_gothel,"Rapunzel, Rapunzel, Let down your hair to me.",order,0.289,0.289,0.262,0.104,0.106,0.065,0.175
+61,16_rapunzel,#rapunzel-dame_gothel,"Rapunzel, Rapunzel, Let down your hair to me.",order,0.289,0.289,0.262,0.104,0.106,0.065,0.175
+62,16_rapunzel,#rapunzel-kings_son,"If that is the ladder by which one mounts, I too will try my fortune,",promise/threat,0.389,0.089,0.034,0.159,0.229,0.389,0.1
+63,16_rapunzel,#rapunzel-kings_son,"Rapunzel, Rapunzel, Let down your hair to me.",order,0.289,0.289,0.262,0.104,0.106,0.065,0.175
+64,16_rapunzel,#rapunzel-rapunzel,He will love me more than old Dame Gothel does,statement,0.307,0.06,0.079,0.104,0.307,0.179,0.27
+65,16_rapunzel,#rapunzel-rapunzel,"I will willingly go away with you, but I do not know how to get down. Bring with you a skein of silk every time that you come, and I will weave a ladder with it, and when that is ready I will descend, and you will take me on your horse.",question,0.284,0.098,0.23,0.284,0.21,0.126,0.052
+66,16_rapunzel,#rapunzel-rapunzel,"Tell me, Dame Gothel, how it happens that you are so much heavier for me to draw up than the young king’s son--he is with me in a moment.",question,0.507,0.066,0.217,0.507,0.095,0.058,0.057
+67,16_rapunzel,#rapunzel-dame_gothel,"Ah! you wicked child, What do I hear you say! I thought I had separated you from all the world, and yet you have deceived me!",exclamation,0.407,0.004,0.02,0.2,0.322,0.047,0.407
+68,16_rapunzel,#rapunzel-kings_son,"Rapunzel, Rapunzel, Let down your hair to me.",order,0.289,0.289,0.262,0.104,0.106,0.065,0.175
+69,16_rapunzel,#rapunzel-dame_gothel,"Aha! you would fetch your dearest, but the beautiful bird sits no longer singing in the nest; the cat has got it, and will scratch out your eyes as well. Rapunzel is lost to you; you will never see her again.",exclamation,0.307,0.074,0.115,0.099,0.15,0.254,0.307
+70,19_hansel-and-gretel,#hanselgretel-father,"What is to become of us? How are we to feed our poor children, when we no longer have anything even for ourselves?",question,0.724,0.004,0.019,0.724,0.125,0.063,0.065
+71,19_hansel-and-gretel,#hanselgretel-stepmother,"I’ll tell you what, husband, early tomorrow morning we will take the children out into the forest to where it is the thickest; there we will light a fire for them, and give each of them one more piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them.",promise/threat,0.258,0.251,0.11,0.104,0.209,0.258,0.067
+72,19_hansel-and-gretel,#hanselgretel-father,"No, wife, I will not do that; how can I bear to leave my children alone in the forest?--the wild animals would soon come and tear them to pieces.",statement,0.403,0.002,0.008,0.282,0.403,0.187,0.118
+73,19_hansel-and-gretel,#hanselgretel-stepmother,"O, you fool! then we must all four die of hunger, you may as well plane the planks for our coffins,",promise/threat,0.279,0.121,0.033,0.075,0.216,0.279,0.276
+74,19_hansel-and-gretel,#hanselgretel-father,"But I feel very sorry for the poor children, all the same,",statement,0.428,0.016,0.042,0.16,0.428,0.124,0.23
+75,19_hansel-and-gretel,#hanselgretel-gretel,Now all is over with us.,statement,0.543,0.055,0.007,0.008,0.543,0.09,0.298
+76,19_hansel-and-gretel,#hanselgretel-hansel,"Be quiet, Gretel, do not distress yourself, I will soon find a way to help us.",statement,0.291,0.249,0.275,0.059,0.291,0.101,0.026
+77,19_hansel-and-gretel,#hanselgretel-hansel,"Be comforted, dear little sister, and sleep in peace, God will not forsake us,",request,0.376,0.099,0.376,0.045,0.204,0.182,0.093
+78,19_hansel-and-gretel,#hanselgretel-stepmother,"Get up, you sluggards! we are going into the forest to fetch wood.",order,0.35,0.35,0.139,0.017,0.206,0.123,0.165
+79,19_hansel-and-gretel,#hanselgretel-stepmother,"There is something for your dinner, but do not eat it up before then, for you will get nothing else.",promise/threat,0.387,0.299,0.062,0.025,0.198,0.387,0.028
+80,19_hansel-and-gretel,#hanselgretel-father,"Hansel, what are you looking at there and staying behind for? Pay attention, and do not forget how to use your legs.",question,0.315,0.197,0.141,0.315,0.225,0.054,0.067
+81,19_hansel-and-gretel,#hanselgretel-hansel,"Ah, father, I am looking at my little white cat, which is sitting up on the roof, and wants to say goodbye to me.",statement,0.405,0.007,0.15,0.124,0.405,0.078,0.237
+82,19_hansel-and-gretel,#hanselgretel-stepmother,"Fool, that is not your little cat, that is the morning sun which is shining on the chimneys.",statement,0.388,0.039,0.064,0.157,0.388,0.124,0.228
+83,19_hansel-and-gretel,#hanselgretel-father,"Now, children, pile up some wood, and I will light a fire that you may not be cold.",order,0.261,0.261,0.133,0.053,0.219,0.24,0.095
+84,19_hansel-and-gretel,#hanselgretel-stepmother,"Now, children, lay yourselves down by the fire and rest, we will go into the forest and cut some wood. When we have done, we will come back and fetch you away.",order,0.324,0.324,0.115,0.058,0.184,0.283,0.037
+85,19_hansel-and-gretel,#hanselgretel-gretel,How are we to get out of the forest now?,question,0.681,0.003,0.155,0.681,0.106,0.021,0.034
+86,19_hansel-and-gretel,#hanselgretel-hansel,"Just wait a little, until the moon has risen, and then we will soon find the way.",request,0.255,0.131,0.255,0.199,0.197,0.167,0.051
+87,19_hansel-and-gretel,#hanselgretel-stepmother,"You naughty children, why have you slept so long in the forest?--we thought you were never coming back at all!",question,0.43,0.005,0.063,0.43,0.163,0.043,0.296
+88,19_hansel-and-gretel,#hanselgretel-stepmother,"Everything is eaten again, we have one half loaf left, and that is the end. The children must go, we will take them farther into the wood, so that they will not find their way out again; there is no other means of saving ourselves!",statement,0.36,0.253,0.036,0.047,0.36,0.157,0.147
+89,19_hansel-and-gretel,#hanselgretel-father,It would be better for you to share the last mouthful with your children.,statement,0.397,0.118,0.125,0.154,0.397,0.102,0.103
+90,19_hansel-and-gretel,#hanselgretel-hansel,"Do not cry, Gretel, go to sleep quietly, the good God will help us.",request,0.371,0.254,0.371,0.056,0.159,0.141,0.018
+91,19_hansel-and-gretel,#hanselgretel-father,"Hansel, why do you stop and look round? go on.",question,0.415,0.119,0.161,0.415,0.143,0.056,0.105
+92,19_hansel-and-gretel,#hanselgretel-hansel,"I am looking back at my little pigeon which is sitting on the roof, and wants to say goodbye to me,",statement,0.427,0.008,0.244,0.117,0.427,0.07,0.134
+93,19_hansel-and-gretel,#hanselgretel-stepmother,"Fool! that is not your little pigeon, that is the morning sun that is shining on the chimney.",exclamation,0.611,0.011,0.034,0.07,0.233,0.041,0.611
+94,19_hansel-and-gretel,#hanselgretel-stepmother,"Just sit there, you children, and when you are tired you may sleep a little; we are going into the forest to cut wood, and in the evening when we are done, we will come and fetch you away.",statement,0.271,0.165,0.179,0.094,0.271,0.264,0.026
+95,19_hansel-and-gretel,#hanselgretel-hansel,"Just wait, Gretel, until the moon rises, and then we shall see the crumbs of bread which I have strewn about, they will show us our way home again.",promise/threat,0.29,0.1,0.163,0.218,0.171,0.29,0.059
+96,19_hansel-and-gretel,#hanselgretel-hansel,"We shall soon find the way,",statement,0.481,0.092,0.043,0.078,0.481,0.119,0.188
+97,19_hansel-and-gretel,#hanselgretel-hansel,"We will set to work on that, and have a good meal. I will eat a bit of the roof, and you Gretel, can eat some of the window, it will taste sweet.",promise/threat,0.362,0.163,0.051,0.124,0.221,0.362,0.079
+98,19_hansel-and-gretel,#hanselgretel-witch,"Nibble, nibble, gnaw, Who is nibbling at my little house?",question,0.348,0.003,0.051,0.348,0.236,0.112,0.25
+99,19_hansel-and-gretel,#hanselgretel-hansel #hanselgretel-gretel,"The wind, the wind, The heaven-born wind,",exclamation,0.413,0.239,0.023,0.015,0.26,0.05,0.413
+100,19_hansel-and-gretel,#hanselgretel-witch,"Oh, you dear children, who has brought you here? do come in, and stay with me. No harm shall happen to you.",question,0.413,0.055,0.148,0.413,0.118,0.103,0.163
+101,19_hansel-and-gretel,#hanselgretel-witch,"I have them, they shall not escape me again!",exclamation,0.31,0.194,0.011,0.008,0.225,0.252,0.31
+102,19_hansel-and-gretel,#hanselgretel-witch,That will be a dainty mouthful!,exclamation,0.408,0.019,0.042,0.058,0.282,0.191,0.408
+103,19_hansel-and-gretel,#hanselgretel-witch,"Get up, lazy thing, fetch some water, and cook something good for your brother, he is in the stable outside, and is to be made fat. When he is fat, I will eat him.",order,0.325,0.325,0.222,0.058,0.155,0.167,0.073
+104,19_hansel-and-gretel,#hanselgretel-witch,"Hansel, stretch out your finger that I may feel if you will soon be fat.",promise/threat,0.336,0.163,0.099,0.134,0.165,0.336,0.103
+105,19_hansel-and-gretel,#hanselgretel-witch,"Now, then, Gretel, stir yourself, and bring some water. Let Hansel be fat or lean, tomorrow I will kill him, and cook him.",promise/threat,0.489,0.182,0.083,0.052,0.154,0.489,0.04
+106,19_hansel-and-gretel,#hanselgretel-gretel,"Dear God, do help us, If the wild beasts in the forest had but devoured us, we should at any rate have died together.",request,0.407,0.015,0.407,0.118,0.202,0.107,0.15
+107,19_hansel-and-gretel,#hanselgretel-witch,"Just keep your noise to yourself, it won’t help you at all.",order,0.297,0.297,0.294,0.088,0.224,0.074,0.023
+108,19_hansel-and-gretel,#hanselgretel-witch,"We will bake first, I have already heated the oven, and kneaded the dough.",order,0.345,0.345,0.047,0.035,0.172,0.336,0.065
+109,19_hansel-and-gretel,#hanselgretel-witch,"Creep in, and see if it is properly heated, so that we can put the bread in.",question,0.27,0.239,0.116,0.27,0.162,0.154,0.059
+110,19_hansel-and-gretel,#hanselgretel-gretel,I do not know how I am to do it; how do I get in?,question,0.505,0.001,0.084,0.505,0.27,0.031,0.108
+111,19_hansel-and-gretel,#hanselgretel-witch,"Silly goose, The door is big enough; just look, I can get in myself!",exclamation,0.346,0.002,0.062,0.133,0.256,0.201,0.346
+112,19_hansel-and-gretel,#hanselgretel-gretel,"Hansel, we are saved! The old witch is dead!",exclamation,0.651,0.019,0.059,0.007,0.188,0.076,0.651
+113,19_hansel-and-gretel,#hanselgretel-hansel,These are far better than pebbles!,exclamation,0.484,0.035,0.021,0.056,0.335,0.07,0.484
+114,19_hansel-and-gretel,#hanselgretel-gretel,"I, too, will take something home with me,",statement,0.381,0.057,0.021,0.03,0.381,0.345,0.166
+115,19_hansel-and-gretel,#hanselgretel-hansel,"But now we must be off, that we may get out of the witch’s forest.",order,0.4,0.4,0.122,0.073,0.27,0.048,0.088
+116,19_hansel-and-gretel,#hanselgretel-hansel,"We cannot cross, I see no foot-plank, and no bridge.",statement,0.45,0.058,0.069,0.187,0.45,0.142,0.094
+117,19_hansel-and-gretel,#hanselgretel-gretel,"And there is also no ferry, but a white duck is swimming there: if I ask her, she will help us over. Little duck, little duck, dost thou see, Hansel and Gretel are waiting for thee? There’s never a plank, or bridge in sight, Take us across on thy back so white.",request,0.276,0.074,0.276,0.275,0.128,0.117,0.129
+118,19_hansel-and-gretel,#hanselgretel-gretel,"No, that will be too heavy for the little duck; she shall take us across, one after the other.",promise/threat,0.297,0.084,0.076,0.133,0.283,0.297,0.126
+119,21_mother-holle,#motherholle-stepmother,As you have let the spindle fall into the well you may go yourself and fetch it out.,statement,0.328,0.174,0.103,0.109,0.328,0.211,0.076
+120,21_mother-holle,#motherholle-loaves,"Take us out, take us out, or alas! we shall be burnt to a cinder; we were baked through long ago.",promise/threat,0.273,0.187,0.161,0.101,0.136,0.273,0.143
+121,21_mother-holle,#motherholle-apple_tree,"Shake me, shake me, I pray, my apples, one and all, are ripe.",request,0.414,0.047,0.414,0.077,0.129,0.17,0.163
+122,21_mother-holle,#motherholle-mother_holle,"What are you afraid of, dear child? Stay with me; if you will do the work of my house properly for me, I will make you very happy. You must be very careful, however, to make my bed in the right way, for I wish you always to shake it thoroughly, so that the feathers fly about; then they say, down there in the world, that it is snowing; for I am Mother Holle.",question,0.329,0.122,0.161,0.329,0.163,0.095,0.13
+123,21_mother-holle,#motherholle-industrious_girl,"I am so homesick, that I cannot stay with you any longer, for although I am so happy here, I must return to my own people.",statement,0.499,0.033,0.089,0.169,0.499,0.068,0.142
+124,21_mother-holle,#motherholle-mother_holle,"I am pleased that you should want to go back to your own people, and as you have served me so well and faithfully, I will take you home myself.",statement,0.501,0.049,0.062,0.091,0.501,0.179,0.117
+125,21_mother-holle,#motherholle-mother_holle,"That is a reward for your industry,",exclamation,0.423,0.064,0.022,0.021,0.41,0.06,0.423
+126,21_mother-holle,#motherholle-cock,Cock-a-doodle-doo! Your golden daughter’s come back to you.,exclamation,0.537,0.041,0.023,0.036,0.26,0.103,0.537
+127,21_mother-holle,#motherholle-loaves,"Take us out, take us out, or alas! we shall be burnt to a cinder; we were baked through long ago,",promise/threat,0.265,0.168,0.161,0.106,0.15,0.265,0.15
+128,21_mother-holle,#motherholle-lazy_girl,Do you think I am going to dirty my hands for you?,question,0.437,0.008,0.058,0.437,0.22,0.169,0.108
+129,21_mother-holle,#motherholle-apple_tree,"Shake me, shake me, I pray; my apples, one and all, are ripe,",request,0.42,0.029,0.42,0.062,0.159,0.152,0.177
+130,21_mother-holle,#motherholle-lazy_girl,"A nice thing to ask me to do, one of the apples might fall on my head,",request,0.438,0.078,0.438,0.164,0.077,0.202,0.041
+131,21_mother-holle,#motherholle-lazy_girl,The gold will soon be mine.,promise/threat,0.389,0.131,0.021,0.013,0.246,0.389,0.201
+132,21_mother-holle,#motherholle-mother_holle,"That is in return for your services,",statement,0.277,0.181,0.138,0.038,0.277,0.218,0.148
+133,21_mother-holle,#motherholle-cock,Cock-a-doodle-doo! Your dirty daughter’s come back to you.,exclamation,0.466,0.073,0.02,0.041,0.268,0.132,0.466
+134,22_little-red-cap,#redcap-mother,"Come, Little Red-Cap, here is a piece of cake and a bottle of wine; take them to your grandmother, she is ill and weak, and they will do her good. Set out before it gets hot, and when you are going, walk nicely and quietly and do not run off the path, or you may fall and break the bottle, and then your grandmother will get nothing; and when you go into her room, don’t forget to say, “Good morning”, and don’t peep into every corner before you do it.",order,0.294,0.294,0.177,0.076,0.217,0.175,0.06
+135,22_little-red-cap,#redcap-little_red-cap,"I will take great care,",statement,0.473,0.054,0.014,0.037,0.473,0.209,0.213
+136,22_little-red-cap,#redcap-wolf,"Good day, Little Red-Cap,",exclamation,0.444,0.081,0.014,0.027,0.349,0.085,0.444
+137,22_little-red-cap,#redcap-little_red-cap,"Thank you kindly, wolf.",exclamation,0.486,0.005,0.082,0.048,0.334,0.045,0.486
+138,22_little-red-cap,#redcap-wolf,"Whither away so early, Little Red-Cap?",question,0.475,0.011,0.131,0.475,0.169,0.068,0.144
+139,22_little-red-cap,#redcap-little_red-cap,To my grandmother’s.,statement,0.307,0.121,0.071,0.114,0.307,0.116,0.271
+140,22_little-red-cap,#redcap-wolf,What have you got in your apron?,question,0.635,0.016,0.099,0.635,0.122,0.028,0.1
+141,22_little-red-cap,#redcap-little_red-cap,"Cake and wine; yesterday was baking-day, so poor sick grandmother is to have something good, to make her stronger.",order,0.274,0.274,0.262,0.051,0.197,0.126,0.09
+142,22_little-red-cap,#redcap-wolf,"Where does your grandmother live, Little Red-Cap?",question,0.574,0.025,0.12,0.574,0.13,0.052,0.099
+143,22_little-red-cap,#redcap-little_red-cap,"A good quarter of a league farther on in the wood; her house stands under the three large oak-trees, the nut-trees are just below; you surely must know it,",question,0.406,0.114,0.119,0.406,0.206,0.06,0.095
+144,22_little-red-cap,#redcap-wolf,"What a tender young creature! what a nice plump mouthful--she will be better to eat than the old woman. I must act craftily, so as to catch both.",statement,0.265,0.113,0.046,0.139,0.265,0.195,0.242
+145,22_little-red-cap,#redcap-wolf,"See, Little Red-Cap, how pretty the flowers are about here--why do you not look round? I believe, too, that you do not hear how sweetly the little birds are singing; you walk gravely along as if you were going to school, while everything else out here in the wood is merry.",question,0.547,0.018,0.173,0.547,0.138,0.05,0.074
+146,22_little-red-cap,#redcap-little_red-cap,Suppose I take grandmother a fresh nosegay; that would please her too. It is so early in the day that I shall still get there in good time,question,0.338,0.092,0.107,0.338,0.247,0.117,0.099
+147,22_little-red-cap,#redcap-grandmother,Who is there?,question,0.723,0.006,0.082,0.723,0.085,0.015,0.09
+148,22_little-red-cap,#redcap-wolf,"Little Red-Cap, She is bringing cake and wine; open the door.",order,0.32,0.32,0.085,0.028,0.269,0.088,0.211
+149,22_little-red-cap,#redcap-grandmother,"Lift the latch, I am too weak, and cannot get up.",request,0.291,0.263,0.291,0.131,0.182,0.08,0.053
+150,22_little-red-cap,#redcap-little_red-cap,"Oh dear! how uneasy I feel today, and at other times I like being with grandmother so much. Good morning,",statement,0.542,0.006,0.038,0.238,0.542,0.058,0.117
+151,22_little-red-cap,#redcap-little_red-cap,"Oh! grandmother, what big ears you have!",exclamation,0.65,0.015,0.036,0.066,0.198,0.035,0.65
+152,22_little-red-cap,#redcap-wolf,"The better to hear you with, my child,",statement,0.325,0.156,0.138,0.126,0.325,0.139,0.115
+153,22_little-red-cap,#redcap-little_red-cap,"But, grandmother, what big eyes you have!",exclamation,0.423,0.029,0.061,0.147,0.277,0.063,0.423
+154,22_little-red-cap,#redcap-wolf,"The better to see you with, my dear.",statement,0.36,0.108,0.043,0.058,0.36,0.192,0.24
+155,22_little-red-cap,#redcap-little_red-cap,"But, grandmother, what large hands you have!",exclamation,0.409,0.034,0.055,0.144,0.287,0.071,0.409
+156,22_little-red-cap,#redcap-wolf,The better to hug you with.,exclamation,0.224,0.142,0.144,0.159,0.217,0.115,0.224
+157,22_little-red-cap,#redcap-little_red-cap,"Oh! but, grandmother, what a terrible big mouth you have!",exclamation,0.613,0.005,0.017,0.049,0.285,0.032,0.613
+158,22_little-red-cap,#redcap-wolf,The better to eat you with!,promise/threat,0.321,0.129,0.038,0.037,0.196,0.321,0.28
+159,22_little-red-cap,#redcap-huntsman,How the old woman is snoring! I must just see if she wants anything.,exclamation,0.347,0.035,0.069,0.267,0.224,0.057,0.347
+160,22_little-red-cap,#redcap-huntsman,"Do I find you here, you old sinner! I have long sought you!",exclamation,0.357,0.006,0.043,0.342,0.148,0.104,0.357
+161,22_little-red-cap,#redcap-little_red-cap,"Ah, how frightened I have been! How dark it was inside the wolf",exclamation,0.58,0.004,0.025,0.086,0.236,0.069,0.58
+162,22_little-red-cap,#redcap-little_red-cap,"As long as I live, I will never by myself leave the path, to run into the wood, when my mother has forbidden me to do so.",order,0.339,0.339,0.035,0.072,0.303,0.162,0.091
+163,22_little-red-cap,#redcap-grandmother,"Well, we will shut the door, that he may not come in.",promise/threat,0.295,0.241,0.057,0.088,0.246,0.295,0.072
+164,22_little-red-cap,#redcap-second_wolf,"Open the door, grandmother, I am Little Red-Cap, and am bringing you some cakes.",statement,0.38,0.053,0.093,0.04,0.38,0.116,0.318
+165,22_little-red-cap,#redcap-grandmother,"Take the pail, Red-Cap; I made some sausages yesterday, so carry the water in which I boiled them to the trough.",order,0.298,0.298,0.157,0.096,0.233,0.128,0.088
+166,23_the-robber-bridegroom,#robber-miller,I will give her to the first suitable man who comes and asks for her hand.,promise/threat,0.297,0.185,0.062,0.098,0.268,0.297,0.09
+167,23_the-robber-bridegroom,#robber-bridegroom,"You have not yet paid me a visit, although we have been betrothed for some time.",statement,0.284,0.021,0.075,0.199,0.284,0.231,0.19
+168,23_the-robber-bridegroom,#robber-millers_daughter,"I do not know where your house is,",statement,0.461,0.002,0.066,0.264,0.461,0.073,0.133
+169,23_the-robber-bridegroom,#robber-bridegroom,"My house is out there in the dark forest,",statement,0.413,0.017,0.029,0.083,0.413,0.177,0.281
+170,23_the-robber-bridegroom,#robber-bridegroom,"You must come and see me next Sunday; I have already invited guests for that day, and that you may not mistake the way, I will strew ashes along the path.",order,0.363,0.363,0.159,0.053,0.161,0.179,0.085
+171,23_the-robber-bridegroom,#robber-bird,"Turn back, turn back, young maiden fair, Linger not in this murderers’ lair.",promise/threat,0.268,0.167,0.245,0.115,0.104,0.268,0.101
+172,23_the-robber-bridegroom,#robber-bird,"Turn back, turn back, young maiden fair, Linger not in this murderers’ lair.",promise/threat,0.268,0.167,0.245,0.115,0.104,0.268,0.101
+173,23_the-robber-bridegroom,#robber-millers_daughter,"Can you tell me, if my betrothed husband lives here?",question,0.505,0.019,0.165,0.505,0.184,0.053,0.074
+174,23_the-robber-bridegroom,#robber-old_woman,"Ah, you poor child, what a place for you to come to! This is a murderers’ den. You think yourself a promised bride, and that your marriage will soon take place, but it is with death that you will keep your marriage feast. Look, do you see that large cauldron of water which I am obliged to keep on the fire! As soon as they have you in their power they will kill you without mercy, and cook and eat you, for they are eaters of men. If I did not take pity on you and save you, you would be lost.",promise/threat,0.529,0.076,0.047,0.104,0.116,0.529,0.128
+175,23_the-robber-bridegroom,#robber-old_woman,"Keep as still as a mouse, do not move or speak, or it will be all over with you. Tonight, when the robbers are all asleep, we will flee together. I have long been waiting for an opportunity to escape.",promise/threat,0.408,0.247,0.11,0.065,0.149,0.408,0.022
+176,23_the-robber-bridegroom,#robber-robber,Have you looked behind the large cask?,question,0.621,0.03,0.147,0.621,0.099,0.041,0.062
+177,23_the-robber-bridegroom,#robber-old_woman,"Come and eat your suppers, and let the thing be till tomorrow; the finger won’t run away.",order,0.235,0.235,0.212,0.093,0.217,0.206,0.038
+178,23_the-robber-bridegroom,#robber-robbers,"The old woman is right,",statement,0.703,0.036,0.029,0.038,0.703,0.039,0.155
+179,23_the-robber-bridegroom,#robber-bridegroom,"And you, my love,",exclamation,0.377,0.084,0.068,0.075,0.324,0.072,0.377
+180,23_the-robber-bridegroom,#robber-bridegroom,is there no tale you know? Tell us something.,question,0.408,0.082,0.26,0.408,0.066,0.061,0.123
+181,23_the-robber-bridegroom,#robber-millers_daughter,"I will tell you a dream, then, I went alone through a forest and came at last to a house; not a soul could I find within, but a bird that was hanging in a cage on the wall cried: Turn back, turn back, young maiden fair, Linger not in this murderers’ lair. and again a second time it said these words.",statement,0.303,0.109,0.131,0.089,0.303,0.174,0.194
+182,23_the-robber-bridegroom,#robber-bridegroom,"My darling, this is only a dream.",exclamation,0.444,0.044,0.183,0.099,0.084,0.145,0.444
+183,23_the-robber-bridegroom,#robber-millers_daughter,"I went on through the house from room to room, but they were all empty, and everything was so grim and mysterious. At last I went down to the cellar, and there sat a very, very old woman, who could not keep her head still. I asked her if my betrothed lived here, and she answered, “Ah, you poor child, you are come to a murderers’ den; your betrothed does indeed live here, but he will kill you without mercy and afterwards cook and eat you.”",promise/threat,0.411,0.041,0.035,0.224,0.168,0.411,0.122
+184,23_the-robber-bridegroom,#robber-bridegroom,"My darling, this is only a dream.",exclamation,0.444,0.044,0.183,0.099,0.084,0.145,0.444
+185,23_the-robber-bridegroom,#robber-millers_daughter,"The old woman hid me behind a large cask, and scarcely had she done this when the robbers returned home, dragging a young girl along with them. They gave her three kinds of wine to drink, white, red, and yellow, and with that she died.",statement,0.322,0.085,0.094,0.207,0.322,0.149,0.144
+186,23_the-robber-bridegroom,#robber-bridegroom,"My darling, this is only a dream.",exclamation,0.444,0.044,0.183,0.099,0.084,0.145,0.444
+187,23_the-robber-bridegroom,#robber-millers_daughter,"Then they tore off her dainty clothing, and cut her beautiful body into pieces and sprinkled salt upon it.",exclamation,0.27,0.156,0.091,0.208,0.174,0.102,0.27
+188,23_the-robber-bridegroom,#robber-bridegroom,"My darling, this is only a dream.",exclamation,0.444,0.044,0.183,0.099,0.084,0.145,0.444
+189,23_the-robber-bridegroom,#robber-millers_daughter,"And one of the robbers saw that there was a gold ring still left on her finger, and as it was difficult to draw off, he took a hatchet and cut off her finger; but the finger sprang into the air and fell behind the great cask into my lap. And here is the finger with the ring.",statement,0.285,0.064,0.111,0.16,0.285,0.155,0.224
+190,25_rumpelstiltskin,#rumpelstiltskin-king,"All this must be spun into gold before morning, as you love your life.",order,0.415,0.415,0.117,0.04,0.158,0.173,0.096
+191,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"Good morrow to you, my good lass; what are you weeping for?",question,0.482,0.01,0.021,0.482,0.206,0.103,0.179
+192,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,"Alas! I must spin this straw into gold, and I know not how.",exclamation,0.358,0.039,0.096,0.194,0.229,0.084,0.358
+193,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"What will you give me, to do it for you?",question,0.445,0.031,0.234,0.445,0.146,0.09,0.055
+194,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,"My necklace,",exclamation,0.396,0.065,0.07,0.086,0.242,0.142,0.396
+195,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"Round about, round about, Lo and behold! Reel away, reel away, Straw into gold!",exclamation,0.374,0.103,0.1,0.056,0.174,0.193,0.374
+196,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,What will you give me to do your task?,question,0.463,0.04,0.211,0.463,0.159,0.077,0.051
+197,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,"The ring on my finger,",exclamation,0.386,0.063,0.047,0.085,0.175,0.244,0.386
+198,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"Round about, round about, Lo and behold! Reel away, reel away, Straw into gold!",exclamation,0.374,0.103,0.1,0.056,0.174,0.193,0.374
+199,25_rumpelstiltskin,#rumpelstiltskin-king,"All this must be spun tonight; and if it is, you shall be my queen.",order,0.255,0.255,0.096,0.192,0.192,0.203,0.062
+200,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,What will you give me to spin gold for you this third time?,question,0.474,0.036,0.159,0.474,0.143,0.116,0.071
+201,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,"I have nothing left,",statement,0.519,0.002,0.012,0.035,0.519,0.056,0.377
+202,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"Then say you will give me, the first little child that you may have when you are queen.",statement,0.249,0.147,0.149,0.145,0.249,0.218,0.091
+203,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,"That may never be,",exclamation,0.333,0.003,0.034,0.278,0.112,0.241,0.333
+204,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"I will give you three days’ grace, and if during that time you tell me my name, you shall keep your child.",promise/threat,0.351,0.064,0.113,0.181,0.241,0.351,0.05
+205,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"Madam, that is not my name.",exclamation,0.386,0.02,0.063,0.112,0.361,0.057,0.386
+206,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"Madam, that is not my name.",exclamation,0.386,0.02,0.063,0.112,0.361,0.057,0.386
+207,25_rumpelstiltskin,#rumpelstiltskin-messenger,"I have travelled two days without hearing of any other names; but yesterday, as I was climbing a high hill, among the trees of the forest where the fox and the hare bid each other good night, I saw a little hut; and before the hut burnt a fire; and round about the fire a funny little dwarf was dancing upon one leg, and singing: “Merrily the feast I’ll make. Today I’ll brew, tomorrow bake; Merrily I’ll dance and sing, For next day will a stranger bring. Little does my lady dream Rumpelstiltskin is my name!”",statement,0.267,0.052,0.058,0.131,0.267,0.236,0.257
+208,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"Now, lady, what is my name?",question,0.629,0.02,0.136,0.629,0.107,0.018,0.091
+209,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,Is it JOHN?,question,0.661,0.014,0.094,0.661,0.095,0.038,0.098
+210,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"No, madam!",exclamation,0.414,0.007,0.023,0.041,0.398,0.118,0.414
+211,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,Is it TOM?,question,0.684,0.011,0.072,0.684,0.089,0.05,0.094
+212,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,"No, madam!",exclamation,0.414,0.007,0.023,0.041,0.398,0.118,0.414
+213,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,Is it JEMMY?,question,0.559,0.012,0.141,0.559,0.085,0.038,0.165
+214,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,It is not.,statement,0.456,0.029,0.073,0.148,0.456,0.178,0.116
+215,25_rumpelstiltskin,#rumpelstiltskin-millers_daughter,Can your name be RUMPELSTILTSKIN?,question,0.48,0.02,0.23,0.48,0.118,0.055,0.097
+216,25_rumpelstiltskin,#rumpelstiltskin-rumpelstiltskin,Some witch told you that!--some witch told you that!,statement,0.423,0.012,0.005,0.035,0.423,0.133,0.393
+217,25_rumpelstiltskin,#rumpelstiltskin-court,"We wish you a very good morning, and a merry feast, Mr RUMPLESTILTSKIN!",exclamation,0.551,0.021,0.011,0.018,0.324,0.075,0.551
+218,26_clever-gretel,#clevergretel-gretel,You certainly are a pretty girl!,exclamation,0.482,0.014,0.01,0.032,0.432,0.029,0.482
+219,26_clever-gretel,#clevergretel-gretel,The cook must know what the food is like.,question,0.284,0.111,0.271,0.284,0.162,0.059,0.113
+220,26_clever-gretel,#clevergretel-master,"Gretel, there is a guest coming this evening; prepare me two fowls very daintily.",order,0.29,0.29,0.173,0.047,0.268,0.114,0.108
+221,26_clever-gretel,#clevergretel-gretel,"I will see to it, master,",statement,0.36,0.095,0.021,0.024,0.36,0.233,0.267
+222,26_clever-gretel,#clevergretel-gretel,"If the guest does not come, I must take the fowls away from the fire, but it will be a sin and a shame if they are not eaten the moment they are at their juiciest.",promise/threat,0.375,0.213,0.033,0.114,0.208,0.375,0.057
+223,26_clever-gretel,#clevergretel-master,"I will run myself, and fetch the guest.",statement,0.332,0.159,0.028,0.054,0.332,0.251,0.175
+224,26_clever-gretel,#clevergretel-gretel,"Standing so long by the fire there, makes one sweat and thirsty; who knows when they will come? Meanwhile, I will run into the cellar, and take a drink.",question,0.49,0.022,0.059,0.49,0.175,0.137,0.117
+225,26_clever-gretel,#clevergretel-gretel,"God bless it for you, Gretel,",exclamation,0.403,0.031,0.042,0.06,0.348,0.116,0.403
+226,26_clever-gretel,#clevergretel-gretel,"Something might be wrong, it ought to be tasted!",exclamation,0.339,0.219,0.141,0.108,0.128,0.066,0.339
+227,26_clever-gretel,#clevergretel-gretel,Ah! how good fowls are! It certainly is a sin and a shame that they are not eaten at the right time!,exclamation,0.45,0.034,0.038,0.104,0.306,0.067,0.45
+228,26_clever-gretel,#clevergretel-gretel,One of the wings is burning! I had better take it off and eat it.,promise/threat,0.326,0.231,0.046,0.04,0.141,0.326,0.215
+229,26_clever-gretel,#clevergretel-gretel,"The other must go down too, or else master will observe that something is missing.",order,0.388,0.388,0.113,0.08,0.18,0.184,0.056
+230,26_clever-gretel,#clevergretel-gretel,"Who knows? They are perhaps not coming at all, and have turned in somewhere. Well, Gretel, enjoy yourself, one fowl has been cut into, take another drink, and eat it up entirely; when it is eaten you will have some peace, why should God’s good gifts be spoilt?",question,0.328,0.1,0.109,0.328,0.213,0.125,0.126
+231,26_clever-gretel,#clevergretel-gretel,"What one is, the other should be likewise, the two go together; what’s right for the one is right for the other; I think if I were to take another draught it would do me no harm.",order,0.447,0.447,0.041,0.136,0.261,0.043,0.072
+232,26_clever-gretel,#clevergretel-master,"Hurry up, Gretel, the guest is coming directly after me!",order,0.272,0.272,0.132,0.054,0.162,0.118,0.262
+233,26_clever-gretel,#clevergretel-gretel,"Yes, sir, I will soon serve up,",statement,0.481,0.045,0.031,0.022,0.481,0.284,0.135
+234,26_clever-gretel,#clevergretel-gretel,"Hush! hush! go away as quickly as you can, if my master catches you it will be the worse for you; he certainly did ask you to supper, but his intention is to cut off your two ears. Just listen how he is sharpening the knife for it!",promise/threat,0.384,0.225,0.058,0.06,0.151,0.384,0.122
+235,26_clever-gretel,#clevergretel-gretel,You have invited a fine guest!,exclamation,0.522,0.018,0.016,0.043,0.361,0.041,0.522
+236,26_clever-gretel,#clevergretel-master,"Why, Gretel? What do you mean by that?",question,0.667,0.003,0.059,0.667,0.123,0.044,0.104
+237,26_clever-gretel,#clevergretel-gretel,"Yes, he has taken the chickens which I was just going to serve up, off the dish, and has run away with them!",statement,0.496,0.005,0.03,0.188,0.496,0.017,0.265
+238,26_clever-gretel,#clevergretel-master,That’s a nice trick!,exclamation,0.756,0.011,0.018,0.046,0.098,0.071,0.756
+239,26_clever-gretel,#clevergretel-master,"If he had but left me one, so that something remained for me to eat.",question,0.268,0.076,0.187,0.268,0.243,0.101,0.125
+240,26_clever-gretel,#clevergretel-master,"Just one, just one,",request,0.377,0.053,0.377,0.033,0.144,0.098,0.295
+241,30_sweetheart-roland,#roland-witch,"Be quiet, my child, and you shall have it. Your stepsister has long deserved death; tonight when she is asleep I will come and cut her head off. Only be careful that you are at the far side of the bed, and push her well to the front.",promise/threat,0.387,0.283,0.067,0.054,0.2,0.387,0.009
+242,30_sweetheart-roland,#roland-maiden,"Listen, dearest Roland, we must fly in all haste; my stepmother wanted to kill me, but has struck her own child. When daylight comes, and she sees what she has done, we shall be lost.",order,0.354,0.354,0.176,0.047,0.161,0.091,0.172
+243,30_sweetheart-roland,#roland-roland,"But, I counsel you first to take away her magic wand, or we cannot escape if she pursues us.",order,0.261,0.261,0.21,0.106,0.192,0.178,0.054
+244,30_sweetheart-roland,#roland-witch,Where are you?,question,0.572,0.015,0.147,0.572,0.131,0.022,0.112
+245,30_sweetheart-roland,#roland-first_drop_of_blood,"Here, on the stairs, I am sweeping,",statement,0.31,0.134,0.074,0.118,0.31,0.162,0.203
+246,30_sweetheart-roland,#roland-witch,Where are you?,question,0.572,0.015,0.147,0.572,0.131,0.022,0.112
+247,30_sweetheart-roland,#roland-second_drop_of_blood,"Here in the kitchen, I am warming myself,",statement,0.504,0.053,0.059,0.109,0.504,0.084,0.192
+248,30_sweetheart-roland,#roland-witch,Where are you?,question,0.572,0.015,0.147,0.572,0.131,0.022,0.112
+249,30_sweetheart-roland,#roland-third_drop_of_blood,"Ah, here in the bed, I am sleeping,",statement,0.396,0.029,0.05,0.119,0.396,0.093,0.312
+250,30_sweetheart-roland,#roland-witch,"That shall not help you, even if you have got a long way off, you shall still not escape me.",promise/threat,0.351,0.215,0.008,0.059,0.291,0.351,0.077
+251,30_sweetheart-roland,#roland-witch,"Dear musician, may I pluck that beautiful flower for myself?",question,0.266,0.052,0.229,0.266,0.197,0.066,0.19
+252,30_sweetheart-roland,#roland-roland,"Oh, yes, I will play to you while you do it.",promise/threat,0.598,0.039,0.069,0.072,0.104,0.598,0.117
+253,30_sweetheart-roland,#roland-roland,Now I will go to my father and arrange for the wedding.,statement,0.319,0.25,0.045,0.027,0.319,0.181,0.178
+254,30_sweetheart-roland,#roland-maiden,"Then in the meantime I will stay here and wait for you, and that no one may recognize me, I will change myself into a red stone landmark.",statement,0.362,0.067,0.052,0.194,0.362,0.252,0.073
+255,30_sweetheart-roland,#roland-maiden,"Someone will surely come this way, and trample me down.",promise/threat,0.493,0.012,0.005,0.061,0.278,0.493,0.151
+256,30_sweetheart-roland,#roland-wise_woman,"There is some enchantment behind it, listen very early some morning if anything is moving in the room, and if you see anything, no matter what it is, throw a white cloth over it, and then the magic will be stopped.",order,0.247,0.247,0.137,0.121,0.216,0.239,0.04
+257,30_sweetheart-roland,#roland-maiden,"No,",statement,0.459,0.007,0.053,0.056,0.459,0.154,0.271
+258,30_sweetheart-roland,#roland-roland,"I know the voice, that is the true bride, I will have no other!",statement,0.378,0.089,0.042,0.023,0.378,0.212,0.255
+259,31_snowdrop,#snowdrop-queen,"Would that my little daughter may be as white as that snow, as red as that blood, and as black as this ebony windowframe!",request,0.25,0.017,0.25,0.158,0.168,0.216,0.19
+260,31_snowdrop,#snowdrop-stepmother_queen,"Tell me, glass, tell me true! Of all the ladies in the land, Who is fairest, tell me, who?",question,0.25,0.053,0.199,0.25,0.194,0.083,0.22
+261,31_snowdrop,#snowdrop-looking-glass,"Thou, queen, art the fairest in all the land.",statement,0.432,0.093,0.091,0.062,0.432,0.053,0.268
+262,31_snowdrop,#snowdrop-looking-glass,"Thou, queen, art fair, and beauteous to see, But Snowdrop is lovelier far than thee!",statement,0.414,0.048,0.028,0.107,0.414,0.106,0.298
+263,31_snowdrop,#snowdrop-stepmother_queen,"Take Snowdrop away into the wide wood, that I may never see her any more.",order,0.208,0.208,0.186,0.145,0.183,0.196,0.082
+264,31_snowdrop,#snowdrop-servant,"I will not hurt you, thou pretty child.",statement,0.433,0.015,0.039,0.049,0.433,0.34,0.123
+265,31_snowdrop,#snowdrop-first_dwarf,Who has been sitting on my stool?,question,0.617,0.026,0.113,0.617,0.141,0.024,0.08
+266,31_snowdrop,#snowdrop-second_dwarf,Who has been eating off my plate?,question,0.605,0.006,0.116,0.605,0.15,0.027,0.095
+267,31_snowdrop,#snowdrop-third_dwarf,Who has been picking my bread?,question,0.546,0.008,0.112,0.546,0.183,0.031,0.12
+268,31_snowdrop,#snowdrop-fourth_dwarf,Who has been meddling with my spoon?,question,0.553,0.002,0.119,0.553,0.19,0.018,0.118
+269,31_snowdrop,#snowdrop-fifth_dwarf,Who has been handling my fork?,question,0.573,0.019,0.156,0.573,0.149,0.019,0.084
+270,31_snowdrop,#snowdrop-sixth_dwarf,Who has been cutting with my knife?,question,0.613,0.008,0.114,0.613,0.15,0.028,0.087
+271,31_snowdrop,#snowdrop-seventh_dwarf,Who has been drinking my wine?,question,0.539,0.018,0.125,0.539,0.165,0.022,0.131
+272,31_snowdrop,#snowdrop-first_dwarf,Who has been lying on my bed?,question,0.649,0.012,0.102,0.649,0.136,0.017,0.084
+273,31_snowdrop,#snowdrop-dwarfs,Good heavens! what a lovely child she is!,exclamation,0.623,0.008,0.027,0.053,0.262,0.027,0.623
+274,31_snowdrop,#snowdrop-dwarfs,"The queen will soon find out where you are, so take care and let no one in.",order,0.3,0.3,0.097,0.081,0.217,0.239,0.066
+275,31_snowdrop,#snowdrop-stepmother_queen,"Tell me, glass, tell me true! Of all the ladies in the land, Who is fairest, tell me, who?",question,0.25,0.053,0.199,0.25,0.194,0.083,0.22
+276,31_snowdrop,#snowdrop-looking-glass,"Thou, queen, art the fairest in all this land: But over the hills, in the greenwood shade, Where the seven dwarfs their dwelling have made, There Snowdrop is hiding her head; and she Is lovelier far, O queen! than thee.",statement,0.386,0.05,0.018,0.17,0.386,0.079,0.297
+277,31_snowdrop,#snowdrop-stepmother_queen,Fine wares to sell!,exclamation,0.809,0.046,0.012,0.015,0.077,0.041,0.809
+278,31_snowdrop,#snowdrop-snowdrop,"Good day, good woman! what have you to sell?",question,0.372,0.007,0.069,0.372,0.157,0.046,0.348
+279,31_snowdrop,#snowdrop-stepmother_queen,"Good wares, fine wares, laces and bobbins of all colours.",exclamation,0.458,0.106,0.032,0.095,0.236,0.073,0.458
+280,31_snowdrop,#snowdrop-snowdrop,"I will let the old lady in; she seems to be a very good sort of body,",statement,0.393,0.124,0.049,0.099,0.393,0.163,0.172
+281,31_snowdrop,#snowdrop-stepmother_queen,Bless me! how badly your stays are laced! Let me lace them up with one of my nice new laces.,exclamation,0.366,0.035,0.191,0.104,0.187,0.118,0.366
+282,31_snowdrop,#snowdrop-stepmother_queen,"There’s an end to all thy beauty,",statement,0.34,0.177,0.035,0.043,0.34,0.284,0.12
+283,31_snowdrop,#snowdrop-dwarfs,"The old woman was the queen herself; take care another time, and let no one in when we are away.",statement,0.312,0.193,0.129,0.056,0.312,0.235,0.074
+284,31_snowdrop,#snowdrop-looking-glass,"Thou, queen, art the fairest in all this land: But over the hills, in the greenwood shade, Where the seven dwarfs their dwelling have made, There Snowdrop is hiding her head; and she Is lovelier far, O queen! than thee.",statement,0.386,0.05,0.018,0.17,0.386,0.079,0.297
+285,31_snowdrop,#snowdrop-stepmother_queen,Fine wares to sell!,exclamation,0.809,0.046,0.012,0.015,0.077,0.041,0.809
+286,31_snowdrop,#snowdrop-snowdrop,I dare not let anyone in.,promise/threat,0.434,0.105,0.054,0.058,0.24,0.434,0.109
+287,31_snowdrop,#snowdrop-stepmother_queen,Only look at my beautiful combs!,exclamation,0.511,0.035,0.159,0.029,0.165,0.1,0.511
+288,31_snowdrop,#snowdrop-stepmother_queen,"There you may lie,",promise/threat,0.538,0.009,0.092,0.086,0.116,0.538,0.159
+289,31_snowdrop,#snowdrop-stepmother_queen,"Snowdrop shall die, if it cost me my life.",promise/threat,0.307,0.3,0.066,0.051,0.189,0.307,0.087
+290,31_snowdrop,#snowdrop-snowdrop,"I dare not let anyone in, for the dwarfs have told me not.",statement,0.328,0.23,0.037,0.101,0.328,0.216,0.088
+291,31_snowdrop,#snowdrop-stepmother_queen,"Do as you please, but at any rate take this pretty apple; I will give it you.",promise/threat,0.374,0.066,0.108,0.059,0.308,0.374,0.084
+292,31_snowdrop,#snowdrop-snowdrop,"No, I dare not take it.",statement,0.483,0.005,0.018,0.065,0.483,0.294,0.135
+293,31_snowdrop,#snowdrop-stepmother_queen,"You silly girl! what are you afraid of? Do you think it is poisoned? Come! do you eat one part, and I will eat the other.",promise/threat,0.276,0.065,0.112,0.212,0.136,0.276,0.199
+294,31_snowdrop,#snowdrop-stepmother_queen,"This time nothing will save thee,",statement,0.424,0.022,0.004,0.038,0.424,0.19,0.322
+295,31_snowdrop,#snowdrop-looking-glass,"Thou, queen, art the fairest of all the fair.",statement,0.413,0.108,0.118,0.064,0.413,0.049,0.248
+296,31_snowdrop,#snowdrop-dwarfs,We will never bury her in the cold ground.,statement,0.398,0.128,0.032,0.07,0.398,0.271,0.101
+297,31_snowdrop,#snowdrop-dwarfs,We will not part with her for all the gold in the world.,statement,0.359,0.184,0.009,0.086,0.359,0.233,0.129
+298,31_snowdrop,#snowdrop-snowdrop,Where am I?,question,0.684,0.001,0.1,0.684,0.133,0.009,0.072
+299,31_snowdrop,#snowdrop-prince,Thou art quite safe with me.,statement,0.535,0.043,0.013,0.021,0.535,0.162,0.226
+300,31_snowdrop,#snowdrop-prince,"I love you far better than all the world; so come with me to my father’s palace, and you shall be my wife.",statement,0.327,0.186,0.148,0.062,0.327,0.179,0.098
+301,31_snowdrop,#snowdrop-stepmother_queen,"Tell me, glass, tell me true! Of all the ladies in the land, Who is fairest, tell me, who?",question,0.25,0.053,0.199,0.25,0.194,0.083,0.22
+302,31_snowdrop,#snowdrop-looking-glass,"Thou, lady, art loveliest here, I ween; But lovelier far is the new-made queen.",statement,0.424,0.024,0.08,0.137,0.424,0.083,0.252
+303,33_clever-elsie,#cleverelsie-father,We will get her married.,order,0.289,0.289,0.036,0.014,0.237,0.282,0.141
+304,33_clever-elsie,#cleverelsie-mother,"Yes, if only someone would come who would have her.",statement,0.298,0.029,0.157,0.155,0.298,0.218,0.144
+305,33_clever-elsie,#cleverelsie-father,"Oh, she has plenty of good sense",statement,0.514,0.06,0.055,0.121,0.514,0.098,0.153
+306,33_clever-elsie,#cleverelsie-mother,"Oh, she can see the wind coming up the street, and hear the flies coughing.",statement,0.448,0.028,0.057,0.132,0.448,0.084,0.251
+307,33_clever-elsie,#cleverelsie-hans,"Well, if she is not really smart, I won’t have her.",promise/threat,0.372,0.135,0.028,0.12,0.256,0.372,0.09
+308,33_clever-elsie,#cleverelsie-mother,"Elsie, go into the cellar and fetch some beer.",order,0.491,0.491,0.237,0.061,0.073,0.087,0.052
+309,33_clever-elsie,#cleverelsie-clever_elsie,"If I get Hans, and we have a child, and he grows big, and we send him into the cellar here to draw beer, then the pick-axe will fall on his head and kill him.",promise/threat,0.539,0.107,0.022,0.118,0.13,0.539,0.085
+310,33_clever-elsie,#cleverelsie-mother,Just go down into the cellar and see where Elsie is.,order,0.265,0.265,0.206,0.169,0.164,0.11,0.087
+311,33_clever-elsie,#cleverelsie-maid,Elsie why do you weep?,question,0.623,0.002,0.16,0.623,0.13,0.005,0.079
+312,33_clever-elsie,#cleverelsie-clever_elsie,"Ah, have I not reason to weep? If I get Hans, and we have a child, and he grows big, and has to draw beer here, the pick-axe will perhaps fall on his head, and kill him.",promise/threat,0.474,0.014,0.036,0.307,0.118,0.474,0.052
+313,33_clever-elsie,#cleverelsie-maid,What a clever Elsie we have!,exclamation,0.465,0.027,0.035,0.088,0.303,0.081,0.465
+314,33_clever-elsie,#cleverelsie-father,Just go down into the cellar and see where Elsie and the girl are.,order,0.269,0.269,0.22,0.163,0.17,0.094,0.084
+315,33_clever-elsie,#cleverelsie-boy,Why are you weeping?,question,0.766,0.002,0.092,0.766,0.08,0.006,0.054
+316,33_clever-elsie,#cleverelsie-clever_elsie,"Ah, have I not reason to weep? If I get Hans, and we have a child, and he grows big, and has to draw beer here, the pick-axe will fall on his head and kill him.",promise/threat,0.492,0.05,0.032,0.254,0.116,0.492,0.055
+317,33_clever-elsie,#cleverelsie-boy,What a clever Elsie we have!,exclamation,0.465,0.027,0.035,0.088,0.303,0.081,0.465
+318,33_clever-elsie,#cleverelsie-father,Just go down into the cellar and see where Elsie is!,exclamation,0.266,0.196,0.147,0.137,0.139,0.115,0.266
+319,33_clever-elsie,#cleverelsie-mother,What a clever Elsie we have!,exclamation,0.465,0.027,0.035,0.088,0.303,0.081,0.465
+320,33_clever-elsie,#cleverelsie-father,I must go into the cellar myself and see where Elsie is.,order,0.443,0.443,0.076,0.113,0.193,0.081,0.093
+321,33_clever-elsie,#cleverelsie-father,"Oh, what a clever Elsie!",exclamation,0.588,0.021,0.033,0.071,0.235,0.051,0.588
+322,33_clever-elsie,#cleverelsie-hans,They must be waiting for me below: I too must go there and see what they are about.,order,0.307,0.307,0.091,0.088,0.243,0.091,0.18
+323,33_clever-elsie,#cleverelsie-hans,What misfortune has happened then?,question,0.823,0.002,0.038,0.823,0.062,0.002,0.074
+324,33_clever-elsie,#cleverelsie-clever_elsie,"Ah, dear Hans, if we marry each other and have a child, and he is big, and we perhaps send him here to draw something to drink, then the pick-axe which has been left up there might dash his brains out if it were to fall down, so have we not reason to weep?",question,0.343,0.022,0.054,0.343,0.139,0.335,0.107
+325,33_clever-elsie,#cleverelsie-hans,"Come, more understanding than that is not needed for my household, as you are such a clever Elsie, I will have you,",statement,0.323,0.038,0.166,0.13,0.323,0.273,0.07
+326,33_clever-elsie,#cleverelsie-hans,"Wife, I am going out to work and earn some money for us; go into the field and cut the corn that we may have some bread.",statement,0.433,0.183,0.103,0.035,0.433,0.161,0.085
+327,33_clever-elsie,#cleverelsie-clever_elsie,"Yes, dear Hans, I will do that.",statement,0.51,0.026,0.025,0.04,0.51,0.258,0.141
+328,33_clever-elsie,#cleverelsie-clever_elsie,"What shall I do; shall I cut first, or shall I eat first? Oh, I will eat first.",question,0.543,0.023,0.077,0.543,0.141,0.159,0.059
+329,33_clever-elsie,#cleverelsie-clever_elsie,"What shall I do? Shall I cut first, or shall I sleep first? I will sleep first.",question,0.577,0.018,0.104,0.577,0.074,0.195,0.033
+330,33_clever-elsie,#cleverelsie-hans,What a clever Elsie I have; she is so industrious that she does not even come home to eat.,statement,0.388,0.03,0.048,0.116,0.388,0.093,0.326
+331,33_clever-elsie,#cleverelsie-clever_elsie,"Is it I, or is it not I?",question,0.555,0.011,0.094,0.555,0.242,0.024,0.075
+332,33_clever-elsie,#cleverelsie-clever_elsie,"I will go home and ask if it be I, or if it be not I, they will be sure to know.",question,0.411,0.044,0.135,0.411,0.143,0.162,0.104
+333,33_clever-elsie,#cleverelsie-clever_elsie,"Hans, is Elsie within?",question,0.544,0.05,0.126,0.544,0.188,0.03,0.063
+334,33_clever-elsie,#cleverelsie-hans,"Yes, she is within.",statement,0.604,0.031,0.03,0.026,0.604,0.072,0.237
+335,33_clever-elsie,#cleverelsie-clever_elsie,"Ah, heavens! Then it is not I,",exclamation,0.622,0.006,0.022,0.139,0.146,0.065,0.622
+336,35_ashputtel,#ashputtel-mother,"Always be a good girl, and I will look down from heaven and watch over you.",promise/threat,0.285,0.245,0.113,0.058,0.242,0.285,0.057
+337,35_ashputtel,#ashputtel-stepsisters,What does the good-for-nothing want in the parlour? they who would eat bread should first earn it; away with the kitchen-maid!,question,0.312,0.12,0.072,0.312,0.227,0.099,0.169
+338,35_ashputtel,#ashputtel-first_stepsister,"Fine clothes,",exclamation,0.529,0.055,0.037,0.079,0.232,0.068,0.529
+339,35_ashputtel,#ashputtel-second_stepsister,"Pearls and diamonds,",exclamation,0.428,0.085,0.09,0.065,0.217,0.116,0.428
+340,35_ashputtel,#ashputtel-father,"Now, child,",statement,0.258,0.207,0.135,0.079,0.258,0.078,0.244
+341,35_ashputtel,#ashputtel-father,what will you have?,question,0.5,0.026,0.142,0.5,0.14,0.11,0.082
+342,35_ashputtel,#ashputtel-ashputtel,"The first twig, dear father, that brushes against your hat when you turn your face to come homewards,",statement,0.364,0.202,0.084,0.141,0.364,0.065,0.142
+343,35_ashputtel,#ashputtel-stepsisters,"Now, comb our hair, brush our shoes, and tie our sashes for us, for we are going to dance at the king’s feast.",order,0.397,0.397,0.168,0.093,0.19,0.1,0.051
+344,35_ashputtel,#ashputtel-stepmother,"You, Ashputtel! you who have nothing to wear, no clothes at all, and who cannot even dance--you want to go to the ball?",exclamation,0.304,0.014,0.136,0.294,0.211,0.041,0.304
+345,35_ashputtel,#ashputtel-stepmother,"I will throw this dishful of peas into the ash-heap, and if in two hours’ time you have picked them all out, you shall go to the feast too.",order,0.277,0.277,0.048,0.088,0.256,0.268,0.064
+346,35_ashputtel,#ashputtel-ashputtel,"Hither, hither, through the sky, Turtle-doves and linnets, fly! Blackbird, thrush, and chaffinch gay, Hither, hither, haste away! One and all come help me, quick! Haste ye, haste ye!--pick, pick, pick!",exclamation,0.29,0.12,0.199,0.036,0.191,0.165,0.29
+347,35_ashputtel,#ashputtel-stepmother,"No, no! you slut, you have no clothes, and cannot dance; you shall not go.",order,0.274,0.274,0.05,0.053,0.155,0.205,0.263
+348,35_ashputtel,#ashputtel-stepmother,"If you can in one hour’s time pick two of those dishes of peas out of the ashes, you shall go too.",order,0.275,0.275,0.13,0.139,0.219,0.182,0.055
+349,35_ashputtel,#ashputtel-ashputtel,"Hither, hither, through the sky, Turtle-doves and linnets, fly! Blackbird, thrush, and chaffinch gay, Hither, hither, haste away! One and all come help me, quick! Haste ye, haste ye!--pick, pick, pick!",exclamation,0.29,0.12,0.199,0.036,0.191,0.165,0.29
+350,35_ashputtel,#ashputtel-stepmother,"It is all of no use, you cannot go; you have no clothes, and cannot dance, and you would only put us to shame",statement,0.444,0.183,0.015,0.085,0.444,0.123,0.149
+351,35_ashputtel,#ashputtel-ashputtel,"Shake, shake, hazel-tree, Gold and silver over me!",exclamation,0.344,0.157,0.157,0.019,0.199,0.125,0.344
+352,35_ashputtel,#ashputtel-kings_son,This lady is dancing with me.,exclamation,0.394,0.049,0.114,0.127,0.213,0.102,0.394
+353,35_ashputtel,#ashputtel-kings_son,I shall go and take care of you to your home,statement,0.31,0.207,0.047,0.034,0.31,0.269,0.133
+354,35_ashputtel,#ashputtel-ashputtel,"Shake, shake, hazel-tree, Gold and silver over me!",exclamation,0.344,0.157,0.157,0.019,0.199,0.125,0.344
+355,35_ashputtel,#ashputtel-kings_son,This lady is dancing with me.,exclamation,0.394,0.049,0.114,0.127,0.213,0.102,0.394
+356,35_ashputtel,#ashputtel-kings_son,"The unknown lady who danced with me has slipped away, and I think she must have sprung into the pear-tree.",statement,0.391,0.015,0.055,0.242,0.391,0.049,0.247
+357,35_ashputtel,#ashputtel-father,Can it be Ashputtel?,question,0.563,0.009,0.121,0.563,0.125,0.051,0.13
+358,35_ashputtel,#ashputtel-ashputtel,"Shake, shake, hazel-tree, Gold and silver over me!",exclamation,0.344,0.157,0.157,0.019,0.199,0.125,0.344
+359,35_ashputtel,#ashputtel-kings_son,"This lady is _my_ partner, sir.",statement,0.55,0.014,0.022,0.035,0.55,0.108,0.272
+360,35_ashputtel,#ashputtel-kings_son,I will not lose her this time,statement,0.279,0.167,0.058,0.101,0.279,0.257,0.139
+361,35_ashputtel,#ashputtel-kings_son,I will take for my wife the lady that this golden slipper fits.,statement,0.287,0.229,0.096,0.049,0.287,0.205,0.134
+362,35_ashputtel,#ashputtel-stepmother,"Never mind, cut it off; when you are queen you will not care about toes; you will not want to walk.",promise/threat,0.358,0.098,0.137,0.066,0.186,0.358,0.155
+363,35_ashputtel,#ashputtel-dove,"Back again! back again! look to the shoe! The shoe is too small, and not made for you! Prince! prince! look again for thy bride, For she’s not the true one that sits by thy side.",exclamation,0.463,0.088,0.086,0.14,0.166,0.056,0.463
+364,35_ashputtel,#ashputtel-kings_son,This is not the right bride; let the other sister try and put on the slipper.,statement,0.272,0.191,0.158,0.138,0.272,0.144,0.097
+365,35_ashputtel,#ashputtel-dove,"Back again! back again! look to the shoe! The shoe is too small, and not made for you! Prince! prince! look again for thy bride, For she’s not the true one that sits by thy side.",exclamation,0.463,0.088,0.086,0.14,0.166,0.056,0.463
+366,35_ashputtel,#ashputtel-kings_son,"This is not the true bride, have you no other daughters?",question,0.34,0.034,0.086,0.34,0.284,0.128,0.128
+367,35_ashputtel,#ashputtel-father,"No, there is only a little dirty Ashputtel here, the child of my first wife; I am sure she cannot be the bride.",statement,0.334,0.046,0.082,0.252,0.334,0.093,0.193
+368,35_ashputtel,#ashputtel-stepmother,"No, no, she is much too dirty; she will not dare to show herself.",statement,0.382,0.017,0.062,0.141,0.382,0.19,0.208
+369,35_ashputtel,#ashputtel-kings_son,This is the right bride.,statement,0.492,0.103,0.032,0.037,0.492,0.091,0.244
+370,35_ashputtel,#ashputtel-dove,"Home! home! look at the shoe! Princess! the shoe was made for you! Prince! prince! take home thy bride, For she is the true one that sits by thy side!",exclamation,0.454,0.121,0.094,0.018,0.18,0.133,0.454
+371,37_the-wolf-and-the-seven-little-kids,#wolfkids-mother_goat,"Dear children, I have to go into the forest, be on your guard against the wolf; if he comes in, he will devour you all--skin, hair, and everything. The wretch often disguises himself, but you will know him at once by his rough voice and his black feet.",promise/threat,0.333,0.284,0.083,0.037,0.187,0.333,0.076
+372,37_the-wolf-and-the-seven-little-kids,#wolfkids-kids,"Dear mother, we will take good care of ourselves; you may go away without any anxiety.",statement,0.488,0.014,0.03,0.069,0.488,0.214,0.186
+373,37_the-wolf-and-the-seven-little-kids,#wolfkids-wolf,"Open the door, dear children; your mother is here, and has brought something back with her for each of you.",order,0.309,0.309,0.13,0.039,0.266,0.08,0.177
+374,37_the-wolf-and-the-seven-little-kids,#wolfkids-kids,"We will not open the door, you are not our mother. She has a soft, pleasant voice, but your voice is rough; you are the wolf!",promise/threat,0.276,0.199,0.038,0.101,0.259,0.276,0.127
+375,37_the-wolf-and-the-seven-little-kids,#wolfkids-wolf,"Open the door, dear children, your mother is here and has brought something back with her for each of you.",order,0.3,0.3,0.145,0.03,0.282,0.078,0.165
+376,37_the-wolf-and-the-seven-little-kids,#wolfkids-kids,"We will not open the door, our mother has not black feet like you: you are the wolf!",promise/threat,0.272,0.166,0.03,0.068,0.269,0.272,0.195
+377,37_the-wolf-and-the-seven-little-kids,#wolfkids-wolf,"I have hurt my feet, rub some dough over them for me.",request,0.346,0.178,0.346,0.072,0.248,0.057,0.099
+378,37_the-wolf-and-the-seven-little-kids,#wolfkids-wolf,Strew some white meal over my feet for me.,order,0.292,0.292,0.225,0.045,0.177,0.159,0.102
+379,37_the-wolf-and-the-seven-little-kids,#wolfkids-miller,"The wolf wants to deceive someone,",promise/threat,0.408,0.006,0.187,0.044,0.275,0.408,0.08
+380,37_the-wolf-and-the-seven-little-kids,#wolfkids-wolf,"If you will not do it, I will devour you.",order,0.34,0.34,0.052,0.077,0.185,0.286,0.059
+381,37_the-wolf-and-the-seven-little-kids,#wolfkids-wolf,"Open the door for me, children, your dear little mother has come home, and has brought every one of you something back from the forest with her.",order,0.295,0.295,0.175,0.058,0.214,0.086,0.17
+382,37_the-wolf-and-the-seven-little-kids,#wolfkids-kids,First show us your paws that we may know if you are our dear little mother.,order,0.338,0.338,0.244,0.133,0.155,0.061,0.069
+383,37_the-wolf-and-the-seven-little-kids,#wolfkids-youngest_kid,"Dear mother, I am in the clock-case.",exclamation,0.392,0.015,0.087,0.033,0.378,0.095,0.392
+384,37_the-wolf-and-the-seven-little-kids,#wolfkids-mother_goat,"Ah, heavens, is it possible that my poor children whom he has swallowed down for his supper, can be still alive?",question,0.528,0.007,0.074,0.528,0.129,0.028,0.235
+385,37_the-wolf-and-the-seven-little-kids,#wolfkids-mother_goat,"Now go and look for some big stones, and we will fill the wicked beast’s stomach with them while he is still asleep.",order,0.277,0.277,0.096,0.077,0.208,0.264,0.077
+386,37_the-wolf-and-the-seven-little-kids,#wolfkids-wolf,"What rumbles and tumbles Against my poor bones? I thought ‘twas six kids, But it feels like big stones.",question,0.639,0.007,0.036,0.639,0.142,0.042,0.134
+387,37_the-wolf-and-the-seven-little-kids,#wolfkids-kids,The wolf is dead! The wolf is dead!,exclamation,0.431,0.128,0.004,0.002,0.378,0.057,0.431
+388,46_lily-and-the-lion,#lilylion-lily,"Dear father, bring me a rose.",request,0.247,0.175,0.247,0.069,0.242,0.082,0.184
+389,46_lily-and-the-lion,#lilylion-father,A lucky hit!,exclamation,0.756,0.005,0.009,0.017,0.203,0.009,0.756
+390,46_lily-and-the-lion,#lilylion-lion_prince,Whoever has stolen my roses shall be eaten up alive!,promise/threat,0.29,0.273,0.045,0.019,0.148,0.29,0.225
+391,46_lily-and-the-lion,#lilylion-father,I knew not that the garden belonged to you; can nothing save my life?,question,0.384,0.003,0.072,0.384,0.303,0.092,0.146
+392,46_lily-and-the-lion,#lilylion-lion_prince,"No! nothing, unless you undertake to give me whatever meets you on your return home; if you agree to this, I will give you your life, and the rose too for your daughter.",promise/threat,0.22,0.189,0.116,0.126,0.195,0.22,0.153
+393,46_lily-and-the-lion,#lilylion-father,"It may be my youngest daughter, who loves me most, and always runs to meet me when I go home.",question,0.366,0.04,0.087,0.366,0.308,0.052,0.146
+394,46_lily-and-the-lion,#lilylion-servant,It may perhaps be only a cat or a dog.,question,0.445,0.031,0.094,0.445,0.201,0.029,0.2
+395,46_lily-and-the-lion,#lilylion-father,"Alas, my dearest child! I have bought this flower at a high price, for I have said I would give you to a wild lion; and when he has you, he will tear you in pieces, and eat you.",promise/threat,0.48,0.105,0.03,0.053,0.166,0.48,0.166
+396,46_lily-and-the-lion,#lilylion-lily,"Dear father, the word you have given must be kept; I will go to the lion, and soothe him: perhaps he will let me come safe home again.",order,0.34,0.34,0.046,0.057,0.335,0.2,0.02
+397,46_lily-and-the-lion,#lilylion-lion_prince,"Tomorrow there will be a great feast in your father’s house, for your eldest sister is to be married; and if you wish to go and visit her my lions shall lead you thither.",statement,0.321,0.12,0.035,0.143,0.321,0.28,0.102
+398,46_lily-and-the-lion,#lilylion-lily,I will not go alone this time--you must go with me.,statement,0.262,0.226,0.111,0.074,0.262,0.188,0.139
+399,46_lily-and-the-lion,#lilylion-lion_prince,"Seven years must I fly up and down over the face of the earth, but every now and then I will let fall a white feather, that will show you the way I am going; follow it, and at last you may overtake and set me free.",promise/threat,0.265,0.169,0.113,0.138,0.254,0.265,0.063
+400,46_lily-and-the-lion,#lilylion-lily,"Now, no aid of man can be of use to me.",statement,0.567,0.083,0.011,0.06,0.567,0.096,0.183
+401,46_lily-and-the-lion,#lilylion-lily,"Thou shinest everywhere, on the hill’s top and the valley’s depth--hast thou anywhere seen my white dove?",question,0.43,0.051,0.06,0.43,0.218,0.061,0.18
+402,46_lily-and-the-lion,#lilylion-sun,"No, I have not seen it; but I will give thee a casket--open it when thy hour of need comes.",promise/threat,0.492,0.065,0.03,0.11,0.244,0.492,0.059
+403,46_lily-and-the-lion,#lilylion-lily,"Thou shinest through the night, over field and grove--hast thou nowhere seen my white dove?",question,0.373,0.045,0.064,0.373,0.231,0.075,0.213
+404,46_lily-and-the-lion,#lilylion-moon,"No, I cannot help thee but I will give thee an egg--break it when need comes.",statement,0.444,0.008,0.026,0.081,0.444,0.377,0.063
+405,46_lily-and-the-lion,#lilylion-lily,Thou blowest through every tree and under every leaf--hast thou not seen my white dove?,statement,0.27,0.049,0.036,0.253,0.27,0.138,0.255
+406,46_lily-and-the-lion,#lilylion-night-wind,"No, but I will ask three other winds; perhaps they have seen it.",question,0.386,0.011,0.207,0.386,0.154,0.143,0.1
+407,46_lily-and-the-lion,#lilylion-south_wind,"I have seen the white dove--he has fled to the Red Sea, and is changed once more into a lion, for the seven years are passed away, and there he is fighting with a dragon; and the dragon is an enchanted princess, who seeks to separate him from you.",statement,0.317,0.098,0.063,0.08,0.317,0.277,0.164
+408,46_lily-and-the-lion,#lilylion-night-wind,"I will give thee counsel. Go to the Red Sea; on the right shore stand many rods--count them, and when thou comest to the eleventh, break it off, and smite the dragon with it; and so the lion will have the victory, and both of them will appear to you in their own forms. Then look round and thou wilt see a griffin, winged like bird, sitting by the Red Sea; jump on to his back with thy beloved one as quickly as possible, and he will carry you over the waters to your home. I will also give thee this nut, When you are half-way over, throw it down, and out of the waters will immediately spring up a high nut-tree on which the griffin will be able to rest, otherwise he would not have the strength to bear you the whole way; if, therefore, thou dost forget to throw down the nut, he will let you both fall into the sea.",statement,0.302,0.276,0.096,0.081,0.302,0.148,0.098
+409,46_lily-and-the-lion,#lilylion-lily,"As far as the wind blows, and so long as the cock crows, I will journey on, till I find him once again.",promise/threat,0.321,0.079,0.03,0.112,0.308,0.321,0.149
+410,46_lily-and-the-lion,#lilylion-lily,Heaven aid me now!,exclamation,0.355,0.023,0.298,0.052,0.185,0.087,0.355
+411,46_lily-and-the-lion,#lilylion-lily,Not for gold and silver. but for flesh and blood.,statement,0.307,0.08,0.186,0.119,0.307,0.117,0.191
+412,46_lily-and-the-lion,#lilylion-lily,"Let me speak with the bridegroom this night in his chamber, and I will give thee the dress.",request,0.238,0.156,0.238,0.186,0.152,0.174,0.093
+413,46_lily-and-the-lion,#lilylion-lily,"I have followed thee seven years. I have been to the sun, the moon, and the night-wind, to seek thee, and at last I have helped thee to overcome the dragon. Wilt thou then forget me quite?",question,0.435,0.012,0.134,0.435,0.203,0.099,0.117
+414,46_lily-and-the-lion,#lilylion-lily,"Not for gold or silver, but for flesh and blood: let me again this evening speak with the bridegroom in his chamber, and I will give thee the whole brood.",request,0.227,0.149,0.227,0.141,0.192,0.218,0.073
+415,46_lily-and-the-lion,#lilylion-lion_prince,"You have awakened me as from a dream, for the strange princess had thrown a spell around me, so that I had altogether forgotten you; but Heaven hath sent you to me in a lucky hour.",statement,0.366,0.048,0.08,0.177,0.366,0.109,0.219
+416,52_the-twelve-huntsmen,#twelvehuntsmen-king,"I must now go and leave you, I give you a ring as a remembrance of me. When I am king, I will return and fetch you.",statement,0.405,0.302,0.033,0.054,0.405,0.128,0.078
+417,52_the-twelve-huntsmen,#twelvehuntsmen-old_king,"Dear son, I wished to see you once again before my end, promise me to marry as I wish,",statement,0.28,0.013,0.268,0.052,0.28,0.21,0.175
+418,52_the-twelve-huntsmen,#twelvehuntsmen-king,"Yes, dear father, your will shall be done,",statement,0.45,0.154,0.038,0.028,0.45,0.187,0.143
+419,52_the-twelve-huntsmen,#twelvehuntsmen-brides_father,"Dearest child, why are you so sad? You shall have whatsoever you will.",question,0.51,0.015,0.049,0.51,0.183,0.164,0.079
+420,52_the-twelve-huntsmen,#twelvehuntsmen-kings_daughter,"Dear father, I wish for eleven girls exactly like myself in face, figure, and size.",statement,0.39,0.017,0.185,0.097,0.39,0.071,0.241
+421,52_the-twelve-huntsmen,#twelvehuntsmen-brides_father,"If it be possible, your desire shall be fulfilled,",request,0.196,0.144,0.196,0.185,0.184,0.159,0.133
+422,52_the-twelve-huntsmen,#twelvehuntsmen-king,"Yes,",statement,0.473,0.041,0.047,0.049,0.473,0.081,0.309
+423,52_the-twelve-huntsmen,#twelvehuntsmen-lion,You think you have twelve huntsmen?,question,0.48,0.011,0.055,0.48,0.205,0.07,0.179
+424,52_the-twelve-huntsmen,#twelvehuntsmen-king,"Yes, they are twelve huntsmen.",statement,0.453,0.068,0.031,0.051,0.453,0.134,0.262
+425,52_the-twelve-huntsmen,#twelvehuntsmen-lion,"You are mistaken, they are twelve girls.",statement,0.615,0.019,0.042,0.179,0.615,0.04,0.104
+426,52_the-twelve-huntsmen,#twelvehuntsmen-king,That cannot be true! How will you prove that to me?,exclamation,0.363,0.006,0.093,0.331,0.108,0.099,0.363
+427,52_the-twelve-huntsmen,#twelvehuntsmen-lion,"Oh, just let some peas be strewn in the ante-chamber, and then you will soon see. Men have a firm step, and when they walk over peas none of them stir, but girls trip and skip, and drag their feet, and the peas roll about.",promise/threat,0.339,0.062,0.243,0.173,0.102,0.339,0.081
+428,52_the-twelve-huntsmen,#twelvehuntsmen-servant,The lion wants to make the king believe that you are girls.,request,0.323,0.062,0.323,0.09,0.307,0.143,0.075
+429,52_the-twelve-huntsmen,#twelvehuntsmen-kings_daughter,"Show some strength, and step firmly on the peas.",order,0.391,0.391,0.158,0.042,0.228,0.109,0.071
+430,52_the-twelve-huntsmen,#twelvehuntsmen-king,"You have lied to me, they walk just like men.",statement,0.577,0.015,0.024,0.073,0.577,0.15,0.161
+431,52_the-twelve-huntsmen,#twelvehuntsmen-lion,"They have been informed that they were going to be put to the test, and have assumed some strength. Just let twelve spinning-wheels be brought into the ante-chamber, and they will go to them and be pleased with them, and that is what no man would do.",order,0.26,0.26,0.104,0.117,0.232,0.209,0.077
+432,52_the-twelve-huntsmen,#twelvehuntsmen-kings_daughter,"Show some constraint, and do not look round at the spinning-wheels.",request,0.326,0.319,0.326,0.135,0.134,0.061,0.025
+433,52_the-twelve-huntsmen,#twelvehuntsmen-king,"You have deceived me, they are men, for they have not looked at the spinning-wheels.",statement,0.52,0.037,0.012,0.089,0.52,0.16,0.182
+434,52_the-twelve-huntsmen,#twelvehuntsmen-lion,They have restrained themselves.,statement,0.399,0.063,0.09,0.249,0.399,0.165,0.034
+435,52_the-twelve-huntsmen,#twelvehuntsmen-king,"You are mine, and I am yours, and no one in the world can alter that.",order,0.413,0.413,0.013,0.004,0.369,0.085,0.117
+436,55_the-seven-ravens,#sevenravens-father,"Surely, the whole seven must have forgotten themselves over some game of play",question,0.497,0.017,0.048,0.497,0.161,0.054,0.223
+437,55_the-seven-ravens,#sevenravens-people,"Yes, she is beautiful indeed, but still ‘tis a pity that her brothers should have been lost for her sake.",statement,0.459,0.016,0.032,0.21,0.459,0.067,0.216
+438,55_the-seven-ravens,#sevenravens-moon,I smell flesh and blood this way!,exclamation,0.484,0.031,0.021,0.03,0.258,0.177,0.484
+439,55_the-seven-ravens,#sevenravens-morning_star,"If you have not this little piece of wood, you cannot unlock the castle that stands on the glass-mountain, and there your brothers live.",order,0.263,0.263,0.097,0.099,0.249,0.232,0.06
+440,55_the-seven-ravens,#sevenravens-dwarf,What are you seeking for?,question,0.553,0.006,0.285,0.553,0.104,0.008,0.043
+441,55_the-seven-ravens,#sevenravens-little_sister,"I seek for my brothers, the seven ravens,",request,0.51,0.03,0.51,0.096,0.211,0.038,0.115
+442,55_the-seven-ravens,#sevenravens-dwarf,"My masters are not at home; but if you will wait till they come, pray step in.",request,0.287,0.112,0.287,0.215,0.181,0.113,0.091
+443,55_the-seven-ravens,#sevenravens-dwarf,Here come my masters.,statement,0.287,0.223,0.028,0.015,0.287,0.235,0.211
+444,55_the-seven-ravens,#sevenravens-ravens,Who has eaten from my little plate? And who has been drinking out of my little glass? Caw! Caw! well I ween Mortal lips have this way been.,question,0.445,0.027,0.089,0.445,0.129,0.04,0.27
+445,55_the-seven-ravens,#sevenravens-seventh_raven,O that our little sister would but come! then we should be free.,exclamation,0.241,0.072,0.166,0.153,0.225,0.142,0.241
+446,56_the-wedding-of-mrs-fox,#mrsfox-young_fox,"What may you be about, Miss Cat? Do you sleep or do you wake?",question,0.634,0.011,0.118,0.634,0.167,0.018,0.053
+447,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"I am not sleeping, I am waking, Would you know what I am making? I am boiling warm beer with butter, Will you be my guest for supper?",question,0.278,0.024,0.089,0.278,0.269,0.153,0.186
+448,56_the-wedding-of-mrs-fox,#mrsfox-young_fox,"No, thank you, miss, what is Mrs Fox doing?",question,0.641,0.005,0.076,0.641,0.13,0.051,0.097
+449,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"She is sitting in her room, Moaning in her gloom, Weeping her little eyes quite red, Because old Mr Fox is dead.",statement,0.577,0.017,0.081,0.187,0.577,0.034,0.105
+450,56_the-wedding-of-mrs-fox,#mrsfox-young_fox,"Do just tell her, miss, that a young fox is here, who would like to woo her.",request,0.284,0.242,0.284,0.09,0.237,0.067,0.079
+451,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"Certainly, young sir.",statement,0.448,0.023,0.029,0.051,0.448,0.111,0.338
+452,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"Mistress Fox, are you inside?",question,0.554,0.02,0.087,0.554,0.174,0.031,0.134
+453,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,"Oh, yes, my little cat,",exclamation,0.5,0.027,0.067,0.068,0.29,0.049,0.5
+454,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,A wooer he stands at the door out there.,exclamation,0.563,0.02,0.049,0.066,0.21,0.092,0.563
+455,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,"What does he look like, my dear? Has he nine as beautiful tails as the late Mr Fox?",question,0.655,0.004,0.154,0.655,0.066,0.02,0.101
+456,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"Oh, no, he has only one.",statement,0.341,0.046,0.04,0.107,0.341,0.137,0.329
+457,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,Then I will not have him.,promise/threat,0.346,0.141,0.028,0.098,0.272,0.346,0.115
+458,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,"Now open the gates and doors all wide, And carry old Mr Fox outside.",order,0.351,0.351,0.184,0.06,0.187,0.104,0.115
+459,56_the-wedding-of-mrs-fox,#mrsfox-wolf,"Good day, Mrs Cat of Kehrewit, How comes it that alone you sit? What are you making good?",question,0.451,0.004,0.042,0.451,0.25,0.06,0.194
+460,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"In milk I’m breaking bread so sweet, Will you be my guest, and eat?",question,0.325,0.071,0.238,0.325,0.142,0.094,0.13
+461,56_the-wedding-of-mrs-fox,#mrsfox-wolf,"No, thank you, Mrs Cat, Is Mrs Fox not at home?",question,0.386,0.004,0.052,0.386,0.354,0.051,0.154
+462,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"She sits upstairs in her room, Bewailing her sorrowful doom, Bewailing her trouble so sore, For old Mr Fox is no more.",statement,0.467,0.019,0.04,0.066,0.467,0.041,0.367
+463,56_the-wedding-of-mrs-fox,#mrsfox-wolf,"If she’s in want of a husband now, Then will it please her to step below?",question,0.401,0.05,0.161,0.401,0.24,0.073,0.076
+464,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"Are you within, good Mistress Fox? If you’re in want of a husband now, Then will it please you to step below?",question,0.462,0.057,0.129,0.462,0.228,0.065,0.06
+465,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,"Has the gentleman red stockings on, and has he a pointed mouth?",question,0.698,0.014,0.091,0.698,0.124,0.019,0.054
+466,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"No,",statement,0.459,0.007,0.053,0.056,0.459,0.154,0.271
+467,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,Then he won’t do for me.,statement,0.31,0.042,0.049,0.141,0.31,0.29,0.168
+468,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,"Has the gentleman red stockings on, and has a little pointed mouth?",question,0.7,0.021,0.087,0.7,0.125,0.015,0.052
+469,56_the-wedding-of-mrs-fox,#mrsfox-miss_cat,"Yes, he has.",statement,0.587,0.02,0.018,0.031,0.587,0.072,0.271
+470,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,"Then let him come upstairs,",statement,0.246,0.239,0.19,0.157,0.246,0.051,0.116
+471,56_the-wedding-of-mrs-fox,#mrsfox-mrs_fox,"Sweep me the room as clean as you can, Up with the window, fling out my old man! For many a fine fat mouse he brought, Yet of his wife he never thought, But ate up every one he caught.",promise/threat,0.343,0.23,0.219,0.039,0.069,0.343,0.1
+472,59_king-grisly-beard,#grislybeard-princess,"He’s as round as a tub,",statement,0.386,0.039,0.064,0.15,0.386,0.064,0.297
+473,59_king-grisly-beard,#grislybeard-princess,What a maypole!,exclamation,0.547,0.012,0.012,0.025,0.176,0.228,0.547
+474,59_king-grisly-beard,#grislybeard-princess,What a dumpling!,exclamation,0.674,0.009,0.025,0.069,0.193,0.031,0.674
+475,59_king-grisly-beard,#grislybeard-princess,Wallface.,exclamation,0.355,0.075,0.052,0.049,0.272,0.198,0.355
+476,59_king-grisly-beard,#grislybeard-princess,Coxcomb.,statement,0.343,0.113,0.057,0.088,0.343,0.103,0.297
+477,59_king-grisly-beard,#grislybeard-princess,"Look at him, his beard is like an old mop; he shall be called Grisly-beard.",promise/threat,0.366,0.145,0.048,0.043,0.2,0.366,0.197
+478,59_king-grisly-beard,#grislybeard-old_king,Let him come in.,request,0.363,0.175,0.363,0.119,0.184,0.053,0.106
+479,59_king-grisly-beard,#grislybeard-old_king,"You have sung so well, that I will give you my daughter for your wife.",statement,0.353,0.102,0.058,0.037,0.353,0.347,0.103
+480,59_king-grisly-beard,#grislybeard-old_king,"I have sworn to give you to the first comer, and I will keep my word.",statement,0.389,0.113,0.009,0.015,0.389,0.386,0.087
+481,59_king-grisly-beard,#grislybeard-old_king,Now get ready to go--you must not stay here--you must travel on with your husband.,order,0.291,0.291,0.105,0.05,0.281,0.152,0.122
+482,59_king-grisly-beard,#grislybeard-princess,"Pray, whose is this wood?",request,0.451,0.005,0.451,0.349,0.053,0.037,0.104
+483,59_king-grisly-beard,#grislybeard-king_grisly-beard,"It belongs to King Grisly-beard, hadst thou taken him, all had been thine.",statement,0.273,0.076,0.032,0.169,0.273,0.23,0.219
+484,59_king-grisly-beard,#grislybeard-princess,Ah! unlucky wretch that I am! would that I had married King Grisly-beard!,exclamation,0.574,0.006,0.028,0.125,0.209,0.058,0.574
+485,59_king-grisly-beard,#grislybeard-princess,Whose are these beautiful green meadows?,question,0.637,0.003,0.156,0.637,0.114,0.024,0.066
+486,59_king-grisly-beard,#grislybeard-king_grisly-beard,"They belong to King Grisly-beard, hadst thou taken him, they had all been thine.",statement,0.268,0.097,0.024,0.217,0.268,0.173,0.222
+487,59_king-grisly-beard,#grislybeard-princess,Ah! unlucky wretch that I am! would that I had married King Grisly-beard!,exclamation,0.574,0.006,0.028,0.125,0.209,0.058,0.574
+488,59_king-grisly-beard,#grislybeard-princess,Whose is this noble city?,question,0.556,0.005,0.138,0.556,0.159,0.022,0.12
+489,59_king-grisly-beard,#grislybeard-king_grisly-beard,"It belongs to King Grisly-beard; hadst thou taken him, it had all been thine.",promise/threat,0.275,0.083,0.02,0.181,0.254,0.275,0.186
+490,59_king-grisly-beard,#grislybeard-princess,Ah! wretch that I am! why did I not marry King Grisly-beard?,exclamation,0.364,0.002,0.023,0.333,0.206,0.073,0.364
+491,59_king-grisly-beard,#grislybeard-king_grisly-beard,"That is no business of mine, why should you wish for another husband? Am not I good enough for you?",statement,0.338,0.002,0.046,0.302,0.338,0.033,0.279
+492,59_king-grisly-beard,#grislybeard-princess,What a paltry place! to whom does that little dirty hole belong?,question,0.368,0.012,0.077,0.368,0.215,0.024,0.304
+493,59_king-grisly-beard,#grislybeard-king_grisly-beard,"That is your and my house, where we are to live.",statement,0.343,0.182,0.051,0.023,0.343,0.246,0.156
+494,59_king-grisly-beard,#grislybeard-princess,Where are your servants?,question,0.506,0.042,0.14,0.506,0.176,0.034,0.102
+495,59_king-grisly-beard,#grislybeard-king_grisly-beard,"What do we want with servants? you must do for yourself whatever is to be done. Now make the fire, and put on water and cook my supper, for I am very tired.",question,0.361,0.257,0.047,0.361,0.225,0.049,0.062
+496,59_king-grisly-beard,#grislybeard-king_grisly-beard,"Wife, we can’t go on thus, spending money and earning nothing. You must learn to weave baskets.",statement,0.405,0.149,0.073,0.108,0.405,0.146,0.118
+497,59_king-grisly-beard,#grislybeard-king_grisly-beard,"I see this work won’t do, try and spin; perhaps you will do that better.",statement,0.423,0.125,0.119,0.152,0.423,0.134,0.048
+498,59_king-grisly-beard,#grislybeard-king_grisly-beard,"See now, you are good for nothing; you can do no work: what a bargain I have got! However, I’ll try and set up a trade in pots and pans, and you shall stand in the market and sell them.",statement,0.352,0.055,0.04,0.105,0.352,0.253,0.196
+499,59_king-grisly-beard,#grislybeard-princess,"Alas! if any of my father’s court should pass by and see me standing in the market, how they will laugh at me!",exclamation,0.355,0.028,0.02,0.079,0.246,0.272,0.355
+500,59_king-grisly-beard,#grislybeard-princess,Ah! what will become of me? what will my husband say?,exclamation,0.357,0.001,0.016,0.317,0.143,0.166,0.357
+501,59_king-grisly-beard,#grislybeard-king_grisly-beard,"Who would have thought you would have been so silly, as to put an earthenware stall in the corner of the market, where everybody passes? but let us have no more crying; I see you are not fit for this sort of work, so I have been to the king’s palace, and asked if they did not want a kitchen-maid; and they say they will take you, and there you will have plenty to eat.",statement,0.281,0.145,0.152,0.124,0.281,0.091,0.207
+502,59_king-grisly-beard,#grislybeard-king_grisly-beard,"Fear me not! I am the fiddler who has lived with you in the hut. I brought you there because I really loved you. I am also the soldier that overset your stall. I have done all this only to cure you of your silly pride, and to show you the folly of your ill-treatment of me. Now all is over: you have learnt wisdom, and it is time to hold our marriage feast.",promise/threat,0.279,0.073,0.054,0.1,0.261,0.279,0.233
+503,61_cat-skin,#catskin-queen,"Promise me that you will never marry again, unless you meet with a wife who is as beautiful as I am, and who has golden hair like mine.",request,0.312,0.218,0.312,0.06,0.153,0.21,0.047
+504,61_cat-skin,#catskin-wise_men,"this will not do; the king must marry again, that we may have a queen.",order,0.293,0.293,0.112,0.086,0.282,0.138,0.089
+505,61_cat-skin,#catskin-father_king,"May I not marry my daughter? She is the very image of my dead wife: unless I have her, I shall not find any bride upon the whole earth, and you say there must be a queen.",question,0.346,0.061,0.242,0.346,0.13,0.132,0.089
+506,61_cat-skin,#catskin-courtiers,Heaven forbid that a father should marry his daughter! Out of so great a sin no good can come.,statement,0.315,0.052,0.016,0.177,0.315,0.166,0.275
+507,61_cat-skin,#catskin-cat-skin,"Before I marry anyone I must have three dresses: one must be of gold, like the sun; another must be of shining silver, like the moon; and a third must be dazzling as the stars: besides this, I want a mantle of a thousand different kinds of fur put together, to which every beast in the kingdom must give a part of his skin.",order,0.325,0.325,0.132,0.076,0.18,0.219,0.068
+508,61_cat-skin,#catskin-king,Look sharp!,exclamation,0.314,0.163,0.134,0.014,0.255,0.12,0.314
+509,61_cat-skin,#catskin-king,and see what sort of game lies there.,promise/threat,0.421,0.017,0.066,0.347,0.039,0.421,0.11
+510,61_cat-skin,#catskin-huntsmen,"In the hollow tree there lies a most wonderful beast, such as we never saw before; its skin seems to be of a thousand kinds of fur, but there it lies fast asleep.",statement,0.416,0.113,0.063,0.191,0.416,0.041,0.176
+511,61_cat-skin,#catskin-king,"See, if you can catch it alive, and we will take it with us.",promise/threat,0.408,0.121,0.106,0.146,0.155,0.408,0.064
+512,61_cat-skin,#catskin-cat-skin,I am a poor child that has neither father nor mother left; have pity on me and take me with you.,request,0.437,0.053,0.437,0.162,0.194,0.075,0.079
+513,61_cat-skin,#catskin-huntsmen,"Yes, Miss Cat-skin, you will do for the kitchen; you can sweep up the ashes, and do things of that sort.",statement,0.336,0.233,0.096,0.093,0.336,0.122,0.119
+514,61_cat-skin,#catskin-huntsmen,"Cat-skin, you may lie and sleep there.",exclamation,0.248,0.084,0.17,0.085,0.211,0.202,0.248
+515,61_cat-skin,#catskin-cat-skin,Ah! pretty princess! what will now become of thee?,exclamation,0.353,0.002,0.012,0.316,0.133,0.184,0.353
+516,61_cat-skin,#catskin-cat-skin,May I go up a little while and see what is going on? I will take care and stand behind the door.,request,0.403,0.018,0.403,0.369,0.102,0.056,0.053
+517,61_cat-skin,#catskin-cook,"Yes, you may go, but be back again in half an hour’s time, to rake out the ashes.",statement,0.324,0.157,0.055,0.128,0.324,0.255,0.081
+518,61_cat-skin,#catskin-king,I never saw any one half so beautiful.,statement,0.484,0.032,0.029,0.067,0.484,0.03,0.357
+519,61_cat-skin,#catskin-cook,"Let that alone till the morning, and heat the king’s soup; I should like to run up now and give a peep: but take care you don’t let a hair fall into it, or you will run a chance of never eating again.",promise/threat,0.32,0.168,0.193,0.129,0.126,0.32,0.064
+520,61_cat-skin,#catskin-cook,"You must have let a hair fall into the soup; if it be so, you will have a good beating.",promise/threat,0.279,0.24,0.035,0.13,0.243,0.279,0.073
+521,61_cat-skin,#catskin-cook,"I did,",statement,0.606,0.011,0.007,0.02,0.606,0.042,0.314
+522,61_cat-skin,#catskin-king,That is not true; it was better done than you could do it.,statement,0.488,0.018,0.03,0.07,0.488,0.148,0.246
+523,61_cat-skin,#catskin-cook,"To tell the truth I did not cook it, but Cat-skin did.",statement,0.57,0.019,0.045,0.189,0.57,0.076,0.101
+524,61_cat-skin,#catskin-king,"Then let Cat-skin come up,",request,0.223,0.169,0.223,0.146,0.193,0.125,0.144
+525,61_cat-skin,#catskin-king,Who are you?,question,0.627,0.003,0.108,0.627,0.159,0.01,0.093
+526,61_cat-skin,#catskin-cat-skin,"I am a poor child, that has lost both father and mother.",statement,0.492,0.02,0.099,0.134,0.492,0.074,0.181
+527,61_cat-skin,#catskin-king,How came you in my palace?,question,0.555,0.003,0.102,0.555,0.163,0.028,0.149
+528,61_cat-skin,#catskin-cat-skin,"I am good for nothing, but to be scullion-girl, and to have boots and shoes thrown at my head.",statement,0.364,0.083,0.081,0.07,0.364,0.287,0.115
+529,61_cat-skin,#catskin-king,But how did you get the ring that was in the soup?,question,0.665,0.011,0.128,0.665,0.083,0.026,0.086
+530,61_cat-skin,#catskin-cook,"Yes, but come again in half an hour, and cook the king the soup that he likes so much.",promise/threat,0.375,0.12,0.106,0.099,0.195,0.375,0.105
+531,61_cat-skin,#catskin-cook,"You must be a witch, Cat-skin, for you always put something into your soup, so that it pleases the king better than mine.",statement,0.362,0.038,0.045,0.254,0.362,0.165,0.136
+532,61_cat-skin,#catskin-king,"You are my beloved bride, and we will never more be parted from each other.",statement,0.379,0.068,0.025,0.036,0.379,0.297,0.195
+533,62_snow-white-and-rose-red,#snowwhiterosered-snow-white,"We will not leave each other,",statement,0.365,0.251,0.017,0.033,0.365,0.164,0.17
+534,62_snow-white-and-rose-red,#snowwhiterosered-rose-red,"Never so long as we live,",promise/threat,0.385,0.088,0.035,0.065,0.235,0.385,0.191
+535,62_snow-white-and-rose-red,#snowwhiterosered-mother,What one has she must share with the other.,order,0.335,0.335,0.142,0.087,0.269,0.099,0.068
+536,62_snow-white-and-rose-red,#snowwhiterosered-mother,"Go, Snow-white, and bolt the door,",order,0.311,0.311,0.216,0.075,0.189,0.1,0.109
+537,62_snow-white-and-rose-red,#snowwhiterosered-mother,"Quick, Rose-red, open the door, it must be a traveller who is seeking shelter.",order,0.374,0.374,0.186,0.057,0.093,0.031,0.26
+538,62_snow-white-and-rose-red,#snowwhiterosered-mr_bear,"Do not be afraid, I will do you no harm! I am half-frozen, and only want to warm myself a little beside you.",statement,0.348,0.003,0.046,0.111,0.348,0.194,0.299
+539,62_snow-white-and-rose-red,#snowwhiterosered-mother,"Poor bear, lie down by the fire, only take care that you do not burn your coat. Snow-white, Rose-red, come out, the bear will do you no harm, he means well.",request,0.261,0.174,0.261,0.137,0.126,0.144,0.158
+540,62_snow-white-and-rose-red,#snowwhiterosered-mr_bear,"Here, children, knock the snow out of my coat a little",request,0.353,0.18,0.353,0.053,0.086,0.198,0.129
+541,62_snow-white-and-rose-red,#snowwhiterosered-mr_bear,"Leave me alive, children, Snow-white, Rose-red, Will you beat your wooer dead?",promise/threat,0.26,0.084,0.155,0.18,0.163,0.26,0.159
+542,62_snow-white-and-rose-red,#snowwhiterosered-mother,"You can lie there by the hearth, and then you will be safe from the cold and the bad weather.",statement,0.277,0.145,0.144,0.147,0.277,0.187,0.101
+543,62_snow-white-and-rose-red,#snowwhiterosered-mr_bear,"Now I must go away, and cannot come back for the whole summer.",order,0.298,0.298,0.057,0.053,0.288,0.198,0.106
+544,62_snow-white-and-rose-red,#snowwhiterosered-snow-white,"Where are you going, then, dear bear?",question,0.608,0.006,0.061,0.608,0.137,0.049,0.139
+545,62_snow-white-and-rose-red,#snowwhiterosered-mr_bear,"I must go into the forest and guard my treasures from the wicked dwarfs. In the winter, when the earth is frozen hard, they are obliged to stay below and cannot work their way through; but now, when the sun has thawed and warmed the earth, they break through it, and come out to pry and steal; and what once gets into their hands, and in their caves, does not easily see daylight again.",order,0.402,0.402,0.132,0.103,0.094,0.213,0.055
+546,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,Why do you stand there? Can you not come here and help me?,question,0.403,0.017,0.193,0.403,0.247,0.021,0.12
+547,62_snow-white-and-rose-red,#snowwhiterosered-rose-red,"What are you up to, little man?",question,0.637,0.003,0.084,0.637,0.117,0.039,0.121
+548,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,"You stupid, prying goose! I was going to split the tree to get a little wood for cooking. The little bit of food that we people get is immediately burnt up with heavy logs; we do not swallow so much as you coarse, greedy folk. I had just driven the wedge safely in, and everything was going as I wished; but the cursed wedge was too smooth and suddenly sprang out, and the tree closed so quickly that I could not pull out my beautiful white beard; so now it is tight and I cannot get away, and the silly, sleek, milk-faced things laugh! Ugh! how odious you are!",exclamation,0.515,0.039,0.052,0.152,0.163,0.08,0.515
+549,62_snow-white-and-rose-red,#snowwhiterosered-rose-red,"I will run and fetch someone,",statement,0.279,0.149,0.072,0.044,0.279,0.266,0.189
+550,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,You senseless goose! why should you fetch someone? You are already two too many for me; can you not think of something better?,exclamation,0.403,0.006,0.029,0.231,0.275,0.056,0.403
+551,62_snow-white-and-rose-red,#snowwhiterosered-snow-white,"Don’t be impatient, I will help you,",statement,0.35,0.129,0.136,0.051,0.35,0.154,0.181
+552,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,"Uncouth people, to cut off a piece of my fine beard. Bad luck to you!",promise/threat,0.3,0.116,0.034,0.054,0.266,0.3,0.23
+553,62_snow-white-and-rose-red,#snowwhiterosered-rose-red,Where are you going? you surely don’t want to go into the water?,question,0.577,0.014,0.046,0.577,0.228,0.034,0.102
+554,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,I am not such a fool! don’t you see that the accursed fish wants to pull me in?,statement,0.355,0.009,0.057,0.207,0.355,0.072,0.299
+555,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,"Is that civil, you toadstool, to disfigure a man’s face? Was it not enough to clip off the end of my beard? Now you have cut off the best part of it. I cannot let myself be seen by my people. I wish you had been made to run the soles off your shoes!",question,0.491,0.02,0.052,0.491,0.203,0.058,0.177
+556,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,"Could you not have done it more carefully! You dragged at my brown coat so that it is all torn and full of holes, you clumsy creatures!",exclamation,0.362,0.03,0.073,0.239,0.269,0.027,0.362
+557,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,Why do you stand gaping there?,question,0.597,0.008,0.177,0.597,0.09,0.018,0.11
+558,62_snow-white-and-rose-red,#snowwhiterosered-dwarf,"Dear Mr Bear, spare me, I will give you all my treasures; look, the beautiful jewels lying there! Grant me my life; what do you want with such a slender little fellow as I? you would not feel me between your teeth. Come, take these two wicked girls, they are tender morsels for you, fat as young quails; for mercy’s sake eat them!",request,0.34,0.093,0.34,0.12,0.064,0.206,0.177
+559,62_snow-white-and-rose-red,#snowwhiterosered-mr_bear,"Snow-white and Rose-red, do not be afraid; wait, I will come with you.",statement,0.322,0.01,0.09,0.079,0.322,0.306,0.193
+560,62_snow-white-and-rose-red,#snowwhiterosered-mr_bear,"I am a king’s son, and I was bewitched by that wicked dwarf, who had stolen my treasures; I have had to run about the forest as a savage bear until I was freed by his death. Now he has got his well-deserved punishment.",statement,0.406,0.068,0.041,0.146,0.406,0.139,0.201
