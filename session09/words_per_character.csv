@@ -1,0 +1,140 @@
+tale,character,name,gender,words
+Briar Rose,briarrose-fish,fish,unspecified,24
+Briar Rose,briarrose-queen,queen,female,17
+Briar Rose,briarrose-thirteenth_fairy,thirteenth fairy,female,17
+Briar Rose,briarrose-briar_rose,Briar Rose,female,17
+Briar Rose,briarrose-old_lady,old lady,female,1
+Briar Rose,briarrose-prince,prince,male,14
+The Frog-Prince,frogprince-princess,princess,female,170
+The Frog-Prince,frogprince-frog,frog,male,227
+The Frog-Prince,frogprince-king,king,male,16
+The Frog-Prince,frogprince-heinrich,Heinrich,male,0
+The Goose-Girl,goosegirl-falada,Falada,unspecified,36
+The Goose-Girl,goosegirl-fairy,fairy,female,21
+The Goose-Girl,goosegirl-princess,princess,female,170
+The Goose-Girl,goosegirl-waiting-maid,waiting-maid,female,151
+The Goose-Girl,goosegirl-lock_of_hair,lock of hair,unspecified,26
+The Goose-Girl,goosegirl-old_king,old king,male,33
+The Goose-Girl,goosegirl-curdken,Curdken,male,85
+The Goose-Girl,goosegirl-prince,prince,male,3
+Rapunzel,rapunzel-husband,husband,male,72
+Rapunzel,rapunzel-wife,wife,female,20
+Rapunzel,rapunzel-dame_gothel,Dame Gothel,female,158
+Rapunzel,rapunzel-rapunzel,Rapunzel,female,92
+Rapunzel,rapunzel-kings_son,kings son,male,31
+Hansel and Gretel,hanselgretel-hansel,Hansel,male,212
+Hansel and Gretel,hanselgretel-gretel,Gretel,female,150
+Hansel and Gretel,hanselgretel-father,father,male,129
+Hansel and Gretel,hanselgretel-stepmother,stepmother,female,295
+Hansel and Gretel,hanselgretel-witch,witch,female,176
+Mother Holle,motherholle-industrious_girl,Cinderella,female,26
+Mother Holle,motherholle-stepmother,stepmother,female,18
+Mother Holle,motherholle-loaves,loaves,unspecified,42
+Mother Holle,motherholle-apple_tree,apple tree,unspecified,26
+Mother Holle,motherholle-mother_holle,Mother Holle,female,118
+Mother Holle,motherholle-cock,cock,male,16
+Mother Holle,motherholle-lazy_girl,lazy girl,female,35
+Little Red-Cap,redcap-little_red-cap,Little Red-Cap,female,179
+Little Red-Cap,redcap-mother,mother,female,90
+Little Red-Cap,redcap-wolf,wolf,male,144
+Little Red-Cap,redcap-grandmother,grandmother,female,47
+Little Red-Cap,redcap-huntsman,huntsman,male,27
+Little Red-Cap,redcap-second_wolf,second wolf,male,14
+The Robber Bridegroom,robber-miller,miller,male,16
+The Robber Bridegroom,robber-bridegroom,bridegroom,male,97
+The Robber Bridegroom,robber-millers_daughter,millers daughter,female,288
+The Robber Bridegroom,robber-bird,bird,unspecified,26
+The Robber Bridegroom,robber-old_woman,old woman,female,159
+The Robber Bridegroom,robber-robber,robber,male,7
+The Robber Bridegroom,robber-robbers,robbers,male,5
+Rumpelstiltskin,rumpelstiltskin-king,king,male,29
+Rumpelstiltskin,rumpelstiltskin-rumpelstiltskin,Rumpelstiltskin,male,147
+Rumpelstiltskin,rumpelstiltskin-millers_daughter,millers daughter,female,42
+Rumpelstiltskin,rumpelstiltskin-messenger,messenger,unspecified,96
+Rumpelstiltskin,rumpelstiltskin-court,court,unspecified,13
+Clever Gretel,clevergretel-gretel,Gretel,female,322
+Clever Gretel,clevergretel-master,master,male,63
+Sweetheart Roland,roland-witch,witch,female,87
+Sweetheart Roland,roland-roland,Roland,male,56
+Sweetheart Roland,roland-maiden,maiden,female,74
+Sweetheart Roland,roland-first_drop_of_blood,first drop of blood,unspecified,7
+Sweetheart Roland,roland-second_drop_of_blood,second drop of blood,unspecified,8
+Sweetheart Roland,roland-third_drop_of_blood,third drop of blood,unspecified,8
+Sweetheart Roland,roland-wise_woman,wise woman,female,41
+Snowdrop,snowdrop-queen,queen,female,24
+Snowdrop,snowdrop-snowdrop,Snowdrop,female,54
+Snowdrop,snowdrop-stepmother_queen,stepmother queen,female,185
+Snowdrop,snowdrop-looking-glass,looking-glass,unspecified,127
+Snowdrop,snowdrop-servant,servant,male,8
+Snowdrop,snowdrop-first_dwarf,first dwarf,male,14
+Snowdrop,snowdrop-second_dwarf,second dwarf,male,7
+Snowdrop,snowdrop-third_dwarf,third dwarf,male,6
+Snowdrop,snowdrop-fourth_dwarf,fourth dwarf,male,7
+Snowdrop,snowdrop-fifth_dwarf,fifth dwarf,male,6
+Snowdrop,snowdrop-sixth_dwarf,sixth dwarf,male,7
+Snowdrop,snowdrop-seventh_dwarf,seventh dwarf,male,6
+Snowdrop,snowdrop-dwarfs,dwarfs,male,67
+Snowdrop,snowdrop-prince,prince,male,29
+Clever Elsie,cleverelsie-clever_elsie,Clever Elsie,female,245
+Clever Elsie,cleverelsie-father,father,male,54
+Clever Elsie,cleverelsie-mother,mother,female,51
+Clever Elsie,cleverelsie-hans,Hans,male,106
+Clever Elsie,cleverelsie-maid,maid,female,11
+Clever Elsie,cleverelsie-boy,boy,male,10
+Ashputtel,ashputtel-mother,mother,female,16
+Ashputtel,ashputtel-stepsisters,stepsisters,female,44
+Ashputtel,ashputtel-ashputtel,Ashputtel,female,106
+Ashputtel,ashputtel-first_stepsister,first stepsister,female,2
+Ashputtel,ashputtel-second_stepsister,second stepsister,female,3
+Ashputtel,ashputtel-father,father,male,33
+Ashputtel,ashputtel-stepmother,stepmother,female,149
+Ashputtel,ashputtel-kings_son,kings son,male,101
+Ashputtel,ashputtel-dove,dove,unspecified,102
+The Wolf and the Seven Little Kids,wolfkids-mother_goat,mother goat,female,93
+The Wolf and the Seven Little Kids,wolfkids-kids,kids,unspecified,84
+The Wolf and the Seven Little Kids,wolfkids-wolf,wolf,male,117
+The Wolf and the Seven Little Kids,wolfkids-miller,miller,male,6
+The Wolf and the Seven Little Kids,wolfkids-youngest_kid,youngest kid,unspecified,7
+Lily and the Lion,lilylion-lily,Lily,female,229
+Lily and the Lion,lilylion-father,father,male,76
+Lily and the Lion,lilylion-lion_prince,lion prince,male,160
+Lily and the Lion,lilylion-servant,servant,unspecified,10
+Lily and the Lion,lilylion-sun,sun,unspecified,21
+Lily and the Lion,lilylion-moon,moon,unspecified,17
+Lily and the Lion,lilylion-night-wind,night-wind,unspecified,177
+Lily and the Lion,lilylion-south_wind,south wind,unspecified,50
+The Twelve Huntsmen,twelvehuntsmen-king,king,male,93
+The Twelve Huntsmen,twelvehuntsmen-old_king,old king,male,19
+The Twelve Huntsmen,twelvehuntsmen-brides_father,brides father,male,22
+The Twelve Huntsmen,twelvehuntsmen-kings_daughter,kings daughter,female,35
+The Twelve Huntsmen,twelvehuntsmen-lion,lion,male,109
+The Twelve Huntsmen,twelvehuntsmen-servant,servant,male,12
+The Seven Ravens,sevenravens-father,father,male,13
+The Seven Ravens,sevenravens-people,people,unspecified,20
+The Seven Ravens,sevenravens-moon,moon,unspecified,7
+The Seven Ravens,sevenravens-morning_star,morning star,male,24
+The Seven Ravens,sevenravens-dwarf,dwarf,male,26
+The Seven Ravens,sevenravens-little_sister,little sister,female,8
+The Seven Ravens,sevenravens-ravens,ravens,male,28
+The Seven Ravens,sevenravens-seventh_raven,seventh raven,male,13
+The Wedding of Mrs Fox,mrsfox-mrs_fox,Mrs Fox,female,118
+The Wedding of Mrs Fox,mrsfox-miss_cat,Miss Cat,female,135
+The Wedding of Mrs Fox,mrsfox-young_fox,young fox,male,40
+The Wedding of Mrs Fox,mrsfox-mr_fox,Mr Fox,male,0
+The Wedding of Mrs Fox,mrsfox-wolf,wolf,male,45
+King Grisly-Beard,grislybeard-princess,princess,female,133
+King Grisly-Beard,grislybeard-king_grisly-beard,Grisly-beard,male,326
+King Grisly-Beard,grislybeard-old_king,old king,male,52
+Cat-Skin,catskin-queen,queen,female,28
+Cat-Skin,catskin-wise_men,wise men,male,15
+Cat-Skin,catskin-father_king,father king,male,37
+Cat-Skin,catskin-courtiers,courtiers,unspecified,19
+Cat-Skin,catskin-cat-skin,Miss Cat-skin,female,147
+Cat-Skin,catskin-king,king,male,86
+Cat-Skin,catskin-huntsmen,huntsmen,male,61
+Cat-Skin,catskin-cook,cook,male,137
+Snow-White and Rose-Red,snowwhiterosered-snow-white,Snow-white,female,20
+Snow-White and Rose-Red,snowwhiterosered-rose-red,Rose-red,female,32
+Snow-White and Rose-Red,snowwhiterosered-mother,mother,female,80
+Snow-White and Rose-Red,snowwhiterosered-mr_bear,Mr Bear,male,190
+Snow-White and Rose-Red,snowwhiterosered-dwarf,dwarf,male,328
